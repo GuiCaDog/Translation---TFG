@@ -1,8 +1,0 @@
-\babel@toc {nil}{}\relax 
-\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
-\contentsline {section}{\numberline {2}Data}{7}{section.2}%
-\contentsline {section}{\numberline {3}CERN News Corpus}{9}{section.3}%
-\contentsline {section}{\numberline {4}Offline systems}{10}{section.4}%
-\contentsline {section}{\numberline {5}Domain Adaptation}{13}{section.5}%
-\contentsline {section}{\numberline {6}Streaming MT}{16}{section.6}%
-\contentsline {section}{\numberline {7}Conclusions}{20}{section.7}%
