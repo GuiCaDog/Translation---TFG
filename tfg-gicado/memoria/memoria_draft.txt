@@ -1,0 +1,49 @@
+-------------------First System--------------------
+en->es 
+Download data
+Europarl-ST 1.18 M phrases
+/home/gicado/tfg/mt_systems/enes_toy/data/Europarl-ST/en/es/
+
+Preprocess sets train, dev, test (moses scripts)
+-Tokenize 
+-(tokenize &) truecase
+/home/gicado/tfg/mt_systems/enes_toy/data/Europarl-ST/prep1_truec.sh 
+-Subword 
+/home/gicado/tfg/mt_systems/enes_toy/data/Europarl-ST/prep2_bpe.sh 
+
+Train (fairseq)
+-Create python environment
+/home/gicado/trabajo/env/venv_py3.6_PyTorch1.4_fairseq-0.9.0-firstModel_CUDA10.0/bin/activate
+-Prepare binary files 
+/home/gicado/tfg/mt_systems/fairSeq/prepare_data_fairseq.sh
+/home/gicado/tfg/mt_systems/enes_toy/data/Europarl-ST/en/es/fairseq_prepared_data
+-Training (transformer arch)
+/home/gicado/tfg/mt_systems/fairSeq/train_model_fairseq_BASE.sh
+/home/gicado/tfg/mt_systems/fairSeq/saved_folder
+
+Inference
+-Hipotesis with best_checkpoint 
+/home/gicado/tfg/mt_systems/enes_toy/inference/infer_fairseq.sh
+/home/gicado/tfg/mt_systems/enes_toy/inference/infer_out
+-Hipotesis with avg checkpoints
+/home/gicado/tfg/mt_systems/enes_toy/inference/average_checkpoints_and_overwrite_best.sh
+
+-Generate hipotesis for polimedia dev,test
+
+Evaluation (sacreBLEU)
+-{undo bpe, detruecase, detokenize} dev & test hypotheses (moses scripts)
+-Compute BLEU for EUROPARL dev,test refs with sacreBLEU
+/home/gicado/tfg/mt_systems/enes_toy/evaluation/compute_bleu_detokedREF.sh
+-Compare results with checkpoint averaging
+
+-Compute BLEU for dev,test POLIMEDIA refs
+/scratch/translectures/data/pm/data-smt-raw/pmid.dev.{en/es}
+/scratch/translectures/data/pm/data-smt-raw/pmid.test.{en/es}
+-Preprocess again with learnt bpe
+/home/gicado/tfg/mt_systems/enes_toy/data/tok_truec_bpe_pmid.sh
+/home/gicado/tfg/mt_systems/enes_toy/data/{pmid.dev.tok.truec.bpe.en, pmid.test.tok.truec.bpe.en}
+-Infer hypotheses 
+/home/gicado/tfg/mt_systems/enes_toy/inference/infer_fairseq.sh
+/tfg/mt_systems/enes_toy/inference/infer_out{pmid.dev.tok.truec.bpe.avg.hyp.es, pmid.dev.tok.truec.bpe.hyp.es, pmid.test.tok.truec.bpe.avg.hyp.es, pmid.test.tok.truec.bpe.hyp.es}
+-Compute Bleu
+/home/gicado/tfg/mt_systems/enes_toy/evaluation/{bleu_pmid_avg.log, compute_bleu_pmid.sh, bleu_pmid.log, bleu_pmid_avg.log}

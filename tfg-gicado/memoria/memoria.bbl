@@ -1,0 +1,428 @@
+\begin{thebibliography}{10}
+
+\bibitem{https://doi.org/10.48550/arxiv.1803.08375}
+Abien~Fred Agarap.
+\newblock Deep learning using rectified linear units (relu), 2018.
+
+\bibitem{anastasopoulos-etal-2022-findings}
+Antonios Anastasopoulos, Lo{\"\i}c Barrault, Luisa Bentivogli, Marcely
+  Zanon~Boito, Ond{\v{r}}ej Bojar, Roldano Cattoni, Anna Currey, Georgiana
+  Dinu, Kevin Duh, Maha Elbayad, Clara Emmanuel, Yannick Est{\`e}ve, Marcello
+  Federico, Christian Federmann, Souhir Gahbiche, Hongyu Gong, Roman
+  Grundkiewicz, Barry Haddow, Benjamin Hsu, D{\'a}vid Javorsk{\'y}, V{\u{e}}ra
+  Kloudov{\'a}, Surafel Lakew, Xutai Ma, Prashant Mathur, Paul McNamee, Kenton
+  Murray, Maria N{\v{a}}dejde, Satoshi Nakamura, Matteo Negri, Jan Niehues,
+  Xing Niu, John Ortega, Juan Pino, Elizabeth Salesky, Jiatong Shi, Matthias
+  Sperber, Sebastian St{\"u}ker, Katsuhito Sudoh, Marco Turchi, Yogesh Virkar,
+  Alexander Waibel, Changhan Wang, and Shinji Watanabe.
+\newblock Findings of the {IWSLT} 2022 evaluation campaign.
+\newblock In {\em Proceedings of the 19th International Conference on Spoken
+  Language Translation (IWSLT 2022)}, pages 98--157, Dublin, Ireland (in-person
+  and online), May 2022. Association for Computational Linguistics.
+
+\bibitem{aulamo-tiedemann-2019-opus}
+Mikko Aulamo and J{\"o}rg Tiedemann.
+\newblock The {OPUS} resource repository: An open package for creating parallel
+  corpora and machine translation services.
+\newblock In {\em Proceedings of the 22nd Nordic Conference on Computational
+  Linguistics}, pages 389--394, Turku, Finland, September{--}October 2019.
+  Link{\"o}ping University Electronic Press.
+
+\bibitem{ARTS:LayNor}
+Lei~Jimmy Ba, Ryan Kiros, and Geoffrey~E. Hinton.
+\newblock Layer normalization.
+\newblock {\em CoRR}, abs/1607.06450, 2016.
+
+\bibitem{https://doi.org/10.48550/arxiv.1409.0473}
+Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio.
+\newblock Neural machine translation by jointly learning to align and
+  translate, 2014.
+
+\bibitem{banon-etal-2020-paracrawl}
+Marta Ba{\~n}{\'o}n, Pinzhen Chen, Barry Haddow, Kenneth Heafield, Hieu Hoang,
+  Miquel Espl{\`a}-Gomis, Mikel~L. Forcada, Amir Kamran, Faheem Kirefu, Philipp
+  Koehn, Sergio Ortiz~Rojas, Leopoldo Pla~Sempere, Gema
+  Ram{\'\i}rez-S{\'a}nchez, Elsa Sarr{\'\i}as, Marek Strelec, Brian Thompson,
+  William Waites, Dion Wiggins, and Jaume Zaragoza.
+\newblock {P}ara{C}rawl: Web-scale acquisition of parallel corpora.
+\newblock In {\em Proceedings of the 58th Annual Meeting of the Association for
+  Computational Linguistics}, pages 4555--4567, Online, July 2020. Association
+  for Computational Linguistics.
+
+\bibitem{braune-fraser-2010-improved}
+Fabienne Braune and Alexander Fraser.
+\newblock Improved unsupervised sentence alignment for symmetrical and
+  asymmetrical parallel corpora.
+\newblock In {\em Coling 2010: Posters}, pages 81--89, Beijing, China, August
+  2010. Coling 2010 Organizing Committee.
+
+\bibitem{BRODER19971157}
+Andrei~Z. Broder, Steven~C. Glassman, Mark~S. Manasse, and Geoffrey Zweig.
+\newblock Syntactic clustering of the web.
+\newblock {\em Computer Networks and ISDN Systems}, 29(8):1157--1166, 1997.
+\newblock Papers from the Sixth International World Wide Web Conference.
+
+\bibitem{brown1990statistical}
+Peter~F Brown, John Cocke, Stephen A~Della Pietra, Vincent J~Della Pietra,
+  Fredrick Jelinek, John~D Lafferty, Robert~L Mercer, and Paul~S Roossin.
+\newblock A statistical approach to machine translation.
+\newblock {\em Computational linguistics}, 16(2):79--85, 1990.
+
+\bibitem{https://doi.org/10.48550/arxiv.2005.14165}
+Tom~B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan,
+  Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda
+  Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan,
+  Rewon Child, Aditya Ramesh, Daniel~M. Ziegler, Jeffrey Wu, Clemens Winter,
+  Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray,
+  Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford,
+  Ilya Sutskever, and Dario Amodei.
+\newblock Language models are few-shot learners, 2020.
+
+\bibitem{https://doi.org/10.48550/arxiv.1710.03282}
+Hugh Chen, Scott Lundberg, and Su-In Lee.
+\newblock Checkpoint ensembles: Ensemble methods from a single training
+  process, 2017.
+
+\bibitem{DBLP:journals/corr/abs-1906-00048}
+Colin Cherry and George~F. Foster.
+\newblock Thinking slow about latency evaluation for simultaneous machine
+  translation.
+\newblock {\em CoRR}, abs/1906.00048, 2019.
+
+\bibitem{DBLP:journals/corr/ChoE16}
+Kyunghyun Cho and Masha Esipova.
+\newblock Can neural machine translation do simultaneous translation?
+\newblock {\em CoRR}, abs/1606.02012, 2016.
+
+\bibitem{cho-etal-2014-learning}
+Kyunghyun Cho, Bart van Merri{\"e}nboer, Caglar Gulcehre, Dzmitry Bahdanau,
+  Fethi Bougares, Holger Schwenk, and Yoshua Bengio.
+\newblock Learning phrase representations using {RNN} encoder{--}decoder for
+  statistical machine translation.
+\newblock In {\em Proceedings of the 2014 Conference on Empirical Methods in
+  Natural Language Processing ({EMNLP})}, pages 1724--1734, Doha, Qatar,
+  October 2014. Association for Computational Linguistics.
+
+\bibitem{doi:10.1177/117693510600200030}
+Joseph~A. Cruz and David~S. Wishart.
+\newblock Applications of machine learning in cancer prediction and prognosis.
+\newblock {\em Cancer Informatics}, 2:117693510600200030, 2006.
+
+\bibitem{dahl2011large}
+George~E Dahl, Dong Yu, Li~Deng, and Alex Acero.
+\newblock Large vocabulary continuous speech recognition with context-dependent
+  dbn-hmms.
+\newblock In {\em 2011 IEEE international conference on acoustics, speech and
+  signal processing (ICASSP)}, pages 4688--4691. IEEE, 2011.
+
+\bibitem{DEMP1977}
+A.~P. Dempster, N.~M. Laird, and D.~B. Rubin.
+\newblock Maximum likelihood from incomplete data via the {EM} algorithm.
+\newblock {\em Journal of the Royal Statistical Society: Series B}, 39:1--38,
+  1977.
+
+\bibitem{https://doi.org/10.48550/arxiv.1810.04805}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding, 2018.
+
+\bibitem{DBLP:journals/corr/abs-1808-09381}
+Sergey Edunov, Myle Ott, Michael Auli, and David Grangier.
+\newblock Understanding back-translation at scale.
+\newblock {\em CoRR}, abs/1808.09381, 2018.
+
+\bibitem{el-kishky-etal-2020-ccaligned}
+Ahmed El-Kishky, Vishrav Chaudhary, Francisco Guzm{\'a}n, and Philipp Koehn.
+\newblock {CCA}ligned: A massive collection of cross-lingual web-document
+  pairs.
+\newblock In {\em Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pages 5960--5969, Online, November
+  2020. Association for Computational Linguistics.
+
+\bibitem{DBLP:journals/corr/abs-2005-08595}
+Maha Elbayad, Laurent Besacier, and Jakob Verbeek.
+\newblock Efficient wait-k models for simultaneous machine translation.
+\newblock {\em CoRR}, abs/2005.08595, 2020.
+
+\bibitem{10.5555/177910.177914}
+Philip Gage.
+\newblock A new algorithm for data compression.
+\newblock {\em C Users J.}, 12(2):23–38, feb 1994.
+
+\bibitem{hunalignBook}
+Péter Halácsy, Andras Kornai, Viktor Nagy, László Németh, and Viktor
+  Trón.
+\newblock {\em Parallel corpora for medium density languages}, pages 247--258.
+\newblock 01 2007.
+
+\bibitem{7780459}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em 2016 IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, pages 770--778, 2016.
+
+\bibitem{hochreiter1997long}
+Sepp Hochreiter and J{\"u}rgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural computation}, 9(8):1735--1780, 1997.
+
+\bibitem{DBLP:journals/corr/abs-1801-06146}
+Jeremy Howard and Sebastian Ruder.
+\newblock Fine-tuned language models for text classification.
+\newblock {\em CoRR}, abs/1801.06146, 2018.
+
+\bibitem{DBLP:journals/corr/abs-1911-03167}
+Javier Iranzo{-}S{\'{a}}nchez, Joan~Albert Silvestre{-}Cerd{\`{a}}, Javier
+  Jorge, Nahuel Rosell{\'{o}}, Adri{\`{a}} Gim{\'{e}}nez, Albert
+  Sanch{\'{\i}}s, Jorge Civera, and Alfons Juan.
+\newblock Europarl-st: {A} multilingual corpus for speech translation of
+  parliamentary debates.
+\newblock {\em CoRR}, abs/1911.03167, 2019.
+
+\bibitem{https://doi.org/10.48550/arxiv.2203.02459}
+Javier Iranzo-Sánchez, Jorge Civera, and Alfons Juan.
+\newblock From simultaneous to streaming machine translation by leveraging
+  streaming history, 2022.
+
+\bibitem{Jumper2021HighlyAP}
+John~M. Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov,
+  Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Z{\'i}dek,
+  Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A~A Kohl, Andy Ballard,
+  Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain,
+  Jonas Adler, Trevor Back, Stig Petersen, David~A. Reiman, Ellen Clancy,
+  Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer,
+  Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew~W. Senior, Koray
+  Kavukcuoglu, Pushmeet Kohli, and Demis Hassabis.
+\newblock Highly accurate protein structure prediction with alphafold.
+\newblock {\em Nature}, 596:583 -- 589, 2021.
+
+\bibitem{https://doi.org/10.48550/arxiv.1412.6980}
+Diederik~P. Kingma and Jimmy Ba.
+\newblock Adam: A method for stochastic optimization, 2014.
+
+\bibitem{koehn-2005-europarl}
+Philipp Koehn.
+\newblock {E}uroparl: A parallel corpus for statistical machine translation.
+\newblock In {\em Proceedings of Machine Translation Summit X: Papers}, pages
+  79--86, Phuket, Thailand, September 13-15 2005.
+
+\bibitem{koehn2020neural}
+Philipp Koehn.
+\newblock {\em Neural machine translation}.
+\newblock Cambridge University Press, 2020.
+
+\bibitem{koehn-etal-2007-moses}
+Philipp Koehn, Hieu Hoang, Alexandra Birch, Chris Callison-Burch, Marcello
+  Federico, Nicola Bertoldi, Brooke Cowan, Wade Shen, Christine Moran, Richard
+  Zens, Chris Dyer, Ond{\v{r}}ej Bojar, Alexandra Constantin, and Evan Herbst.
+\newblock {M}oses: Open source toolkit for statistical machine translation.
+\newblock In {\em Proceedings of the 45th Annual Meeting of the Association for
+  Computational Linguistics Companion Volume Proceedings of the Demo and Poster
+  Sessions}, pages 177--180, Prague, Czech Republic, June 2007. Association for
+  Computational Linguistics.
+
+\bibitem{koehn2003statistical}
+Philipp Koehn, Franz~Josef Och, and Daniel Marcu.
+\newblock Statistical phrase-based translation.
+\newblock In {\em Proceedings of the 2003 Conference of the North American
+  Chapter of the Association for Computational Linguistics on Human Language
+  Technology-Volume 1}, pages 48--54. Association for Computational
+  Linguistics, 2003.
+
+\bibitem{10.5555/2999134.2999257}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E. Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Proceedings of the 25th International Conference on Neural
+  Information Processing Systems - Volume 1}, NIPS'12, page 1097–1105, Red
+  Hook, NY, USA, 2012. Curran Associates Inc.
+
+\bibitem{https://doi.org/10.48550/arxiv.1808.06226}
+Taku Kudo and John Richardson.
+\newblock Sentencepiece: A simple and language independent subword tokenizer
+  and detokenizer for neural text processing, 2018.
+
+\bibitem{ma-etal-2019-stacl}
+Mingbo Ma, Liang Huang, Hao Xiong, Renjie Zheng, Kaibo Liu, Baigong Zheng,
+  Chuanqiang Zhang, Zhongjun He, Hairong Liu, Xing Li, Hua Wu, and Haifeng
+  Wang.
+\newblock {STACL}: Simultaneous translation with implicit anticipation and
+  controllable latency using prefix-to-prefix framework.
+\newblock In {\em Proceedings of the 57th Annual Meeting of the Association for
+  Computational Linguistics}, pages 3025--3036, Florence, Italy, July 2019.
+  Association for Computational Linguistics.
+
+\bibitem{minsky69perceptrons}
+Marvin Minsky and Seymour Papert.
+\newblock {\em Perceptrons: An Introduction to Computational Geometry}.
+\newblock MIT Press, Cambridge, MA, USA, 1969.
+
+\bibitem{BookTM}
+Tom~M. Mitchell.
+\newblock {\em Machine Learning}.
+\newblock New York: McGraw Hill, 1997.
+
+\bibitem{pml1Book}
+Kevin~P. Murphy.
+\newblock {\em Probabilistic Machine Learning: An introduction}.
+\newblock MIT Press, 2022.
+
+\bibitem{ott-etal-2019-fairseq}
+Myle Ott, Sergey Edunov, Alexei Baevski, Angela Fan, Sam Gross, Nathan Ng,
+  David Grangier, and Michael Auli.
+\newblock fairseq: A fast, extensible toolkit for sequence modeling.
+\newblock In {\em Proceedings of the 2019 Conference of the North {A}merican
+  Chapter of the Association for Computational Linguistics (Demonstrations)},
+  pages 48--53, Minneapolis, Minnesota, June 2019. Association for
+  Computational Linguistics.
+
+\bibitem{DBLP:journals/corr/abs-1806-00187}
+Myle Ott, Sergey Edunov, David Grangier, and Michael Auli.
+\newblock Scaling neural machine translation.
+\newblock {\em CoRR}, abs/1806.00187, 2018.
+
+\bibitem{papineni-etal-2002-bleu}
+Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu.
+\newblock {B}leu: a method for automatic evaluation of machine translation.
+\newblock In {\em Proceedings of the 40th Annual Meeting of the Association for
+  Computational Linguistics}, pages 311--318, Philadelphia, Pennsylvania, USA,
+  July 2002. Association for Computational Linguistics.
+
+\bibitem{press-wolf-2017-using}
+Ofir Press and Lior Wolf.
+\newblock Using the output embedding to improve language models.
+\newblock In {\em Proceedings of the 15th Conference of the {E}uropean Chapter
+  of the Association for Computational Linguistics: Volume 2, Short Papers},
+  pages 157--163, Valencia, Spain, April 2017. Association for Computational
+  Linguistics.
+
+\bibitem{https://doi.org/10.48550/arxiv.1910.10683}
+Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael
+  Matena, Yanqi Zhou, Wei Li, and Peter~J. Liu.
+\newblock Exploring the limits of transfer learning with a unified text-to-text
+  transformer, 2019.
+
+\bibitem{https://doi.org/10.48550/arxiv.2204.06125}
+Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, and Mark Chen.
+\newblock Hierarchical text-conditional image generation with clip latents,
+  2022.
+
+\bibitem{DBLP:journals/corr/abs-1803-10082}
+Sylvestre{-}Alvise Rebuffi, Hakan Bilen, and Andrea Vedaldi.
+\newblock Efficient parametrization of multi-domain deep neural networks.
+\newblock {\em CoRR}, abs/1803.10082, 2018.
+
+\bibitem{rosenblatt1958perceptron}
+Frank Rosenblatt.
+\newblock The perceptron: a probabilistic model for information storage and
+  organization in the brain.
+\newblock {\em Psychological review}, 65(6):386, 1958.
+
+\bibitem{rumelhart1986learning}
+David~E Rumelhart, Geoffrey~E Hinton, and Ronald~J Williams.
+\newblock Learning representations by back-propagating errors.
+\newblock {\em Nature}, 323(6088):533, 1986.
+
+\bibitem{650093}
+M.~Schuster and K.K. Paliwal.
+\newblock Bidirectional recurrent neural networks.
+\newblock {\em IEEE Transactions on Signal Processing}, 45(11):2673--2681,
+  1997.
+
+\bibitem{DBLP:journals/corr/abs-1907-05791}
+Holger Schwenk, Vishrav Chaudhary, Shuo Sun, Hongyu Gong, and Francisco
+  Guzm{\'{a}}n.
+\newblock Wikimatrix: Mining 135m parallel sentences in 1620 language pairs
+  from wikipedia.
+\newblock {\em CoRR}, abs/1907.05791, 2019.
+
+\bibitem{DBLP:journals/corr/SennrichHB15a}
+Rico Sennrich, Barry Haddow, and Alexandra Birch.
+\newblock Improving neural machine translation models with monolingual data.
+\newblock {\em CoRR}, abs/1511.06709, 2015.
+
+\bibitem{DBLP:journals/corr/SennrichHB15}
+Rico Sennrich, Barry Haddow, and Alexandra Birch.
+\newblock Neural machine translation of rare words with subword units.
+\newblock {\em CoRR}, abs/1508.07909, 2015.
+
+\bibitem{skadins-etal-2014-billions}
+Raivis Skadi{\c{n}}{\v{s}}, J{\"o}rg Tiedemann, Roberts Rozis, and Daiga
+  Deksne.
+\newblock Billions of parallel words for free: Building and using the {EU}
+  bookshop corpus.
+\newblock In {\em Proceedings of the Ninth International Conference on Language
+  Resources and Evaluation ({LREC}'14)}, pages 1850--1855, Reykjavik, Iceland,
+  May 2014. European Language Resources Association (ELRA).
+
+\bibitem{specia-etal-2009-improving}
+Lucia Specia, Marco Turqui, Zhuoran Wang, John Shawe-Taylor, and Craig
+  Saunders.
+\newblock Improving the confidence of machine translation quality estimates.
+\newblock In {\em Proceedings of Machine Translation Summit XII: Papers},
+  Ottawa, Canada, August 26-30 2009.
+
+\bibitem{JMLR:v15:srivastava14a}
+Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
+  Salakhutdinov.
+\newblock Dropout: A simple way to prevent neural networks from overfitting.
+\newblock {\em Journal of Machine Learning Research}, 15(56):1929--1958, 2014.
+
+\bibitem{DBLP:journals/corr/SteinbergerEKPS13}
+Ralf Steinberger, Andreas Eisele, Szymon Klocek, Spyridon Pilos, and Patrick
+  Schl{\"{u}}ter.
+\newblock {DGT-TM:} {A} freely available translation memory in 22 languages.
+\newblock {\em CoRR}, abs/1309.5226, 2013.
+
+\bibitem{DBLP:journals/corr/SzegedyVISW15}
+Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, and
+  Zbigniew Wojna.
+\newblock Rethinking the inception architecture for computer vision.
+\newblock {\em CoRR}, abs/1512.00567, 2015.
+
+\bibitem{tiedemann-2012-parallel}
+J{\"o}rg Tiedemann.
+\newblock Parallel data, tools and interfaces in {OPUS}.
+\newblock In {\em Proceedings of the Eighth International Conference on
+  Language Resources and Evaluation ({LREC}'12)}, pages 2214--2218, Istanbul,
+  Turkey, May 2012. European Language Resources Association (ELRA).
+
+\bibitem{TIEDEMANN12.463}
+Jörg Tiedemann.
+\newblock Parallel data, tools and interfaces in opus.
+\newblock In Nicoletta Calzolari~(Conference Chair), Khalid Choukri, Thierry
+  Declerck, Mehmet~Ugur Dogan, Bente Maegaard, Joseph Mariani, Jan Odijk, and
+  Stelios Piperidis, editors, {\em Proceedings of the Eight International
+  Conference on Language Resources and Evaluation (LREC'12)}, Istanbul, Turkey,
+  may 2012. European Language Resources Association (ELRA).
+
+\bibitem{https://doi.org/10.48550/arxiv.1706.03762}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need, 2017.
+
+\bibitem{https://doi.org/10.48550/arxiv.2102.07109}
+Günther Waxenegger-Wilfing, Kai Dresia, Jan Deeken, and Michael Oschwald.
+\newblock Machine learning methods for the design and operation of liquid
+  rocket engines -- research activities at the dlr institute of space
+  propulsion, 2021.
+
+\bibitem{Willett2020.07.01.183384}
+Francis~R. Willett, Donald~T. Avansino, Leigh~R. Hochberg, Jaimie~M. Henderson,
+  and Krishna~V. Shenoy.
+\newblock High-performance brain-to-text communication via imagined
+  handwriting.
+\newblock {\em bioRxiv}, 2020.
+
+\bibitem{zhang2021dive}
+Aston Zhang, Zachary~C. Lipton, Mu~Li, and Alexander~J. Smola.
+\newblock Dive into deep learning.
+\newblock {\em arXiv preprint arXiv:2106.11342}, 2021.
+
+\bibitem{ziemski-etal-2016-united}
+Micha{\l} Ziemski, Marcin Junczys-Dowmunt, and Bruno Pouliquen.
+\newblock The {U}nited {N}ations parallel corpus v1.0.
+\newblock In {\em Proceedings of the Tenth International Conference on Language
+  Resources and Evaluation ({LREC}'16)}, pages 3530--3534, Portoro{\v{z}},
+  Slovenia, May 2016. European Language Resources Association (ELRA).
+
+\end{thebibliography}

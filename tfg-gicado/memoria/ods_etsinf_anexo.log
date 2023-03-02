@@ -1,0 +1,215 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.5.13)  7 SEP 2022 13:31
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ods_etsinf_anexo.tex
+(./ods_etsinf_anexo.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-10>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (./ods_etsinf.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+))
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
+)
+(./ods_etsinf_anexo.aux)
+\openout1 = `ods_etsinf_anexo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen139
+\scratchbox=\box51
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen140
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks17
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+
+Overfull \hbox (37.53401pt too wide) in paragraph at lines 23--44
+[][] 
+ []
+
+<figures/upv.jpg, id=1, 143.5764pt x 56.8524pt>
+File: figures/upv.jpg Graphic file (type jpg)
+<use figures/upv.jpg>
+Package pdftex.def Info: figures/upv.jpg  used on input line 45.
+(pdftex.def)             Requested size: 143.57603pt x 56.85225pt.
+<figures/etsinf_ods.png, id=2, 1203.49625pt x 1204.5pt>
+File: figures/etsinf_ods.png Graphic file (type png)
+<use figures/etsinf_ods.png>
+Package pdftex.def Info: figures/etsinf_ods.png  used on input line 45.
+(pdftex.def)             Requested size: 1203.49332pt x 1204.49707pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 47.89597pt, for example:
+(fancyhdr)                \setlength{\headheight}{47.89597pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-35.89597pt}.
+
+<figures/etsinf_foot.jpg, id=4, 341.1144pt x 148.6353pt>
+File: figures/etsinf_foot.jpg Graphic file (type jpg)
+<use figures/etsinf_foot.jpg>
+Package pdftex.def Info: figures/etsinf_foot.jpg  used on input line 45.
+(pdftex.def)             Requested size: 341.11354pt x 148.63493pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+<figures/euroinf.jpg, id=5, 2023.56pt x 1759.5336pt>
+File: figures/euroinf.jpg Graphic file (type jpg)
+<use figures/euroinf.jpg>
+Package pdftex.def Info: figures/euroinf.jpg  used on input line 45.
+(pdftex.def)             Requested size: 2023.55507pt x 1759.52933pt.
+
+Overfull \hbox (29.45746pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 44.36485pt, for example:
+(fancyhdr)                \setlength{\footskip}{44.36485pt}.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/upv.jpg> <./figu
+res/etsinf_ods.png> <./figures/etsinf_foot.jpg> <./figures/euroinf.jpg>]
+File: figures/upv.jpg Graphic file (type jpg)
+<use figures/upv.jpg>
+Package pdftex.def Info: figures/upv.jpg  used on input line 66.
+(pdftex.def)             Requested size: 143.57603pt x 56.85225pt.
+File: figures/etsinf_ods.png Graphic file (type png)
+<use figures/etsinf_ods.png>
+Package pdftex.def Info: figures/etsinf_ods.png  used on input line 66.
+(pdftex.def)             Requested size: 1203.49332pt x 1204.49707pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 47.89597pt, for example:
+(fancyhdr)                \setlength{\headheight}{47.89597pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-35.89597pt}.
+
+File: figures/etsinf_foot.jpg Graphic file (type jpg)
+<use figures/etsinf_foot.jpg>
+Package pdftex.def Info: figures/etsinf_foot.jpg  used on input line 66.
+(pdftex.def)             Requested size: 341.11354pt x 148.63493pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+File: figures/euroinf.jpg Graphic file (type jpg)
+<use figures/euroinf.jpg>
+Package pdftex.def Info: figures/euroinf.jpg  used on input line 66.
+(pdftex.def)             Requested size: 2023.55507pt x 1759.52933pt.
+
+Overfull \hbox (29.45746pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 44.36485pt, for example:
+(fancyhdr)                \setlength{\footskip}{44.36485pt}.
+
+[2] (./ods_etsinf_anexo.aux) ) 
+Here is how much of TeX's memory you used:
+ 1416 strings out of 478238
+ 22879 string characters out of 5850456
+ 329767 words of memory out of 5000000
+ 19686 multiletter control sequences out of 15000+600000
+ 473516 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,16n,69p,975b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on ods_etsinf_anexo.pdf (2 pages, 2385551 bytes).
+PDF statistics:
+ 37 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
