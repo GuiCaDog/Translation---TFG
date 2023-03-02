@@ -1,0 +1,14 @@
+Namespace(align_suffix=None, alignfile=None, all_gather_list_size=16384, bpe=None, checkpoint_suffix='', cpu=False, criterion='cross_entropy', dataset_impl='mmap', destdir='/home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/finetuning/CN_training_keep90/fairseq_prepared_data_finetuning_CNdev_CERNnews', empty_cache_freq=0, fp16=False, fp16_init_scale=128, fp16_no_flatten_grads=False, fp16_scale_tolerance=0.0, fp16_scale_window=None, joined_dictionary=True, log_format=None, log_interval=100, lr_scheduler='fixed', memory_efficient_fp16=False, min_loss_scale=0.0001, model_parallel_size=1, no_progress_bar=False, nwordssrc=-1, nwordstgt=-1, only_source=False, optimizer='nag', padding_factor=8, quantization_config_path=None, seed=1, source_lang='en', srcdict='/home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/data/fairseq_prepared_data/dict.en.txt', target_lang='fr', task='translation', tensorboard_logdir='', testpref='/home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/data/CERNnews22.prepro.spm', tgtdict=None, threshold_loss_scale=None, thresholdsrc=0, thresholdtgt=0, tokenizer=None, trainpref='/home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/finetuning/CN_training_keep90/CNcorpus.prepro.spm', user_dir=None, validpref='/home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/data/CERNnews21.prepro.spm', workers=1)
+[en] Dictionary: 49959 types
+[en] /home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/finetuning/CN_training_keep90/CNcorpus.prepro.spm.en: 50340 sents, 1468576 tokens, 0.0% replaced by <unk>
+[en] Dictionary: 49959 types
+[en] /home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/data/CERNnews21.prepro.spm.en: 2200 sents, 69927 tokens, 0.0% replaced by <unk>
+[en] Dictionary: 49959 types
+[en] /home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/data/CERNnews22.prepro.spm.en: 1799 sents, 57138 tokens, 0.0% replaced by <unk>
+[fr] Dictionary: 49959 types
+[fr] /home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/finetuning/CN_training_keep90/CNcorpus.prepro.spm.fr: 50340 sents, 1709179 tokens, 0.0% replaced by <unk>
+[fr] Dictionary: 49959 types
+[fr] /home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/data/CERNnews21.prepro.spm.fr: 2200 sents, 83604 tokens, 0.0% replaced by <unk>
+[fr] Dictionary: 49959 types
+[fr] /home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/data/CERNnews22.prepro.spm.fr: 1799 sents, 68057 tokens, 0.0% replaced by <unk>
+Wrote preprocessed data to /home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/finetuning/CN_training_keep90/fairseq_prepared_data_finetuning_CNdev_CERNnews

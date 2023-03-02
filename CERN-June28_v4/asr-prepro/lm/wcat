@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# 2009. Jesús Andres Ferrer (Background)
+# 2017. Adrià Martínez
+
+CAT=/bin/cat # CMAKE variable
+ZCAT=/bin/zcat # CMAKE variable
+XZCAT=/bin/xzcat
+
+for f in $*; do
+if [ ${f##*.} == "gz" ]; then $ZCAT $f
+elif [ ${f##*.} == "zip" ]; then $ZCAT $f
+elif [ ${f##*.} == "xz" ]; then $XZCAT $f
+else $CAT $f
+fi
+done
+

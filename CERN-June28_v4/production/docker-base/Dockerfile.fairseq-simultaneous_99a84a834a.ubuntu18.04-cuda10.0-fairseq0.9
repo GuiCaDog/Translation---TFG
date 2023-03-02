@@ -1,0 +1,31 @@
+FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
+
+# Install dependencies
+RUN apt-get update && \
+    apt-get install python3.6 python3-pip virtualenv wget -y && \
+    apt-get clean && \
+    rm -fr /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+# Install Pytorch & fairseq
+RUN wget https://download.pytorch.org/whl/cu100/torch-1.4.0%2Bcu100-cp36-cp36m-linux_x86_64.whl
+RUN pip3 install torch-1.4.0+cu100-cp36-cp36m-linux_x86_64.whl
+COPY gits/simultaneous_fairseq_99a84a834a simultaneous_fairseq_99a84a834a
+WORKDIR simultaneous_fairseq_99a84a834a
+RUN pip3 install .
+
+# Change user
+RUN groupadd -g 1100 ttpuser && \
+    useradd -u 1100 -g 1100 ttpuser && \
+    mkdir -p /home/ttpuser/ && \
+    chown ttpuser:ttpuser /home/ttpuser && \
+    mkdir -p /home/ttpuser/gits && chown ttpuser:ttpuser /home/ttpuser/gits
+
+USER ttpuser:ttpuser
+WORKDIR /home/ttpuser
+
+COPY --chown=ttpuser:ttpuser gits/subword-nmt/ gits/subword-nmt/
+COPY --chown=ttpuser:ttpuser gits/mosesdecoder gits/mosesdecoder
+
+RUN mkdir -p io tmp
+
+VOLUME /home/ttpuser/io /home/ttpuser/tmp

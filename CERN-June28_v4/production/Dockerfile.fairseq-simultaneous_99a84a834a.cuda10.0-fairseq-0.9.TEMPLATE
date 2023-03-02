@@ -1,0 +1,8 @@
+FROM mllp.upv.es:5000/fairseq-simultaneous_99a84a834a.ubuntu18.04-cuda10.0-fairseq0.9
+
+COPY --chown=ttpuser:ttpuser model model
+COPY --chown=ttpuser:ttpuser bpe bpe
+COPY --chown=ttpuser:ttpuser translate-fairseq-docker.sh translate-fairseq-docker.sh
+COPY --chown=ttpuser:ttpuser truecase-model.${TEMPLATE_SRC} truecase-model.${TEMPLATE_SRC}
+
+ENTRYPOINT ["/bin/bash", "translate-fairseq-docker.sh"]

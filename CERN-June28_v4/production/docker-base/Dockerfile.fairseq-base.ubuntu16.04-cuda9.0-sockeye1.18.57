@@ -1,0 +1,37 @@
+FROM nvidia/cuda:9.0-cudnn7-runtime-ubuntu16.04
+
+# Install dependencies
+RUN apt-get update && \
+    apt-get install build-essential zlib1g-dev libncursesw5-dev libgdbm-dev libsqlite3-dev openssl python-dev wget libssl-dev libffi-dev libbz2-dev -y && \
+    cd /opt && \
+    wget https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tgz && \
+    tar -xvf Python-3.6.3.tgz && \
+    cd Python-3.6.3 && \
+    ./configure && \ 
+    make && \
+    make install
+
+# Install Torch
+RUN pip3 install mxnet-cu90==1.3.1 && \
+    pip3 install numpy==1.14.6 && \
+    pip3 install typing==3.6.6 && \
+    pip3 install PYYAML==3.12 && \
+    pip3 install sockeye==1.18.57 --no-deps 
+
+RUN rm -fr /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+# Change user
+RUN groupadd -g 1100 ttpuser && \
+    useradd -u 1100 -g 1100 ttpuser && \
+    mkdir -p /home/ttpuser/ && \
+    chown ttpuser:ttpuser /home/ttpuser && \
+    mkdir -p /home/ttpuser/gits && chown ttpuser:ttpuser /home/ttpuser/gits
+
+USER ttpuser:ttpuser
+WORKDIR /home/ttpuser
+
+COPY --chown=ttpuser:ttpuser gits/subword-nmt/ gits/subword-nmt/
+COPY --chown=ttpuser:ttpuser gits/mosesdecoder gits/mosesdecoder
+
+RUN mkdir -p io tmp
+VOLUME /home/ttpuser/io /home/ttpuser/tmp

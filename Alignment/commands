@@ -1,0 +1,13 @@
+wc -w raw_aligned/2022/*/*/*.sed.en | awk '{print $1;}' > df1
+
+wc -w raw/2022/*/*/*.lines.en | awk '{print $1;}' > df2
+
+cat newsIndexed.en | grep "95 "
+find ./ \( -not -name *.aligned.csv -not -name *.manual.csv \) -exec rm {} \;
+find raw_aligned \( -name *.aligned.csv -or -name *.manual.csv \) -exec cp {} 2022_aligned \;
+cat news_aligned/2022/all_news.csv | cut -f1 | sed -r 's/~~~//g' | wc -w
+cat news_aligned/2022/*/*/* > news_aligned/2022/all_news.csv
+
+ls raw_training_aligned/*/*/*/*.csv | wc -l
+3681
+gicado@herbero:~/tfg/cernArticles/halign$ ls raw_training/*/*/*/*.lines.en | wc -l

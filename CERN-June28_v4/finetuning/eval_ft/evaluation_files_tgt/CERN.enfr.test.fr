@@ -1,0 +1,399 @@
+Collaborations ATLAS et elle présentera des études d'états exotiques. Donc Liupan, vous pouvez commencer. 
+D'accord, merci pour l'introduction. 
+C'est donc un grand plaisir de partager avec vous l'étude des états exotiques au nom des collaborations LHCb, CMS et ATLAS. 
+Ainsi, les états exotiques sont des hadrons au-delà des mésons et des baryons conventionnels qui sont autorisés par le modèle de Quark. 
+Divers candidats à des états exotiques comme les particules XYZ et les états pentaquarks ont été observés jusqu'à présent. 
+Ils peuvent fournir de nouvelles perspectives sur la structure interne et la dynamique des hadrons 
+et servir de bonne plate-forme pour étudier le comportement non perturbateur de QCD 
+et de nombreux résultats intéressants sur les états exotiques ont été faits au cours de la dernière année. 
+Dans ce rapport, je présenterai plusieurs études de X trente-huit soixante-douze, et la recherche des états exotiques 
+en particulier, il y a deux nouveaux résultats sur X trente-huit soixante-douze de LHCb qui viennent de paraître sur les archives hier. 
+Comme le premier charmonium observé comme l'hadron exotique, X trente-huit soixante-douze a l'information expérimentale la plus abondante. 
+Sa masse est incompatible avec la prédiction du chi C un deux P 
+et sa désintégration en psi rho est la violation de l'isospin, 
+ce qui suggère qu'il a une nature exotique 
+et la propriété la plus intrigante de X trente-huit soixante-douze est la proximité de sa masse au seuil de l'étoile D "oh" D "oh" 
+et il est mesuré pour être étroit avec la largeur naturelle inférieure à un point deux MeV à quatre-vingt-dix pour cent niveau de confiance. 
+Il n'y a pas encore de consensus sur la nature de X trente-huit soixante-douze et des études expérimentales de sa production dans les collisions et dans les désintégrations faibles. 
+Sa forme de ligne et ses désintégrations peuvent fournir de précieuses informations à son sujet. 
+En utilisant les données de l'Exploitation Un complète et une partie de l'Exploitation Deux LHCb, 
+la désintégration de lambda B à X trente-huit soixante-douze P K a été observée pour la première fois. 
+Son rendement en signal est déterminé à partir d'un ajustement bidimensionnel de la masse J psi pi pi P K et de la masse J psi pi pi 
+pour être cinquante-cinq plus moins onze, ce qui correspond à une signification supérieure à sept sigma 
+et le spectre P K des signaux est étudié, ce qui indique qu'environ cinquante-huit pour cent des désintégrations passent par la désintégration de lambda B à X trente-huit soixante-douze lambda 
+et sa fraction d'embranchement est mesurée par rapport à celle de lambda B à psi deux S P K fois la fraction d'embranchement relative des désintégrations J psi pi pi, 
+euh qui est de cinq points quatre pour cent. 
+Et en utilisant les données CMS correspondant à cent quarante femtobarn inverse à treize TeV la désintégration de B S à X trente-huit soixante-douze phi a été observée. 
+Son rendement en signal est déterminé à partir des ajustements en deux D de la masse de J psi pi pi et de la masse de K K. 
+Deux cent quatre-vingt-dix-neuf signaux sont obtenus avec une signification supérieure à six sigma 
+et la distribution de masse soustraite du fond de X trente-huit soixante-douze phi est vérifiée, 
+d'où la fraction de non-candidats B S est déterminée à un point sept pour cent et soustrait 
+la fraction d'embranchement de B S à X trente-huit soixante-douze phi est mesurée par rapport à B S à psi deux S phi. 
+Et avec les valeurs connues des fractions d'embranchement des modes psi deux S, 
+on a déterminé la fraction d'embranchement de B S à X trente-huit soixante-douze deux phi fois la fraction d'embranchement de X à J psi pi pi et on a trouvé qu'elle est compatible avec "euh" celle de B "oh" à X trente-huit soixante-douze K. 
+Cependant, le rapport de fraction d'embranchement de B S à X trente-huit soixante-douze phi à celui de B plus à X K est presque deux fois plus petit que celui des modes psi deux S. 
+Il indique que la formation de X trente-huit soixante-douze dans les désintégrations du méson B est différente de celle de psi deux S, suggérant que X trente-huit soixante-douze n'est pas un état de charmonium pur. 
+"Uh" en utilisant les données de l'Exploitation Un LHCb complète, le X "uh" la forme de ligne de X trente-huit soixante-douze est étudiée en utilisant des candidats reconstruits à partir de la désintégration des hadrons. 
+L'échelle de masse est étalonnée à l'aide d'un échantillon de données en fonction des résonances bien connues 
+et le modèle de résolution de masse est développé en utilisant la simulation et recoupé avec le canal psi deux S qui a une statistique beaucoup plus élevée. 
+Et la contrainte de masse Jpsi est appliquée. Ainsi, la résolution de masse est dominée par la cinématique des deux pions 
+et la prise en compte de la dépendance de la résolution de masse à l'égard de l'impulsion "euh" pi pi, 
+les ajustements sont effectués en même temps comme dans trois bins P pi pi séparément pour les données deux mille onze et deux mille douze. 
+Et dans un premier temps, on suppose une forme de ligne Breit Wigner à partir de laquelle le fractionnement de la masse entre X trente-huit soixante-douze et psi deux S est mesuré. 
+Et avec la masse connue psi deux S, 
+on détermine la masse de X trente-huit soixante-douze,  qui diffère du seuil de l'étoile D "oh" D, 
+par zéro point zéro un plus ou moins zéro point quatorze MeV, 
+et sa largeur est mesurée à un point trente-neuf MeV. 
+Tout en tenant compte de l'ouverture du seuil de l'étoile D "oh" D "oh" près de X trente-huit soixante-douze, 
+la forme de la ligne Flatté est étudiée à partir du mode d'ajustement et de la largeur totale à la moitié maximum du modèle Flatté sont déterminés. 
+Sa position de pointe est mesurée pour être compatible avec celle de la forme de la ligne Breit Wigner. 
+Cependant son "euh" FWHM est un facteur de cinq plus petit que la largeur Breit-Wigner, 
+comme on peut clairement le voir dans la comparaison des deux formes de lignes. 
+Bien, après avoir considéré la résolution du détecteur, ils deviennent cohérents. Et cela met en évidence l'importance d'une paramétrisation de la forme de lignes bien motivée physiquement. 
+Et pour étudier la nature de l'état X trente-huit soixante-douze, la structure analytique de l'amplitude de Flatté est étudiée à proximité de l'étoile D "oh" D "oh". 
+et deux pôles se trouvent dans le modèle Flatté. L'un sur la feuille physique et l'autre sur la feuille non physique. 
+Selon les positions des deux pôles, 
+l'état quasi lié du scénario de l'étoile D "oh" D "oh" est préféré. 
+Et sur la base de ce scénario, l'énergie de liaison est définie comme étant inférieure à cent keV à un niveau de confiance de quatre-vingt-dix pour cent. 
+Cependant, le premier pôle est également autorisé à être sur la feuille non physique au niveau de deux sigma. 
+Ainsi, l'assignation de l'état quasi virtuel ne peut pas être complètement exclue. 
+Et un état quasi lié peut être soit un état moléculaire, soit un état lié compact. 
+Et dans le cas d'une nature principalement moléculaire de l'état, nous nous attendons à un pôle unique proche du seuil 
+dans le cas d'un état lié compact, 
+il devrait y avoir deux pôles voisins. 
+Ainsi, l'asymétrie des deux pôles peut fournir des informations sur la composition X trente-huit soixante-douze, 
+et la fraction relative de la composante compacte est déterminée à quinze pour cent du meilleur ajustement et peut atteindre trente-trois pour cent au maximum. 
+Lors de l'utilisation de l'ensemble des données de l'Exploitation Un et de l'Exploitation Deux LHCb complètes, le X trente-huit soixante-douze dans la désintégration de B plus à X K est également étudié. 
+Environ quatre mille signaux "euh" obtenus à partir de l'ajustement bidimensionnel des distributions de masse de J psi pi pi K et J psi pi pi. 
+De plus, dans cette mesure, l'échelle de masse et la rés- résolution de masse sont contrôlées à l'aide des échantillons de données. 
+Et sa fraction d'embranchement est mesurée par rapport à B plus à psi deux S K comme étant trois point soixante-neuf pour cent. 
+De plus, la masse et la largeur de X trente-huit soixante-douze sont également mesurées sur la base de la forme de la ligne Breit-Wigner. 
+Et ici, les deux figures montrent la comparaison de la mesure de la masse et de la largeur de X trente-huit soixante-douze Breit-Wigner. 
+Les points rouges montrent les résultats de cette mesure et "euh" l'étude de la forme de ligne. 
+à travers ces deux résultats, on peut voir que seule la limite supérieure est fixée sur la largeur de X trente-huit soixante-douze. 
+Et ici, la bande orange montre la nouvelle moyenne mondiale dont la précision est nettement améliorée par les deux nouveaux résultats. 
+Et en faisant la moyenne de toutes les mesures de LHCb, la masse de X trente-huit soixante-douze est mesurée pour être trente-huit soixante et onze point soixante-quatre, ce qui diffère des seuils de l'étoile D "oh" D "oh". 
+"Euh" par zéro point zéro sept plus ou moins zéro point douze. 
+Et la largeur est mesurée comme étant un point dix-neuf plus ou moins zéro point quatre-vingt-dix MeV. 
+Et en plus de l'étude des "euh" états exotiques existants, la recherche de nouveaux membres est également intéressante 
+pour le quarkonium comme les états exotiques, "euh" la famille XYZ est déjà assez riche, 
+alors que pour les états pentaquarks, seuls les états U U D C C bar pentaquarks sont observés à LHCb dans la désintégration lambda B à P C K avec la désintégration P C en proton J psi. 
+La confirmation issue des autres expériences ou dans d'autres modes de désintégration est très importante "euh" et il y a aussi des chances de voir l'isospin ou son étrange partenaire. 
+Les théories prédisent également l'existence d'états du tétraquark entièrement lourds qui ont tendance à être limités de manière compacte. 
+Et fournissent un système doré pour étudier la configuration interne des états multi quark 
+et ils sont généralement décrits avec le modèle diquark. 
+L'expérience ATLAS "euh" a réalisé une étude de la désintégration de lambda B à J psi P K, 
+"Euh" en utilisant les données de l'Exploitation Un, à partir de laquelle environ deux mille signaux sont observés et 
+on suppose deux états pentaquarks, quatre états pentaquarks et aucun état pentaquark. 
+Les données sont en faveur du scénario de deux ou plusieurs états pentaquarks, mais le modèle sans pentaquarks donne une valeur P de zéro point quatre-vingt-onze pour cent. 
+Donc, il n'est pas entièrement exclu. 
+De plus, la masse et la largeur des états pentaquark déterminées à partir des deux ajustements pentaquark 
+sont compatibles avec la mesure de "euh" réalisée par LHCb. 
+Et en utilisant les données CMS correspondant à dix-neuf point six femtobarn inverse à huit TeV, 
+la fraction d'embranchement de B plus à J psi lambda P est mesurée par rapport à celle de B plus à J psi K étoile, 
+qui est le plus précis à ce jour et le B plus à J psi lambda pei 
+"Euh" la désintégration de J psi lambda P peut cibler le pentaquark de faible masse dans le système de protons J psi 
+et de nouvelles résonances dans la combinaison J psi lambda. 
+On a étudié les distributions de la masse invariante de "euh" lambda P, proton J psi et J psi lambda et on a trouvé qu'elles étaient incompatibles avec l'hypothèse de l'espace des phases pur, présenté ici comme une ligne pointillée noire, 
+mais en accord avec les contributions de l'étoile K, 
+cependant, la présence de nouvelles résonances ne peut être exclue. 
+Et "euh" en utilisant les données CMS correspondant au soixante femtobarn inverse à treize TeV, "euh" la désintégration de lambda B à J psi lambda phi a été observée. 
+"Euh" à partir duquel le numéro de signal est déterminé en fonction de l'ajustement à la distribution de la masse K K avec le fond soustrait selon l'ajustement à J psi lambda la distribution de la masse K K. 
+Et le numéro du signal est déterminé comme étant deux cent quatre-vingt-six. 
+Et sa fraction d'embranchement est mesurée par rapport à celle de lambda B à psi deux S lambda. 
+Et l'observation du lambda B à J psi lambda phi ouvre une fenêtre sur la recherche de nouvelles résonances dans les spectres de masse J psi lambda et J psi phi. 
+CMS. Liupan, vous avez encore trois minutes. 
+D'accord, merci. Oh. 
+Oui, l'expérience CMS a aussi cherché les états tétraquarks composés de B B B bar B bar dans le mode de désintégration Upsilon un S mu mu. 
+Dans les régions dix-sept point cinq à dix-neuf point cinq GeV, en utilisant des données correspondant à trente-cinq point neuf femtobarn inverse à treize TeV. 
+Et ici la figure à gauche montre le spectre de masse superposé à un exemple d'ajustement avec le signal, 
+alors que la signification du signal est seulement autour d'un sigma. 
+Et dans l'ensemble de la région de masse, aucun excès significatif, "euh" à partir du fond, seul le modèle est observé, 
+les limites supérieures sont donc situées sur la section efficace de production de ces états tétraquark, chronométrés, fois le temps de la fraction d'embranchement de la désintégration du tétraquark à Upsilon un S mu mu, 
+par rapport à la masse de cet "euh" état basé sur différents modèles de signaux. 
+Donc, en résumé, au cours de la dernière année, "euh" des résultats fructueux ont été obtenus sur les États exotiques. 
+Notre connaissance de "euh" X trente-huit soixante-douze est beaucoup plus avancée. 
+"Euh" sa production dans la désintégration B suggérant la nature non conventionnelle du charmonium 
+et nous avons "euh" largement amélioré la mesure de la masse et de la largeur de "euh" de X trente-huit soixante-douze basé sur la forme de la ligne Breit-Wigner. 
+Et nous essayons aussi de l'étudier en utilisant la forme de la ligne Fla- Flatté. 
+Et aussi les données montrent une bonne possibilité de découvrir de nouveaux états exotiques. 
+Il existe de nouveaux canaux avec un potentiel de "euh" découverte du charmonium comme l'émergence d'états exotiques et "uh" la recherche d'états tétraquarks complètement lourds a été lancée. 
+C'est tout, merci. 
+Merci beaucoup Liupan pour cette très belle présentation et pour être restée exactement dans les temps. Donc 
+"euh" il est maintenant temps de poser des questions. je "euh" rappelle que pour les questions, les participants doivent appuyer sur le bouton d'élévation de la main, 
+afin de réserver une question et puis vous vous souvenez qu'ils doivent abaisser la main après que la question soit terminée. 
+Voyons donc s'il y a... 
+Je n'ai pas de bouton pour lever la main, mais je voudrais faire un commentaire. 
+C'est Marek. 
+Oui Marek, parce que je, nous devons vous promouvoir pour traverser, c'est pourquoi vous n'avez pas le bouton. Mais, s'il vous plaît, poursuivez avec la question. 
+Pouvez-vous montrer "euh" le transparent numéro treize, encore une fois, s'il vous plaît, "hein" ? 
+Donc, dans ce transparent, nous avons une représentation schématique de "euh" tétraquark complètement lourd. 
+Et je voudrais juste dire qu'il y a plus ou moins de consensus sur le fait que de telles choses n'existent probablement pas en tant qu'états stables. 
+Mais il y a aussi consensus sur le fait qu'il existe des tétraqu- , des tétraquarks entièrement stables, 
+qui contiennent deux quarks lourds et deux antiquarks légers, ceux qui probablement existent le plus et sont accessibles expérimentalement. Et je vais essayer de dire quelques mots à leur sujet. 
+En fait, je pense que, selon les données, certains modèles théoriques prédisent l'existence de ces états tétraquarks complètement lourds. 
+Bien, 
+le le il y en a quelques-uns, 
+Oui, il y en a, mais je pense qu'il y a maintenant consensus sur le fait qu'il est impossible d'avoir un tétraquark complètement lourd, par exemple, avec deux B et deux B barre, 
+qui serait inférieur au seuil des deux eta B. 
+Il peut être inférieur au seuil de deux Upsilon mais pas inférieur à deux eta B. 
+D'accord. 
+Oui. 
+Oui, mais il y a il y a il y a en effet diverses prévisions. Je pense donc que sans une étude expérimentale complète de ceci, il est difficile de donner une conclusion 
+et la recherche pour cela peut aussi être importante. 
+Eh bien, les expériences sont toujours importantes, même si nous sommes tous en désaccord. 
+Il est bon de tester le consensus théorique; je dis juste qu'il y a de bonnes raisons. 
+Oui. 
+De penser que de telles choses ne peuvent jamais être en dessous du seuil de deux eta B ou du seuil de deux eta C. 
+Mais bien sûr, les expériences sont l'arbitre final. 
+Nah d'accord. Oui, merci. Merci beaucoup pour le pour le commentaire. 
+Y a-t-il d'autres questions ? je ne vois pas les mains levées alors je 
+Andrea, désolé "eh" c'est Martino, 
+Oui Martino, si vous avez une question, allez-y s'il vous plaît. 
+Curiosité à la page onze deux pages avant. 
+"Eh" d'accord et et la même chose s'applique également à la l'autre la première analyse que vous vous vous avez présenté. Donc "euh" ces deux variables que vous utilisez dans les ajustements en deux D sont fortement corrélés. 
+Donc, je suppose que vous avez besoin d'un ajustement complet en deux dimensions. Non ? vous ne pouvez pas factoriser les deux. 
+Par exemple, dans dans l'analyse CMS que vous avez montré avant, 
+"euh" nous allons faire des variables qui ne sont pas corrélées pour le, oui,  l'ajustement en deux D. 
+"Euh" dans ce cas, je pense que vous avez un PDF complet sans sans factorisation, je veux dire. 
+"Euh" dans cette mesure, quand ils calculent cette masse invariante J psi pi pi, ils "euh" ils ont appliqué une contrainte de masse au B plus. 
+D'accord. 
+Dans ce cas, ils ont supprimé la corrélation. 
+Compris, d'accord. 
+Oui, merci. 
+Et la même chose est vraie aussi pour le lambda B. 
+"Euh" 
+Je pense que cela devrait être le cas. 
+D'accord, d'accord. 
+Mais en fait, je je je pense que même s'il n'y a pas une telle contrainte, la corrélation ne devrait pas être grande. 
+Mais vous avez un J psi pi pi pour une variable et un J psi pi pi plus deux autres, "euh" 
+pistes donc en principe vous pensez que la 
+fin d'une certaine certaine corrélation entre les deux distributions. 
+D'accord mais alors 
+Oui, dans le sens des différentes composantes peut-être que la corrélation n'est pas aussi grande. 
+commencez quand vous voulez 
+d'accord 
+alors bon après-midi. euh, merci de me permettre de faire cette présentation. 
+je présenterai la mise à jour d'Atlas pour les prochaines années. 
+puis-je 
+d'accord, je dois changer la diapositive à celle-ci. 
+allons donc sur la diapositive deux. 
+euh, commençons par les plans euh, pour le LHC et le High luminosity LHC. 
+nous sommes actuellement dans, euh, euh, l'arrêt long deux 
+il y a quelques changements sur le LHC essentiellement en ce qui concerne les aimants et le euh système d'injection 
+et nous aurons également quelques améliorations sur ATLAS que je vais discuter. 
+euh la période d'exploitation trois est également connu sous le nom ATLAS phase un. 
+hum, un autre arrêt long aura lieu après  la période d'exploitation trois qui euh nous amènera dans ce qu'on peut appeler l'ère du LHC haute luminosité 
+qui verra plus d'améliorations sur les injecteurs, 
+plus de protons par bunch, une meilleure mise au point, et une luminosité instantanée 
+jusqu'à sept points cinq fois dix puissance trente-quatre 
+nous nous attendons à recueillir environ trois mille femtobarns inverses de données 
+et bien sûr, il y aura aussi quelques améliorations sur ATLAS également. 
+dans ce cas, euh, cette mise à jour est, je veux dire que cette phase est appelée phase deux pour nous. 
+alors, passons à la diapositive trois, um 
+voyons ce qui est, euh, quel est l'impact de la luminosité sur l'expérience essentiellement, euh pour la phase deux, 
+les exigences sont que toutes les parties de l'expérience doivent supporter un pic de luminosité de sept point cinq fois dix puissance trente quatre 
+et de conserver de bonnes performances de physique au moins aussi bonnes que uh uh  la période d'exploitation deux et la période d'exploitation trois 
+cela signifie maintenir un taux de déclenchement acceptable uh pour maintenir de faibles seuils PT et aussi pour atténuer l'accumulation. 
+nous nous attendons à un empilement moyen de deux cents collisions par paquet. 
+hum ce qui signifie de plus grandes tailles d'événements événement euh des taux de déclenchement plus élevés, de plus grandes occupation du détecteur, 
+limite de lecture, et complexité de reconstruction. 
+mais aussi uh uh le détecteur doit supporter des niveaux élevés de rayonnement uh, ce qui signifie 
+une augmentation des dommages causés par le rayonnement et une augmentation de l'activation des matériaux. 
+laissez-moi maintenant vous montrer uh un résumé très court sur la principale motivation de physique de ces mises à niveau. 
+ceci n'est pas représentatif de l'ensemble du programme de physique d'ATLAS pour l'année prochaine pour les prochaines phases 
+euh, il y a beaucoup de présentations au sujet du programme de physique d'Atlas et des mises à jour dans cette conférence, 
+je viens d'en noter ici et ici. 
+euh essentiellement, je veux juste mentionner qu'il y aura beaucoup d'études sur les mesures de précision et les recherches de désintégration rares sur le boson de Higgs 
+euh et aussi sur les processus du Modèle Standard, l'étude des désintégrations rares comme euh la recherche des Higgs dans deux muons 
+et aussi la recherche au-delà du Modèle Standard uh qui peut être concentrée par exemple sur des programmes exotiques et susy et aussi des secteurs sombres. 
+passons à la diapositive cinq. 
+euh et donc nous commençons à parler des mises à jour de phase un d'ATLAS, ce sont les mises à jour 
+euh que je vais discuter et c'est aussi les emp- ce sont aussi les emplacements dans le détecteur. 
+Avançons avec le détecteur nouvelle petite roue sur la diapositive six. 
+la nouvelle petite roue est uh uh faite de deux roues de cinq mètres de rayon dans la région du capuchon 
+couvrant la région de eta compris entre un point trois et deux point sept 
+chaque roue est formée de deux chambres à gaz fines externes uh coins TGC 
+qui sont utilisés principalement pour le déclencheur, pour l'identification de croisement de paquet et pour le suivi vectoriel. 
+et intérieurement ils ont deux coins MicroMega, 
+qui sont utilisés principalement pour le suivi avec une résolution spatiale uh inférieure à une centaine de microns. 
+en haut à droite, vous voyez la disposition des deux roues 
+euh le pour les grands et les petits secteurs, 
+les chambres sont construites dans des instituts sur quatre continents différents. 
+euh, cela vous donne une idée de l'effort énorme que l'expérience a mis dans ce projet. 
+et quel est le but de la nouvelle petite roue, le but est de réduire les faux déclenchements de muons dans la région Endcap 
+en faisant une coïncidence entre le détecteur existant, qui est la grande roue et la nouvelle petite roue. 
+euh, vous pouvez le voir ici dans ce graphique au milieu droit, où vous voyez quelques traces et quelques particules qui sont qui peuvent être rejetées en utilisant le système de nouvelle petite roue. 
+essentiellement, si vous avez ces trois traces, vous pouvez ne déclencher que sur la trace A tandis que vous pouvez retirer les traces comme B qui ne produit que des détections dans la grande roue. 
+et aussi des traces comme le C où vous avez des détections dans la grande roue et la nouvelle petite roue mais avec le uh, avec la trace, elle ne pointe pas vers le point d'intéraction, dans la direction du point d'interaction. 
+alors peut-être que cela a été produit par un autre type de direction. 
+en bas à gauche, vous voyez également le schéma de lecture des déclenchements pour le système de nouvelle petite roue. 
+c'est un schéma très compliqué. uh L'électronique est également basée sur  de nombreuses cartes personnalisées, éléments personnalisés. 
+le schéma va de l'extrémité avant ici uh sur la gauche au détecteur uh off à droite. 
+il y a quatre asics personnalisés développés pour le système pour l'extrémité avant. il y a beaucoup de cartes d'extrémité avant. 
+il y a des cartes positionnées sur la jante de la roue uh celle-ci rapporté dans la boîte rose. 
+et il y a aussi l'électronique hors détecteur qui est essentiellement basée sur des modules ATCA uh. 
+sur la diapositive sept, nous allons passer au statut de la nouvelle petite roue. euh le, à propos des chambres et de l'électronique pour la première roue, 
+euh sur le côté A. euh, elles sont déjà produites et sont sur la bonne voie aussi pour la seconde. 
+et en effet, de nombreuses pièces électroniques ont déjà terminé leur production 
+les activités d'intégration battent leur plein tant pour Micromegas que pour STGC. 
+comme vous pouvez le voir sur les photos sur la gauche. uh quand je dis uh intégration uh je veux dire assemblage, installation, connexion, mais aussi 
+logiciel uh pour DAQ et les déclencheurs également. ils sont en cours de développement 
+avant la pause liée au COVID uh uh, on était sur la bonne voie pour installer la première roue avant la fin de l'année. 
+et mais vous pouvez voir ici uh en bas uh à droite uh que les deux secteurs sont déjà installés sur la roue depuis Mars. 
+passons à l'autre, à une autre mise à niveau sur la diapositive huit, la mise à niveau du BIS sept huit uh 
+nous venons de voir que la nouvelle petite roue couvrira une région de eta entre un point trois et deux point sept uh 
+alors que la grande roue couvre une région entre un et deux point sept. ainsi, il y a une région intermédiaire entre un et un point trois qui n'est pas couverte par la nouvelle petite roue. 
+et cette région n'est que partiellement couverte dans les grands secteurs par les chambres d'extrémité existantes dites EIL four TGC. 
+ainsi l'idée de l'expérience était d'installer la décision était d'installer de nouveaux détecteurs dans la région de BIS donc seulement dans les petits secteurs 
+afin de réduire le taux de faux prévu. 
+uh cette mise à niveau est faite de seize chambres RPC avec, qui sont des triplets RPC à écart mince avec un millimètre d'écart de gaz au lieu de deux 
+et une nouvelle électronique frontale et aussi, uh les six eux seize détecteurs MDT existants uh seront remplacés 
+avec des petits MDTs qui sont des tubes de dérive avec un diamètre de quinze millimètres au lieu de 30. 
+et euh, la production du détecteur est en cours comme vous pouvez le voir sur la photo de droite, le 
+il s'agit d'un triplet RPC en uh sur le site B B cinq et uh aussi l'installation de la face A en principe 
+a été prévu pour être fait d'ici l'été peut-être que c'est toujours le cas alors que la partie C est reportée um 
+Oui, l'installation côté C est reportée jusqu'à l'arrêt long trois. 
+il s'agit également d'un projet important uh, qui est un projet pilote pour 
+la phase deux parce que la même technologie de détecteur MDT et RPC sera utilisée lorsque 
+la couche intérieure du tonneau sera équipée. passons à la diapositive 9, 
+les améliorations sur le calorimètre à argon liquide et le système de déclenchement du calo de niveau 1, euh il y aura de nouvelles cartes frontales et arrière euh pour le calorimètre. 
+celles-ci permettront d'augmenter la granularité de la tour de déclenchement et d'avoir de bonnes performances de déclenchement même au niveau d'empilement haut. 
+euh donc c'est la granularité pour  la période d'exploitation un et la période d'exploitation deux et c'est la nouvelle granularité pour la période d'exploitation trois. 
+l'objectif est bien sûr de maintenir un taux de déclenchement bas grâce au rejet de fond. 
+et des seuils bas grâce à la haute résolution géométrique um qui est augmentée 
+um à propos du trigger et du système de lecture du calo de niveau un . uh vous pouvez voir le schéma complet ici en bas à droite. 
+euh, il ya trois posters sur ces um sur ces articles um jeudi prochain 
+et essentiellement la caractéristique principale sont les nouvelles cartes d'extraction de feature, le jet d'électrons et globale 
+qui traitent les données du calorimètre électromagnétique um à une granularité plus élevée. 
+dans ce cas, ils effectueront un traitement plus raffiné par rapport aux runs précédents, 
+et aussi d'avoir une meilleure discrimination entre les photons, les électrons, taus et les jets. 
+UH bien sûr, vous pouvez trouver ma ma beaucoup plus de détails sur ces trois projets. Sur la diapositive 9 uh 10 uh 
+Au sujet de la mise à jour complète du T DAQ phase un. comme je l'ai dit, il y aura une mise à jour du calo de niveau un. 
+euh il y aura aussi une mise à niveau sur le topo niveau un, qui est une nouvelle carte qui effectue des algorithmes topologiques 
+sur les données provenant des calorimètres et des muons. Dans la région du capuchon uh il y aura la nouvelle carte de logique de secteur uh la nouvelle carte de logique du secteur du capuchon. Elle recevra des entrées 
+des nouveaux détecteurs de muons. c'est pourquoi nous avons besoin d'une nouvelle carte. 
+uh uh les nouveaux détecteurs sont le système de muons de la nouvelle petite roue et le RPC BIS 
+et aussi uh entrées de la couche extérieure du calorimètre à tuile,  le tonneau uh étendu du calorimètre à tuiles 
+il y aura également un poster sur ce sujet jeudi prochain et euh tous ces intrants seront utilisés afin de réduire le taux de faux dans le capuchon comme je l'ai déjà dit 
+a propos du processeur de déclenchement central uh de nouvelles cartes d'interface du muon vers le processeur de déclenchement central sera uh construite. 
+celles-ci géreront le transfert de données des nouvelles cartes. donc, essentiellement du Topo niveau un et de la nouvelle logique de secteur du capuchon que j'ai déjà discuté 
+et aussi uh aura plus de ressources afin de traiter les données et plus de bande passante uh à être tran uh à à en utilisant des liens optiques essentiellement. 
+a propos du système de lecture uh, il y aura le nouveau système de lecture Felix, il agit comme un routeur entre les liaisons frontales personnalisées et la technologie de réseau multi gigabit commercial. 
+afin de transférer les données à la destination appropriée. il s'interface avec la commande de déclenchement et de timing, le système TTC et le système occupé. 
+il sera utilisé dans la première phase pour les mises à jour que j'ai déjà décrites. 
+la nouvelle petite roue, BIS sept, huit et la mise à jour de l'argon liquide 
+mais sera aussi le système standard pour la phase deux donc pour le run quatre, 
+donc, nous sommes prêts à passer à la phase uh deux. uh ce sont les éléments uh que je vais discuter, et leur position dans l'expérience. 
+le premier est un nouveau tracker interne en silicium appelé aussi uh ITK. 
+uh le détecteur intérieur ATLAS actuel uh a été conçu pour fonctionner pendant dix ans à la luminosité de dix puissance trente-quatre 
+à une accumulation moyenne de vingt-trois et un taux de niveau un de cent kilohertz 
+euh bien sûr l'utiliser dans l'ère du LHC haute luminosité apportera une augmentation des occupations et de la saturation de bande passante 
+et aussi des dommages dus au rayonnement. et donc pour cette raison, euh un nouveau système de suivi entièrement en silicium a été conçu. 
+il est composé de deux sous-systèmes : les bandes qui couvrent une région en eta jusqu'à deux point sept 
+qui est faite de quatre couches de tonneau et six disques de capuchon 
+et le sous-système de pixel qui couvre une région jusqu'à eta quatre et est fait de cinq couches de tonneau 
+plus modules inclinés plus des anneaux de tonneau et de capuchon 
+le but de l'ITK est d'atteindre des performances égales ou meilleures que le détecteur existant dans un environnement de suivi beaucoup plus difficile 
+et par exemple, pour garder une efficacité élevée de reconstruction de trace uh et de faibles taux de fausses traces. 
+juste pour vous donner quelques chiffres sur la diapositive treize, je veux vous donner quelques chiffres et des photos. 
+pour vous donner une idée de l'énorme projet ITK. Le pixel 
+a plus de dix mille modules, plus de trente-trois uh mille puces frontales 
+plus de dix puissance neuf canaux, et aussi les bandes ont environ dix uh dix-huit mille modules et près de soixante uh millions de canaux. 
+ce sont quelques photos ou quelques dessins de la façon dont le projet uh évolue 
+uh nous allons passer à la diapositive quatorze. A propos du calorimètre à argon liquide. 
+L'électronique actuelle n'est pas compatible avec les demandes de phase deux essentiellement pour la latence et les taux de déclenchement 
+comme nous le verrons uh plus tard. Et aussi les exigences de rayonnement pour la phase deux sont au-dessus de la conception originale. 
+donc, l'idée est de garder les cartes de mise à jour de phase un, 
+mais aussi de construire une nouvelle électronique front-end et back-end, euh afin de lire le détecteur à pleine granularité, 
+et envoyer les données du détecteur uh au back-end à quarante mégahertz. 
+euh il y a un poster à ce sujet. Il y avait aussi une présentation aujourd'hui au sujet du détecteur de temps à haute granularité HGTD 
+il sera utilisé pour atténuer le pileup, euh et donc, pour utiliser des informations de synchronisation de haute précision pour distinguer les collisions, 
+Il sera installé dans un espace entre le détecteur interne et le capuchon du calorimètre 
+donc essentiellement dans cette zone et il sera basé sur la technologie de détecteur avalanche silicium à faible gain 
+qui sera également utilisé par CMS. Et avec la résolution de synchronisation de moins de cinquante, euh picosecondes. 
+Il améliorera la reconstruction avant de l'objet , euh en complétant et en aidant les capacités de suivi de l'ITK dans la région avant essentiellement, 
+mais sera également utilisé pour la luminosité en ligne et hors ligne. 
+Avançons à la diapositive quinze. Un autre calorimètre, le Tilecal. Euh, il est fait de plaques d'acier et de tuiles de scintillateur en plastique 
+Euh, pour les mises à niveau de phase deux, euh, un remplacement complet de l'électronique dans le détecteur et hors détecteur est prévu 
+en raison principalement de deux raisons, euh, des dommages de rayonnement et du vieillissement et aussi afin d'être compatible avec les exigences du T DAQ, euh 
+des nouvelles exigences de l'architecture et afin de transférer les données complètes hors détecteur, euh, optiquement à quarante mégahertz. 
+En outre, les environ dix pour cent des multiplicateurs de photo, euh de ceux qui lisent les cellules les plus exposées seront remplacés 
+le i, il est prévu une mise à niveau de l'alimentation basse tension et aussi du système de distribution haute tension. 
+Et ceci est le schéma d'acquisition complet pour le Tilecal et le projet est dans un état très mature et la préproduction est attendue déjà cette année pour plusieurs sous-systèmes. 
+Il reste dix euh cinq minutes. Merci. Euh, avançons sur les détecteurs de muons à la diapositive seize. 
+Euh, juste pour vous donner un aperçu global du système, les mises à jour prévues pour les muons ont deux objectifs principaux: 
+de réduire le taux de faux du déclencheur dans le tonneau et la région du capuchon d'extrémité 
+et pour augmenter la couverture géométrique dans le canon. 
+Afin de faire cela, de nouveaux détecteurs seront installés, euh, dans le tonneau le, euh, RPCs plus SMD Ts donc si vous regardez les deux images du bas, 
+euh, à gauche pour les petits secteurs, les anciens, euh BIS MDTs seront remplacés par les nouveaux petits MDTs plus RPCs exactement comme le, euh, projet BIS sept huit 
+alors que dans les grands secteurs les nouveaux détecteurs RPC seront montés sur le dessus de l'existant BIL euh MDT, car nous avons ici un beaucoup plus d'espace. 
+Toujours dans la région du capuchon d'extrémité, le détecteur TGC EIL quatre euh sera remplacé. 
+euh pour le moment il y a un doublet il y aura un triplet afin de permettre un algorithme de coïncidence plus robuste. 
+Des structures ici qui créent des trous de couverture dans les couches moyennes du tonneau, comme cela était lors des runs un et deux, et comme ce sera pour le run trois, 
+et donc ces trous de couverture seront couverts par cette nouvelle couche de RPCs. 
+Passons à la diapositive 17. 
+Euh pour le déclencheur à muon de niveau zéro. 
+Euh donc les données du RPC TGC et les détecteurs des nouvelles petites roues utilisés euh dans la phase un 
+seront complétés avec les nouveaux détecteurs avec BI RPCs avec les TGC EIL quatre avec le Tilecal 
+euh les cellules extérieures du calorimètre à tuile et avec les petits MDTs. 
+Euh, en regardant les graphiques en haut à gauche, nous avons obtenu deux objectifs essentiellement, nous couvrons toutes les régions de eta. 
+donc, essentiellement, nous euh augmentons l'acceptation géométrique sur le tonneau de soixante-dix-huit pour cent à quatre-vingt-quinze pour cent. 
+Et nous pouvons également atteindre une efficacité de sélection accrue en réduisant les faux déclencheurs, en faisant des coïncidences plus robustes 
+Pour ce faire, les cartes des détecteurs de muons euh seront conçus et installés 
+ils permettront une lecture numérique complète du détecteur euh, ainsi, les données seront envoyées à quarante mégahertz hors détecteur 
+le bloc inférieur montre le schéma de lecture du déclencheur pour le spectromètre à muons, la nouvelle euh logique sectorielle hors détecteur du tonneau et du capuchon 
+va effectuer l'algorithme de déclenchement comme d'habitude. Mais maintenant, le système tire profit de la latence plus élevée et donc aussi le processeur de déclenchement M D T est utilisé 
+sera conçu et utilisé afin d'aider à l'identification mu et le rejet des faux déclenchements 
+et comme je l'ai dit les données de lecture sont ensuite envoyés à Felix euh une fois que l'événement est accepté et validé 
+passons à la diapositive dix-huit, le système T DAQ en phase two. euh 
+C'est un aperçu euh euh très court. Euh dans l'image, vous voyez ce qu'on appelle le schéma de base pour le T DAQ. 
+C'est une architecture à deux niveaux. Le premier niveau est le niveau zéro où le processeur central de déclenchement reçoit - c'est fini dans deux minutes - merci 
+reçoit des données du système de muons et des calorimètres pour le muon de niveau zéro niveau zéro. Il émet un signal d'acceptation de niveau zéro 
+qui est la flèche rose qui est renvoyée aux détecteurs et puis les données sont lues 
+par le tracker intérieur le calorimètre et le système de muons à Felix. 
+Le deuxième niveau est un déclencheur de haut niveau HLT. Et ici euh il est fait de fermes de processeurs, un matériel personnalisé appelé HTT 
+qui utilise les données de suivi pour affiner l'algorithme de déclenchement. 
+Le taux de déclenchement doit être à un mégahertz. C'était cent kilohertz dans  la période d'exploitation un et la période d'exploitation deux. La latence doit être inférieure à euh dix microsecondes. 
+il était de deux points cinq microsecondes dans la période d'exploitation un et  la période d'exploitation deux et le stockage permanent doit être effectué à dix kilohertz, 
+Eh à l'étude également une architecture de niveau zéro niveau un  qui permettra mettre le système à l'échelle plus tard si cela est requis par les besoins de la physique euh 
+ou par les performances du LHC hum H euh HL LHC , mais le système doit être conçu maintenant, afin de permettre également une évolution. 
+concentrons-nous simplement sur l'architecture de niveau zéro. 
+Euh il y aura des données supplémentaires des calorimètres et des muons pour le calo de niveau zéro avec la nouvelle mise à niveau de phase un de ces trois. 
+Il y aura aussi un autre qui s'appelle le F FEX ou les extracteurs de caractéristiques avant 
+Pour les muons, les données de la nouvelle petite roue seront également complétées avec les données des MDTs 
+et aussi pour les RPCs pour améliorer l'efficacité de la couverture de déclenchement. 
+Un nouveau système sera le déclencheur global euh qui effectuera des algorithmes pseudo hors ligne sur la granularité complète euh sur les données calorimétriques. 
+il utilisera des critères topologiques tels que le regroupement, ou l'identification et l'isolement des photons et des électrons. 
+Pour le déclencheur central, l'interface de déclencheur muons vers central conçue pour la phase un sera aussi utilisée pour la phase deux, seulement le firmware sera mis à jour 
+tandis que le nouveau processeur central de déclenchement sera développé et conçu pour la phase deux. 
+A propos du DAQ et du déclencheur de haut niveau, la lecture du détecteur se fera à un mégahertz 
+qui est dix fois - Vincenzo le temps est dépassé - C'est ma dernière diapositive 
+hum le débit de lecture sera de cinq points deux téraoctets par seconde qui est vingt fois plus que celui d'aujourd'hui 
+le système DAQ sera basé sur Felix le flux de données fera tampon, construction d'événements, et enregistrement des données 
+Et aussi le filtre d'événement comme je l'ai dit est basé sur un déclencheur de piste matériel, 
+qui est basé sur les mémoires associatives ou FPGAs. 
+Et ce sont mes conclusions. Donc, essentiellement le grand ensemble de données qui peuvent être recueillies permettra d'effectuer beaucoup de mesures de précision 
+euh à la fois dans l'exploration du modèle standard uh et des processus rares du modèle standard et pour de nouveaux phénomènes 
+les mises à niveau de phase un et de phase deux sont bien avancées, la phase un est déjà presque terminé et prêt pour l'installation 
+alors que les mises à niveau de phase deux sont dans l'état prototype euh à l'état de développement. Si vous voulez plus de détails ici j'ai mis un lien avec tous les euh T D Rs publiés. 
+Merci. Désolé d'être en retard. 
+D'accord, merci Vincenzo. Merci pour ce discours assez complet. Je suis sûr qu'il doit y avoir des questions. 
+N'oubliez pas de lever la main 
+Il n'y a aucune question. Je veux vous demander une chose que je n'ai pas compris. Oui. Donc, quel est le statut maintenant pour les nouvelles petites roues des détecteurs de micro méga, 
+quel est l'état de l'installation ? 
+OK, les micro megas et aussi le TGC, le système entier des nouvelles petites roues, euh était une tâche hautement prioritaire. 
+Donc, même pendant la crise du CERN euh euh COVID euh il y avait un groupe de travail 
+qui euh travaillait toujours sur l'assemblage, l'installation et les connexions, 
+même lorsque le nombre de personnes autorisées à entrer au CERN était très faible. 
+Puis depuis la semaine dernière, je pense que beaucoup plus de gens sont entrés. 
+je ne suis pas sûr euh 
+si le secteur if un autre euh secteur a été installé, donc l'idée est d'installer plus euh d'abord euh les petits secteurs 
+comme ces deux et puis le plus grand. Euh mais bien sûr si vous voulez que je si vous demandez au sujet de micro 
+megas, micro megas doivent être pris en sandwich avec les TGCs. 
+alors euh, c'est une question de tout avoir au CERN et puis de tout remettre euh ensemble 
+pour faire le euh tout ce pourquoi j'ai essayé de mettre des photos ici et puis d'installer sur la roue. 
+Je pense qu'il n'y a pas eu trop de retard sur la nouvelle petite roue parce que c'était une tâche hautement prioritaire. 
+Je ne connais pas beaucoup plus de détails en réalité. D'accord, merci. 
+Il y a toujours du temps pour une question. 
+Il ne semble pas y en avoir donc nous remercions Vincenzo à nouveau bien sûr virtuellement une fois de plus. Merci. Et puis nous allons 

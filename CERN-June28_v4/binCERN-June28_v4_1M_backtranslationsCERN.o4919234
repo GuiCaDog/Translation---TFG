@@ -1,0 +1,21 @@
++------- PROLOGUE SCRIPT -----------------------------------------------
+|
+| Job ID ...........: 4919234
+| Started at .......: dissabte, 2 de juliol de 2022, 03:22:06 CEST
+| Execution host ...: raimon
+| Cluster queue ....: all.q
+| Script ...........: /opt/sge6-2/default/spool/raimon/job_scripts/4919234
+| > trap "exit 100" ERR; ./prepare_data_fairseq.sh
+|
++------- PROLOGUE SCRIPT -----------------------------------------------
+rm: no s’ha pogut eliminar '/home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/data/fairseq_prepared_data/': El fitxer o directori no existeix
+2022-07-02 03:22:10 | INFO | fairseq_cli.preprocess | Namespace(align_suffix=None, alignfile=None, all_gather_list_size=16384, bpe=None, checkpoint_suffix='', cpu=False, criterion='cross_entropy', dataset_impl='mmap', destdir='/home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/data/fairseq_prepared_data/', empty_cache_freq=0, fp16=False, fp16_init_scale=128, fp16_no_flatten_grads=False, fp16_scale_tolerance=0.0, fp16_scale_window=None, joined_dictionary=True, log_format=None, log_interval=100, lr_scheduler='fixed', memory_efficient_fp16=False, min_loss_scale=0.0001, model_parallel_size=1, no_progress_bar=False, nwordssrc=-1, nwordstgt=-1, only_source=False, optimizer='nag', padding_factor=8, quantization_config_path=None, seed=1, source_lang='en', srcdict=None, target_lang='fr', task='translation', tensorboard_logdir='', testpref='/home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/data/wmt14.enfr.prepro.spm', tgtdict=None, threshold_loss_scale=None, thresholdsrc=10, thresholdtgt=10, tokenizer=None, trainpref='/home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/data/corpus.deesc.prepro.spm', user_dir=None, validpref='/home/gicado/tfg/mt_systems/enfr/CERN-June28_v4_1M_backtranslations/data/wmt13.enfr.prepro.spm', workers=4)
++------- EPILOGUE SCRIPT -----------------------------------------------
+|
+| Job ID ..............: 4919234
+| Stopped at ..........: dissabte, 2 de juliol de 2022, 03:22:26 CEST
+| Resources used ......: cpu=00:00:01, mem=0.29294 GBs, io=0.00495, vmem=1.542G, maxvmem=1.542G
+| Peak memory value ...: 1.542G
+| Total time used .....: 0:00:20
+|
++------- EPILOGUE SCRIPT -----------------------------------------------

@@ -1,0 +1,40 @@
+FROM nvidia/cuda:9.0-cudnn7-runtime-ubuntu16.04
+
+# Install dependencies
+RUN apt-get update && \
+    apt-get install build-essential zlib1g-dev wget libssl-dev -y && \
+    cd /opt && \
+    wget https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tgz && \
+    tar -xvf Python-3.6.3.tgz && \
+    cd Python-3.6.3 && \
+    ./configure && \ 
+    make && \
+    make install && \
+    python3.6 -v
+
+#    apt-get install python3.6 python3-pip virtualenv -y && \
+#    apt-get clean && \
+#    rm -fr /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+# Install Torch
+RUN apt-get install -y wget && \
+    wget https://download.pytorch.org/whl/cu90/torch-1.0.1.post2-cp36-cp36m-linux_x86_64.whl && \
+    pip3 install torch-1.0.1.post2-cp36-cp36m-linux_x86_64.whl && \
+    pip3 install fairseq==0.6.2 && \
+    rm torch-1.0.1.post2-cp36-cp36m-linux_x86_64.whl
+
+# Change user
+RUN groupadd -g 1100 ttpuser && \
+    useradd -u 1100 -g 1100 ttpuser && \
+    mkdir -p /home/ttpuser/ && \
+    chown ttpuser:ttpuser /home/ttpuser && \
+    mkdir -p /home/ttpuser/gits && chown ttpuser:ttpuser /home/ttpuser/gits
+
+USER ttpuser:ttpuser
+WORKDIR /home/ttpuser
+
+COPY --chown=ttpuser:ttpuser gits/subword-nmt/ gits/subword-nmt/
+COPY --chown=ttpuser:ttpuser gits/mosesdecoder gits/mosesdecoder
+
+RUN mkdir -p io tmp
+VOLUME /home/ttpuser/io /home/ttpuser/tmp

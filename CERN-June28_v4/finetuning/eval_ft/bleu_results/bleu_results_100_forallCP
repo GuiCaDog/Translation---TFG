@@ -1,0 +1,30 @@
+-----------------------------> 500 <----------------------------- \n\n
+Computing BLEU for dev set k100, c500
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 41.7 68.9/48.5/36.6/28.1 (BP = 0.967 ratio = 0.968 hyp_len = 65274 ref_len = 67441)
+Computing BLEU for test set k100, c500
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 42.1 69.1/48.8/36.9/28.6 (BP = 0.970 ratio = 0.971 hyp_len = 53610 ref_len = 55229)
+-----------------------------> 1000 <----------------------------- \n\n
+Computing BLEU for dev set k100, c1000
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 41.9 68.8/48.6/36.7/28.2 (BP = 0.971 ratio = 0.971 hyp_len = 65506 ref_len = 67441)
+Computing BLEU for test set k100, c1000
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 42.6 69.1/48.9/37.2/28.9 (BP = 0.976 ratio = 0.976 hyp_len = 53920 ref_len = 55229)
+-----------------------------> 1500 <----------------------------- \n\n
+Computing BLEU for dev set k100, c1500
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 42.3 69.0/48.9/37.2/28.7 (BP = 0.971 ratio = 0.972 hyp_len = 65527 ref_len = 67441)
+Computing BLEU for test set k100, c1500
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 42.9 69.3/49.2/37.5/29.1 (BP = 0.978 ratio = 0.978 hyp_len = 54007 ref_len = 55229)
+-----------------------------> 2000 <----------------------------- \n\n
+Computing BLEU for dev set k100, c2000
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 42.1 68.9/48.8/37.0/28.6 (BP = 0.969 ratio = 0.969 hyp_len = 65374 ref_len = 67441)
+Computing BLEU for test set k100, c2000
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 42.8 69.2/49.1/37.4/29.1 (BP = 0.976 ratio = 0.976 hyp_len = 53902 ref_len = 55229)
+-----------------------------> 2500 <----------------------------- \n\n
+Computing BLEU for dev set k100, c2500
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 41.9 68.8/48.6/36.8/28.4 (BP = 0.968 ratio = 0.969 hyp_len = 65318 ref_len = 67441)
+Computing BLEU for test set k100, c2500
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 42.5 69.0/48.8/37.1/28.9 (BP = 0.976 ratio = 0.976 hyp_len = 53913 ref_len = 55229)
+-----------------------------> 5000 <----------------------------- \n\n
+Computing BLEU for dev set k100, c5000
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 41.8 68.7/48.5/36.8/28.5 (BP = 0.967 ratio = 0.967 hyp_len = 65237 ref_len = 67441)
+Computing BLEU for test set k100, c5000
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 42.2 68.6/48.4/36.9/28.7 (BP = 0.975 ratio = 0.975 hyp_len = 53852 ref_len = 55229)

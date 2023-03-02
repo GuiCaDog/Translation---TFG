@@ -1,0 +1,156 @@
+[II][GPU AM][2022-05-30 17:21:26] Hostname: gozer1
+[II][GPU AM][2022-05-30 17:21:26] New request (JOB_ID 4912402): GPU_mem 6442450944, GPU_cards 0
+[II][GPU AM][2022-05-30 17:21:27] Calling nvidia-smi:
+Mon May 30 17:21:27 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 460.56       Driver Version: 460.56       CUDA Version: 11.2     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  GeForce RTX 208...  Off  | 00000000:02:00.0 Off |                  N/A |
+| 30%   64C    P0    76W / 250W |      0MiB / 11016MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+|   1  GeForce RTX 208...  Off  | 00000000:03:00.0 Off |                  N/A |
+| 17%   63C    P0    49W / 250W |      0MiB / 11019MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+
+[II][GPU AM][2022-05-30 17:21:27] Current database status:
+
+{
+  "GPU-3cc61fcb-6bfd-8ac2-aab6-ca9135d57bf1": [
+    {
+      "jid": 4912399,
+      "taskid": null,
+      "name": "comet",
+      "user": "arsar",
+      "gpu_card": 0,
+      "gpu_mem": "4096 MB"
+    }
+  ],
+  "GPU-8a7b2e43-2987-859b-50a5-5dc8cb22c68c": [],
+  "GPU-cf8fe7e6-3d03-9c44-27fd-7366854895ab": [],
+  "GPU-deabbb3d-7b81-37fe-c428-d440c2288d71": []
+}
+
+[WW][GPU AM][2022-05-30 17:21:28] I found an unexisting process (JID 4912399) using GPU GPU-3cc61fcb-6bfd-8ac2-aab6-ca9135d57bf1. Fixing DB...
+[II][GPU AM][2022-05-30 17:21:28] Updated database status:
+
+{
+  "GPU-3cc61fcb-6bfd-8ac2-aab6-ca9135d57bf1": [],
+  "GPU-8a7b2e43-2987-859b-50a5-5dc8cb22c68c": [],
+  "GPU-cf8fe7e6-3d03-9c44-27fd-7366854895ab": [],
+  "GPU-deabbb3d-7b81-37fe-c428-d440c2288d71": []
+}
+
+[II][GPU AM][2022-05-30 17:21:28] Current GPU status:
+
+{
+  "GPU-3cc61fcb-6bfd-8ac2-aab6-ca9135d57bf1": {
+    "mem_total": "11019 MB",
+    "mem_free_current": "11019 MB",
+    "mem_free_allocated": "11019 MB",
+    "mem_free_real": "11019 MB",
+    "sge_card_allocated": false,
+    "sge_slots_allocated": 0
+  },
+  "GPU-cf8fe7e6-3d03-9c44-27fd-7366854895ab": {
+    "mem_total": "11016 MB",
+    "mem_free_current": "11016 MB",
+    "mem_free_allocated": "11016 MB",
+    "mem_free_real": "11016 MB",
+    "sge_card_allocated": false,
+    "sge_slots_allocated": 0
+  }
+}
+
+[II][GPU AM][2022-05-30 17:21:28] Updated database status:
+
+{
+  "GPU-3cc61fcb-6bfd-8ac2-aab6-ca9135d57bf1": [
+    {
+      "jid": 4912402,
+      "taskid": null,
+      "name": "inferDevTests",
+      "user": "gicado",
+      "gpu_card": 0,
+      "gpu_mem": "6144 MB"
+    }
+  ],
+  "GPU-8a7b2e43-2987-859b-50a5-5dc8cb22c68c": [],
+  "GPU-cf8fe7e6-3d03-9c44-27fd-7366854895ab": [],
+  "GPU-deabbb3d-7b81-37fe-c428-d440c2288d71": []
+}
+
+[II][GPU AM][2022-05-30 17:21:28] Updated GPU status:
+
+{
+  "GPU-3cc61fcb-6bfd-8ac2-aab6-ca9135d57bf1": {
+    "mem_total": "11019 MB",
+    "mem_free_current": "11019 MB",
+    "mem_free_allocated": "4875 MB",
+    "mem_free_real": "4875 MB",
+    "sge_card_allocated": false,
+    "sge_slots_allocated": 1
+  },
+  "GPU-cf8fe7e6-3d03-9c44-27fd-7366854895ab": {
+    "mem_total": "11016 MB",
+    "mem_free_current": "11016 MB",
+    "mem_free_allocated": "11016 MB",
+    "mem_free_real": "11016 MB",
+    "sge_card_allocated": false,
+    "sge_slots_allocated": 0
+  }
+}
+
+[II][GPU AM][2022-05-30 17:21:28] Selected GPUs: GPU-3cc61fcb-6bfd-8ac2-aab6-ca9135d57bf1
+
++------- PROLOGUE SCRIPT -----------------------------------------------
+|
+| Job ID ...........: 4912402
+| Started at .......: Mon May 30 17:21:28 CEST 2022
+| Execution host ...: gozer1
+| Cluster queue ....: all.q
+| GPUs .............: GPU-3cc61fcb-6bfd-8ac2-aab6-ca9135d57bf1
+| Script ...........: /opt/sge6-2/default/spool/client/gozer1/job_scripts/4912402
+| > trap "exit 100" ERR; ./preprocess_files.sh
+|
++------- PROLOGUE SCRIPT -----------------------------------------------
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = "ca:es:en",
+	LC_ALL = (unset),
+	LC_ADDRESS = "ca_ES.UTF-8",
+	LC_NAME = "ca_ES.UTF-8",
+	LC_MONETARY = "ca_ES.UTF-8",
+	LC_PAPER = "ca_ES.UTF-8",
+	LC_IDENTIFICATION = "ca_ES.UTF-8",
+	LC_TELEPHONE = "ca_ES.UTF-8",
+	LC_MEASUREMENT = "ca_ES.UTF-8",
+	LC_TIME = "ca_ES.UTF-8",
+	LC_NUMERIC = "ca_ES.UTF-8",
+	LANG = "ca_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+preprocess_file_and_apply_spm.sh: línea 16: spm_encode: orden no encontrada
+inferred CERN.enfr.dev.en
++------- EPILOGUE SCRIPT -----------------------------------------------
+|
+| Job ID ..............: 4912402
+| Stopped at ..........: Mon May 30 17:25:08 CEST 2022
+| Resources used ......: cpu=00:03:05, mem=286.06536 GBs, io=7.31860, vmem=2.688G, maxvmem=3.901G
+| Peak memory value ...: 3.901G
+| Total time used .....: 0:03:42
+|
++------- EPILOGUE SCRIPT -----------------------------------------------

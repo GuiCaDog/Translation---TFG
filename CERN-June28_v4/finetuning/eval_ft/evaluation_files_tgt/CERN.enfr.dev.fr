@@ -1,0 +1,2281 @@
+Ok, alors bonjour tout le monde. 
+parler de la violation de CP dans les désintégrations de B. 
+Ok. Donc d'abord une brève introduction. 
+nous savons que la violation de CP 
+euh observée dans les désintégrations des mésons K, B et D, 
+et euh ils sont bien cohérents avec CP euh 
+prédiction de modèle standard, 
+mais euh 
+euh... 
+ils sont encore trop petits pour expliquer l'absence d'antimatière dans l'univers. 
+euh... cette diapositive sera, 
+montrera les 
+deux analyses, l'une qui concerne les désintégrations lambda B à p trois pions et l'autre sur les désintégrations B à trois pions. 
+pour les mesures des triangles unitaires, veuillez consulter la présentation de Mark demain. 
+euh... concernant la désintégration de lambda b à p trois pions. 
+les mesures précédentes montrent euh 
+trois point trois sigma pour CPV en utilisant les asymétries de produit triple. 
+Euh cette mesure effectuée euh 
+dans les régions de l'espace des phases. 
+Nous allons donc le mettre à jour avec plus de données pour voir si cela est vrai ou euh en raison de la fluctuation statistique. 
+Pour euh pour la nouvelle analyse de cette désintégration euh, est mis à jour en utilisant les données six point six feta inverse, inverse thêta barre. 
+et environ vingt-sept 
+mille 
+euh 
+rendements observés qui est d'environ quatre fois plus que le précédent 
+et euh deux approches sont 
+sont exploitées. L'une est l'utilisation de l'asymétrie du produit triple, 
+avec des schémas de binning améliorés. L'autre est la méthode Unbinned Energy Test. 
+vous pouvez voir le signal clair 
+euh sur le tracé de droite. 
+Euh les produits triples sont construits 
+dans le référentiel au repos de la particule-mère 
+et... en utilisant euh... 
+moment de um... 
+des trois dernières particules, 
+euh dans le référentiel au repos lambda b, ou le référentiel au repos lambda b barre en utilisant les antiparticules correspondantes. 
+et puis nous pouvons euh construire les asymétries P-odd 
+en comparant 
+euh les 
+différents signes du C T pour la désintégration lambda b, et en conséquence, 
+euh comparer 
+en comparant les signaux avec différents signes de C T barre pour les désintégrations en lambda b barre. 
+Après cela, nous pouvons construire la 
+violation de CP ou la violation de P, observable, observables 
+comme la différence ou la somme des CAT et A T barre. 
+Cela est montré 
+sur la 
+boite rouge ou bleue. 
+Euh 
+Alors, comment faire... pour obtenir le schéma de binning amélioré. 
+Premièrement, nous 
+euh... déve- avons développé un mode d'amplitude basé sur ces deux études théoriques 
+euh et 
+et puis nous pouvons introduire 
+euh... 
+donc, nous avons d'abord un modèle qui 
+qui peut reproduire une répartition des espaces de phase similaire aux données observées à partir des 
+mesures précédentes, puis nous allons introduire la violation CP P-odd. 
+Cela pourrait provenir de l'interférence des euh ondes S et P comme cela est montré dans les chaînes de désintégration suivantes. 
+Euh la lambda b à N étoile plus un demi et euh N étoile plus trois et demi, 
+la région d'espace de phase de cette désintégration permet euh 
+pour 
+beaucoup d'étoiles N plus et delta plus. 
+Donc, ce, 
+ce modèle, 
+en fait est est une 
+approximation de la nature. 
+Donc, nous pouvons faire 
+euh des analyses de sensibilité 
+basées sur l'utilisation de ce modèle. 
+Avec ce euh 
+modèle 
+nous avons euh 
+euh nous avons une nouvelle amélioration du schéma A 
+qui qui 
+euh est pour la division de l'espace des phases dans le 
+polaire 
+et les angles d'azimut 
+des protons dans le Delta plus plus le référentiel au repos, 
+ou ou le Delta plus plus dans le référentiel au repos N étoile plus. 
+Euh... 
+nous avons également un schéma B, 
+qui est euh 
+qui est 
+basé sur la 
+valeur absolue de pha- 
+l'angle de Phi 
+defi- euh 
+défini par les deux plans de désintégration. 
+Nous le gardons p- 
+nous l'utilisons parce que c'est euh 
+euh, c'est c'est la même chose que les mesures précédentes, nous voulons vérifier si les symétries sont toujours là. 
+Ainsi, 
+euh 
+pour les mesures intégrées dans l'espace des phases uh, 
+la CP est compatible avec la symétrie CP que vous pouvez voir du haut, 
+puis les les variables AP, 
+il y a un écart d'environ cinq point cinq sigma par rapport à la symétrie pip p. 
+Il y a p 
+violation de parité ici. 
+Pour les mesures dans les différentes régions de l'espace des phases, l'échantillon s'est d'abord divisé en... deux échantillons. 
+L'échantillon A 
+euh est pour les événements dominés par la résonance A un, 
+l'échantillon deux est pour les multiples événements dominés par l'étoile N. 
+Comme vous pouvez le voir sur les graphiques, les deux premiers graphique sont pour le A un, 
+deux graphiques du haut, puis le ba- le bas, deux graphiques sont pour les tracés de N étoile, 
+événements dominants. 
+Euh le point rouge est pour les observations ACP et les points euh, euh blues euh 
+pour les mesures AP. 
+euh, il n'y a aucune preuve pour la validation de CP, 
+la signification la plus élevée est d'environ deux point neuf sigma, 
+comme vous pouvez le voir 
+dans le 
+euh... 
+schéma B, 
+sur le graphique euh en bas à droite. 
+Donc, pour le test d'énergie, euh 
+le test d'énergie est un test non groupé indépendant du modèle, qui est sensible à la différence locale entre deux échantillons, 
+qui pourrait 
+euh... 
+pourrait provenir de la euh violation de CP. 
+Le test statistique est euh d'environ 
+trois termes, les deux premiers termes sont 
+le calcul 
+euh dans deux échantillons séparément 
+et le troisième est pour le calcul entre deux échantillons. 
+La fonction pondérée euh... a deux paramètres. Le paramètre d est la distance entre deux candidats dans 
+les échantillons, euh qui est déterminé par dans l'espace déterminé par la topologie de désintégration 
+et delta est une échelle de distance qui peut être optimisée à partir de Monte-Carlo. 
+L'échantillon total euh est divisé en quatre sous- sous-échantillons selon la transformation dans le cadre de la 
+transformation de la charge et de la parité. 
+Ainsi, nous pouvons effectuer un test CP de P-odd en comparant l'échantillon un quatre par rapport à l'échantillon deux trois. 
+Euh et aussi le test CP P-even en comparant l'échantillon un deux par rapport à l'échantillon trois quatre. 
+Et nous pouvons également faire 
+test de parité. 
+En comparant l'échantillon un trois et l'échantillon deux quatre. 
+Hum 
+donc, à partir de Monte-Carlo nous avons, 
+euh nous 
+nous nous pouvons avoir trois types de valeurs delta, 
+ensuite, nous faisons 
+le test euh euh montré dans la première euh dans la diapositive précédente. 
+pour le euh test CP P-even de conservation 
+comme cela est montré dans la boîte bleue. 
+Euh... 
+la signification la plus élevée est d'environ trois point zéro sigma, 
+correspondant à une valeur delta égale euh à deux point sept. 
+euh... 
+après avoir combiné ces trois mesures, la signification est inférieure à trois sigma. 
+Donc, malheureusement, ici, il n'y a pas euh... preuve confirmée. 
+Pour pour le test de conservation P. 
+Euh les les deux premiers tests euh ont plus de cinq sigma. 
+et lorsque l'on combine les trois mesures, 
+euh le... 
+le test de parité est d'environ 
+trois point cinq virgule trois déviations par rapport à la parité de conservation. 
+Ainsi, voici la 
+violation de parité ici. 
+Euh concernant la désintégration de B à trois pi, 
+l'analyse précédente montre, 
+montre euh 
+RUW symétrie localisée dans les régions de Dalitz Plots comme vous pouvez le voir dans le graphique, 
+le coût 
+les couleurs 
+prés- 
+euh... pour les différentes valeurs de de l'asymétrie. 
+Euh qui peut venir f- venir de la contribution de l'onde S de faible masse et l'interférence rho, 
+ou le mélange rho oméga, toute rediffusion pi pi KK. 
+Ainsi, une analyse d'amplitude est nécessaire pour trouver la bonne source de CPA. 
+uh pour l'analyse d'amplitude les, 
+modèles modèles sont 
+construits 
+séparément pour B plus et B moins. 
+De plus, ils s'agit de deux types de 
+paramètres, le C est euh... un coefficient complexe pour la violation CP et F est euh 
+une partie dynamique forte, 
+qui contient la forme linéaire et les distributions angulaires 
+et est une partie de conservation du CP. 
+Euh... il existe trois méthodes différentes pour décrire les contributions des ondes S, le modèle isobare, la matrice K et 
+euh l'approche quasi indépendante du modèle. 
+Et puis nous construisons deux observables, le... 
+ACP pour la violation de CP, les mesures de violation en comparant le 
+carré euh les euh coefficients 
+et la fraction d'ajustement comme euh 
+l'intégrale de chaque contribution, 
+donc, 
+euh... environ 
+une vingtaine euh mi- 
+de milliers de restes de signaux construits à l'aide de trois données f b inverse. 
+Et vous pouvez voir qu'il y a différentes structures dans le 
+euh graphique de Dalitz. 
+évidemment la boîte rouge 
+correspondant à euh à 
+euh la faible résonance, 
+ou pourrait correspondre au mélange rho-oméga ici. 
+et il y a aussi euh 
+f deux 
+probablement dans dans dans dans dans les graphiques. 
+et pourrait aussi euh re diff- re diffusion pi pi KK. 
+Ainsi, 
+à partir des euh résultats numériques, 
+nous pouvons voir que les contributions dominantes sont issues de la rho sept soixante-dix, qui concerne euh cinquante-cinq pour cent. 
+Et les ondes S d'environ vingt-cinq pour cent. 
+Euh il y a une plus grande violation du CP de 
+f 
+f deux douze soixante-dix, environ quarante-cinq pour cent 
+et euh... des ondes S environ 
+euh quatorze pour cent. 
+Cela étant, 
+il n'y a aucune asymétrie de la rho sept soixante-dix qui contribue largement à la désintégration. 
+Euh... 
+trois euh pu- 
+les deux trois euh méthodes euh 
+euh do- euh donnent des résultats cohérents. 
+Pour les euh rho sept soixante-dix, 
+euh... 
+si vous regardez les projections d'asymétries dans le le 
+euh angle cosinus theta hélice et aussi la masse. 
+Euh il y a de petites très petites asymétries presque compatibles avec zéro. 
+Cependant euh... 
+si nous regardons les projections d'asymétrie, 
+euh au-dessous, 
+et au-dessus de la masse rho, 
+vous pouvez voir les asymétries claires 
+et l'asymétrie change les signes d'une masse croisée, 
+masse rho croisée. 
+Si vous les mettez ensemble, les asymétries peuvent signer parfaitement. 
+Euh... 
+ce euh 
+schéma caractéristique est due à l'interférence de l'onde S P, 
+euh qui est proportionnelle à l'helicité du cosinus euh. 
+Donc lorsqu'il est euh intégral sur cet angle, 
+l'as- l'asymétrie disparaît, c'est pourquoi nous ne pouvons pas voir les asymétries pour les mesures intégrées. 
+Euh... 
+et aussi nous allons trouver une première observation pour un 
+euh un CPV dans le processus impliquant un intense f deux douze soixante-dix 
+vous pouvez voir le plus grand 
+euh... 
+du du graphique. 
+un grand graphique 
+asymétrie CP euh peut aller à quarante pour cent 
+et... 
+il y a euh 
+une légère contradiction 
+ent- entre entre le mode et les données dans la masse des f deux. 
+Euh après quelques études systématiques, la 
+cette violation de CP est ici un rebondissement. 
+Euh pour les résultats de l'onde S, 
+euh... 
+ces trois approches sont en bon accord. 
+et si vous regardez les euh les 
+graphiques gauches, hauts à gauche 
+pour l'amplitude au carré 
+magnitude 
+euh... 
+si vous regardez le euh 
+graphique en haut à droite, c'est la phase du modèle d'amplitude. 
+euh... 
+la phase est difficile à décrire 
+parce qu'en raison de différentes hypothèses ici 
+et aussi 
+comme vous pouvez le voir clairement, 
+il n'y a pas 
+uh f zéro quinze cents sont dans le modèle isobare. 
+Euh et aussi la, cette comparaison peut être faite par... 
+par B plus et et et le B moins séparés. 
+Ainsi , comme indiqué dans les trois graphiques du bas, 
+euh... 
+il est clair qu'il 
+il y a un 
+modèle de CPV similaire pour ces trois approches. 
+comme, euh par exemple, les, 
+les asymétries sont plus grandes dans la région de faible masse. 
+et euh les euh signe de changement d'asymétrie 
+quand la... 
+la masse de pi pi va à 
+un GeV qui est co-, correspondant à f zéro neuf quatre-vingts 
+et aussi le 
+et a commencé à changer le signe euh de si la masse plus grande qu'un GeV. 
+donc, euh 
+il y a donc la dernière page, le résumé. 
+donc, euh ces multiples désintégrations sont un endroit intéressants pour rechercher la violation de CP, 
+euh parce que les riches espaces des phases permettent, permettent de, 
+de... 
+d'améliorer la sensibilité du CPV 
+euh et la violation de la parité euh observée dans les désintégrations du pion Lambda b à p trois. 
+mais euh 
+euh... 
+nous n'avons pas confirmé la preuve de violation de CP. 
+donc, plus de données sont nécessaires pour effectuer les autres études, 
+euh... et nous avons trouvé le 
+euh... 
+plusieurs sources de CPV en désintégrations du pion Lambda b à p trois. 
+Le nouveau modèle CPV 
+euh du rho sept soixante-dix 
+et le CPV pro- dans 
+trouvé dans le processus était un, était un tenseur, 
+tenseur f deux douze soixante-dix 
+et euh... CPV dans les contributions de l'onde S dans les régions de faible masse. 
+Voilà tout. 
+Je vous remercie. 
+Merci beaucoup Jinlin, c'était très clair. 
+euh... euh... 
+pour... des questions, alors euh 
+euh à partir de euh... 
+levez la main 
+sur l'application, si possible, si vous ne pouvez pas 
+mettre 
+euh un commentaire dans le chat, et nous allons essayer de 
+vous faire parler au bon moment. 
+il y a donc une question ? pour l'orateur en ce moment. 
+Peut-être pour commencer, 
+puisque je ne vois aucune main. J'ai un commentaire sur la première analyse sur lambda b. 
+euh... 
+Désolé, 
+votre premier article, 
+en utilisant le même canal que vous publiez sur... 
+dans Nature, non ? 
+Oui. 
+Vous publiez la preuve 
+pour la violation de CP et ne sachant 
+rien, disons pour la violation P. Maintenant, vous utilisez euh 
+une même qualité partiellement corrélée avec la première, et 
+vous avez un peu moins de trois sigma pour la violation de CP, je ne pense pas que ce soit le problème, 
+puisque vous avez déplacé de trois points 
+ce qui était trois point trois à à à quelque chose, nous allons faire les choses, il n'est peut-être pas, bien sûr, 
+euh en raison des statistiques, mais vous avez maintenant cinq point cinq sigma pour la violation de P. 
+Alors j'ai euh... 
+un ensemble de questions. Donc, 
+avez-vous vérifié la compatibilité de ces deux... 
+deux analyses qui qui utilisent le même 
+état final ? 
+euh par exemple, vous, 
+peut-être que vous n'avez pas. 
+D'accord, vous vous pourriez essayer d'effectuer l'ancienne analyse sur les nouvelles données, définir l'échantillon total que vous utilisez maintenant 
+ou vice versa afin de afin de voir si vous avez un accord ou non depuis, 
+en passant euh d'aucune preuve à cinq point cinq sigma pour violation, Je pense que c'est un peu 
+un peu étrange. 
+Euh... en fait, nous avons fait des comparaisons pour euh séparément pour pour le le premier échantillon de, 
+et les deuxièmes échantillons 
+euh... a également appliqué le... 
+euh... la même chose 
+les mêmes sélections. 
+euh... 
+nous avons trouvé en fait qu'il y a euh 
+qu'il y a environ deux deux point six euh 
+Sigma 
+euh cohérente entre deux 
+deux euh... 
+deux euh... 
+deux échantillons. 
+Ainsi, nous pensons que euh 
+cela est dû au fait que la... 
+fluctuation statistique pour la violation de CP. 
+Cependant, pour la violation de la parité, euh euh nous pensons que cela est dû à la, 
+nous avons les plus grandes 
+euh... 
+statistiques, 
+donc, nous pouvons trouver 
+que c'est c'est d'environ cinq point cinq 
+sig- euh déviation sigma. 
+D'accord, je vous remercie. 
+J'aurais une question si je peux. 
+Oui Luccia, allez-y. 
+Euh oui donc cela fait plus référence à la deuxième mesure, vous mon- vous montrez donc... 
+euh... B à 
+euh trois pions. 
+donc, e- e- 
+il est bien 
+euh... d'observer 
+une nouvelle source de euh violation de CP. 
+Euh ma question 
+à propos de de cela est : 
+pouvez-vous obtenir euh... 
+n'importe quelle information CKM de ces 
+désintégrations ? 
+Euh... 
+je ne pense pas parce que voici euh 
+la phase tha- 
+est en fait associée à la résonance 
+ou... ou... 
+ou... rediffusion. 
+Donc, dans ce genre de niveau, je ne pense pas. 
+Il est orienté vers les angles CKM. 
+Parce que quand quand vous construisez les amplitudes, 
+euh... 
+quand vous construisez les amplitudes en fait c'est au niveau de l'hadron. 
+Ainsi, 
+la la phase euh 
+n'est pas direct à l'angle d'écrémage. 
+D'accord, merci. 
+D'accord, il n'y a pas d'autres... 
+questions brûlantes, nous allons donc passer à la prochaine présentation. Ainsi, nous sommes encore dans les temps. 
+D'accord, merci. 
+Parfait, nous pouvons voir nous pouvons voir vos diapositives, vous pouvez commencer. Merci. 
+D'accord, je vais donc euh couvrir euh les couplages et les mesures de masse dans les canaux ZZ et WW d'ATLAS et CMS. 
+Euh donc commencer avec le canal de désintégration ZZ à quatre leptons, qui est bien sûr l'un des canaux les plus performants pour la physique de Higgs. Euh 
+il a un très faible rapport d'embranchement, d'environ un point zéro un pour cent. Mais euh 
+en raison de la euh la haute pureté dans le pic de masse où le ratio de fond du signal est d'environ deux, il est très utile pour 
+mesurer les propriétés du boson de Higgs. 
+Et dans l'échantillon de l'Exploitation Deux complète, ATLAS et CMS ont tous deux maintenant environ deux cents signaux "ents". 
+Ainsi, ce graphique de la euh sélection de la distribution m quatre l
+montre le euh 
+le pic unique et les trois principaux fonds de sorte que le 
+le fond dominant vient de la production du modèle standard ZZ étoile, qui peut soit être 
+estimé à partir de Monte-Carlo euh, ou la normalisation de celui-ci peut être limitée par les bandes latérales m quatre l. 
+Euh le fond des faux leptons et la saveur lourde se désintègrent, 
+selon les estimations, euh d'une manière axée sur les données et de soutenir les petits fonds restants de 
+euh ttV et similaire euh et vvv peut 
+être estimé à partir de Monte-Carlo, ou ou contraint dans les bandes latérales. Donc, en particulier dans les cas où euh, 
+lorsque ceux-ci sont pertinents, par exemple pour essayer d'examiner la production de ttH. 
+Euh donc, je vais commencer avec la masse du boson de Higgs, qui est la propriété que nous mesurons, qu'il ne s'agit pas pas d'un test du modèle standard 
+en raison bien sûr euh, du fait que le boson de Higgs est un paramètre libre. 
+Euh donc ce graphique ici est juste un rappel de pourquoi nous sommes intéressés. Parce que la production dans ce cas, la production de ttH, 
+euh euh dépend de la masse. Et euh si nous voulons pouvoir tester le modèle standard 
+avec précision, nous nous avons également besoin de connaître la valeur précise de la masse. 
+et bien sûr, le canal à quatre leptons est un bon canal pour mesurer la masse parce que euh le euh 
+a- tout son état final et toutes ses particules à l'état final sont entièrement reconstruites et la euh 
+la résolution 
+avec laquelle nous pouvons mesurer les énergies lepton est assez bonne. 
+Euh sume-, 
+cet euh mesh- à ATLAS a maintenant effectué la première mesure de masse euh en utilisant l'ensemble des données de l'Exploitation Deux complète. 
+Euh su- il commence par récupérer toute partie FSR euh photons et puis 
+contraindre la masse de la paire du principal lepton d'être la masse Z, qui 
+donne un gain d'environ quinze pour cent de résolution, 
+euh ainsi, la distribution m quatre l résultante est 
+paramétrée, la fonction Crystal Ball double face dans chacune des catégories d'analyse, 
+euh qui sont basés sur l'état final, ce qui vous donne un fractionnement de résolution approximative
+parce que les muons ont une meilleure résolution que les électrons et un BDT qui est utilisé 
+afin de séparer le signal e du fond dominant ZZ. 
+Et les formes de fond sont prises à partir du Monte-Carlo lisse et leur normalisation est autorisée à flotter 
+euh et l'ajustement résultant euh, 
+l'ajustement est effectué dans chaque catégorie et puis ce graphique ajoute juste toutes les 
+les catégories pour montrer euh 
+pour montrer le euh résultat final. 
+Euh William veuillez m'excuser, peut-être que vous pouvez passer en plein écran, car notre Tony est en direct parce que nous voyons aussi des choses autour. 
+Oh, veuillez m'excuser. 
+Oui. 
+Est-ce mieux ? 
+Oui. 
+Je vous remercie. 
+D'accord. 
+"polies". 
+Euh 
+Donc, nous pouvons aussi euh 
+parce que les statistiques sont encore assez faibles, 
+euh, 
+nous pouvons bénéficier de euh de l'utilisation de
+la résolution par évènement m quatre l. 
+Euh... 
+donc, cela euh, 
+cela donne environ une amélioration d'environ deux pour cent 
+euh dans le résultat final, et c'est, cela euh signifie aussi que le 
+le résultat est un peu plus robuste aux fluctuations dues aux faibles statistiques. 
+Euh le problème bien sûr est de savoir comment l'obtenir. La résolution optimale lepton est 
+intrinsèquement non gaussienne et aussi la contrainte sur la première paire de leptons signifie que les deux premiers leptons euh 
+lepton quatre vecteurs deviennent corrélés. 
+Euh donc plutôt que d'essayer de euh de calculer la résolution m quatre l directement à partir des résolutions lepton 
+dans les événements, nous formons un réseau neuronal pour le prédire 
+en utilisant l'information Dans chacun des leptons et l'information de niveau d'événement. 
+Ainsi, en haut à gauche ici, nous montrons juste un graphique de la 
+résolution prédite 
+euh pour les données et Monte-Carlo. 
+Et comme je l'ai dit, cela donne un petit petit mais non non négligeable encore une fois à la euh résolution finale. 
+Et donc le résultat final est montré ici, euh pour chacun des quatre états finaux et est ensuite combiné, 
+euh, vous pouvez comparer au résultat précédent de CMS quatre l, qui s'accorde assez bien, 
+il s'agit d'une amélioration d'environ vingt pour cent par rapport au résultat ATLAS précédent et, 
+nous sommes toujours dominés par les statistiques ici, avec 
+le principal système étant l'échelle d'impulsion des muons. 
+Bon, alors pour passer aux mesures de couplages, euh c'est la structure simplifiée de la section efficace du modèle. 
+Donc, je montre une sorte de schéma de ce à quoi cela ressemble,
+en haut à gauche.
+Euh donc ces tentatives de cibler 
+euh... 
+des régions spécifiques de l'espace des phases dans les modes de production, donc vous commencez par diviser par des modes de production, 
+et puis vous faites d'autres fractionnements euh en utilisant le modèle standard comme un modèle cinématique ainsi, 
+par le nombre de jets, le P T des bosons vectoriels associés euh ou ou quoi que ce soit d'autre euh. 
+Euh ainsi, l'idée générale est d'essayer de maximiser la sensibilité expérimentale 
+tout en minimisant la euh la la dépendance sur les incertitudes théoriques. 
+Euh et ainsi pour pour mesurer euh la section efficace dans ces bins, euh les catégories reconstruites
+sont définies pour pour les cibler. Et donc en haut à droite, est euh le le graphique CMS montrant comment ils ont fait cela. 
+Sur l'axe des y se trouvent les différentes catégories reconstruites qu'ils ont définies. 
+Et l'axe des x montre la euh la fraction de chaque des euh euh véritables 
+bins STXS, 
+cela tombait dans les catégories. 
+Hum, 
+Donc, les les deux expériences utilisent euh des définitions différentes de STXS, 
+les deux à partir de la dénommée étape un, mais donc avec quelques bins fusionnés euh, 
+mais avec différents euh bin fusionnés ta- parler dans un moment, 
+et puis les sections efficaces euh dans chaque bin sont supplémentaires 
+en s'adaptant simplement aux valeurs euh obtenues dans les catégories reconstruites. 
+Euh donc les deux expériences ont s- 
+des approches quelque peu divergentes pour uh pour essayer de définir leurs catégories. Euh C- CMS utilise ces cinématiques 
+discriminants pour essayer d'enrichir les euh 
+les catégories, en particulier, des signaux. 
+Euh ainsi, 
+chacun dans chacun de ces graphiques, le le signal est ciblé est euh dans le rose foncé alors que 
+le signal de fond est dans le rose clair, 
+et puis la la valeur de coupure euh est 
+sur, est euh la la ligne grise du tiret. 
+Euh la variable qu'elle est cu- en train d'être coupée sur est thi- 
+ce cinématique discriminant, euh qui est défini 
+euh de la même façon pour... pour dans chaque cas comme un 
+un sur euh un plus d'un plus le rapport de la euh... la 
+la probabilité de production de Higgs basée sur 
+euh la la cinématique dans les événements 
+qui ont divisé la probabilité de la la production ciblée. 
+Euh donc dans les deux graphiques sur la droite, la production ciblée est VBF, 
+dans le haut deux, 
+avec deux jets, dans le bas avec un jet. 
+Graphique  sur la gauche, la production ciblée est VH. 
+Vous pouvez voir que que par euh 
+en imposant une coupe sur cette variable vous pouvez euh obtenir. 
+Euh catégories relativement enrichies dans le le signal qui vous intéresse par rapport aux 
+autres signaux et euh aux fonds. 
+Euh donc ATLAS a une 
+approche différente qui utilise moins de catégories, pour essayer de réduire les migrations entre eux, 
+euh mais à la place un mi- pour 
+euh entraîner les réseaux neuronaux, puis s'adapte sur les distributions des réseaux neuronaux dans les catégories 
+pour essayer de euh maintenir la sensibilité. 
+Euh donc cet l'exemple que je montre ici euh est dans la catégorie deux jets. 
+Euh donc thi- cette catégorie est divisée par euh 
+euh 
+utiliser la valeur du euh un réseau neuronal qui est entraîné pour 
+pour distinguer euh la production VH. Euh voir vous pouvez voir sur la gauche est le euh 
+est la la la faible est 
+la faible valeur de ce réseau neuronal, qui à son tour est divisé 
+dans des bins basés sur un réseau neuronal qui essaie de distinguer la production de VBF 
+sur la droite est euh 
+est la catégorie enrichie en VH qui est ensuite utilisée 
+qui est ensuite à nouveau "fur" subdivisée en valeurs de ce réseau neuronal VH. 
+Euh... 
+pour que l'ajustement final utilise ensuite ces euh ces distributions pour euh pour améliorer la sensibilité. 
+Donc, les résultats su- présentés ici pour ATLAS sur la gauche et CMS sur la droite. 
+Euh à cause des différentes fusions de bin, j'ai essayé d'indiquer euh 
+lequel des euh 
+bins CMS correspondent aux bins ATLAS, euh mais notez que 
+euh la production de ggZH est incluse dans les catégories ATLAS gg deux H. 
+Euh alors que pour CMS, c'est inclus dans VH. Euh donc la correspondance entre eux n'est pas euh tout à fait exacte. 
+Euh 
+mais une bonne concordance avec le Modèle Standard est observée euh dans tous les cas. 
+Et euh... Je veux annoncer ici que 
+euh, il y aura une discussion vendredi qui inclura des interprétations EFT de de ces résultats. 
+Donc, pour aller de l'avant maintenant à la WW euh à un canal de désintégration l l mu nu. 
+Euh c'est juste un affichage d'événement montrant euh ce que c'est qu'un euh 
+échantillon euh événement ressemble à euh 
+avec l'électron et le muon puis puis une énergie manquante euh clairement visible et transversale à l'événement. 
+Euh 
+Donc, ce canal de désintégration a un fond beaucoup plus élevé que le canal de quatre lepton euh, 
+veuillez m'excuser, un rapport d'embranchement beaucoup plus élevé quatre lepton canal 
+environ un pour cent par rapport au zéro point zéro un pourcent. Mais bien sûr, ce "oes" viennent 
+avec des fonds plus élevés 
+et aussi euh le désavantage de l'état final n'est pas entièrement reconstruit. 
+Euh donc, il est difficile de de faire une première étape de mesures des STXS mais encore euh possible pour une étape zéro. 
+Euh 
+donc, le euh le graphique ici montre euh 
+la répartition transversale de la masse euh, 
+ce qui est 
+la proximité de la euh 
+de la masse de Higgs en tenant compte de l'énergie manquante et des euh 
+quatre vecteurs des
+leptons. 
+Euh et 
+montre les les les euh les différents fonds de sorte que, le fond principal est de la production de Modèle Standard WW 
+euh pour ATLAS ceci est contrain dans une région de contrôle séparée. 
+euh la performances CMS est adaptée euh 
+non seulement à une variable M T, mais euh également en deux dimensions en utilisant aussi M L L. 
+le le massif des deux leptons, 
+euh dans ce cas, le euh fond WW est contraint directement dans le cadre de l'ajustement. 
+Euh les fonds quark top et Drell-Yan euh sont 
+contraints par leurs propres régions de contrôle. 
+Euh le fond de diboson non-WW de la ZZ ou Z gamma  est contraint par euh 
+par régions de contrôle ou d'estimations de Monte-Carlo 
+dépendant un peu 
+des analyses. Et enfin, il y a les milieux leptons mal identifiés qui sont estimés à partir de données. 
+Euh donc, je vais me concentrer principalement sur euh une production VH 
+euh comme un exemple de la façon dont les "alsynos" fonctionnent. 
+Euh donc, pour pour le euh cas de WH il y a essentiellement deux catégories, 
+une dans laquelle les deux leptons qui ont la même saveur sont sur les côtés opposés. 
+Euh ceci est montré sur la gauche et le haut 
+est le euh le graphique CMS et le bas un ATLAS. 
+Euh donc les deux expériences ont des approches CMS différentes utilisent ici la euh 
+valeur minimum du delta R L L entre les leptons de charge opposée 
+comme euh, comme c'est une euh 
+variable sensible, 
+alors qu'ATLAS a un BDT qui tente de euh d'obtenir un meilleur signal de rejet de fond. 
+Euh donc dans le cas de signes opposés de même saveur, le fond dominant est WC 
+euh qui est montré en jaune et et un graphique du haut de CMS et violet dans les graphiques du bas d'ATLAS. 
+Euh pour le même même signe, paire de saveurs le 
+est moins de fond euh mo- principalement provenant de euh de la production supérieure euh ou de f- leptons non rapides. 
+Euh... 
+encore une fois, dans le haut se trouve euh le graphique par rapport à la valeur minimale de delta R L L. 
+Euh alors que sur le bas sont les euh, les 
+est euh la euh 
+est la représentation graphique d'ATLAS utilisant euh dans ce cas les BDTS, 
+des BDTS séparés euh en fait deux BDTS qu'il faut former pour distinguer euh entre chacun des euh des des deux fonds principaux. 
+Euh et puis euh euh 
+le euh le le pal- bidimensionnel est juste déplié en euh 
+un graphique en une dimension pour euh, 
+pour le rendre plus facile à à voir. 
+Dans la catégorie CH euh, ce téléphone est 
+euh plus pur, mais les statistiques sont assez faibles. 
+Euh 
+dans ce cas : 
+la répartition se fait sur le nombre de euh même saveur à l'opposé des paires de leptons de signe opposé. 
+Euh... 
+un seul, puis euh la euh la pureté est plus élevée. Si vous avez 
+deux, puis le fond ZZ euh commence à devenir euh une problématique plus large comme vous pouvez le voir dans le graphique en haut à droite. 
+Euh mais euh parce que les statistiques sont très faibles euh 
+et les bo- deux expériences, c'est euh tout simplement fait comme une coupe et compter euh l'expérience. 
+Et enfin, un CMS tente également de cibler euh 
+le cas où le euh boson vectoriel associé se désintègre hadroniquement en deux jets. 
+Euh cela vous donne un rapport d'embranchement plus élevé. Euh mais bien sûr le fond qui augmente beaucoup 
+euh principalement de tW et le tt barre. 
+Euh donc dans le cas où la euh l'exigence est que les jets doivent être centraux euh pour leur permettre pour pour permettre le marquage b. 
+Euh de rejeter euh les les fonds tW et tt barre. 
+Et euh la la la variable utilisée dans ce cas est la masse de dilepton mll. 
+Pouvez voir le graphique en bas à gauche euh le le fond dominant
+en jaune. 
+Ainsi, pour passer aux résultats en haut à gauche, est un les euh, 
+euh les 
+mesures dans chacun des euh différents euh 
+euh modes de production 
+par CMS. 
+Euh ggH VBF WH ZH et enfin, le VH hadronic. 
+Euh le haut, à droite, montre euh une numérisation deux D euh d'ATLAS 
+la euh production WH euh 
+par rapport à euh ZH. 
+Et puis en bas à gauche, 
+euh la production VBF par rapport à ggf. 
+Euh 
+le euh 
+l'accord avec le SM est un modèle assez bon dans la plupart des cas, sauf pour le euh VH hadronic euh 
+mesuré par CMS, euh où une une fa- 
+fluctuation à la hausse 
+euh est observée. 
+Bon, juste pour résumer euh Higgs se désintègre dans 
+tous les états finaux de diboson leptonique euh fournissent des sondes précieuses 
+de ses propriétés. 
+Euh le canal de quatre leptons euh est utilisé pour les mesures de précision de 
+la masse de Higgs ! 
+Euh est 
+est sh- est montré 
+ici, les deux canaux peuvent être utilisés pour les mesures de couplages dans la structure STXS. 
+Euh donc, 
+maintenant, nous avons des résultats finaux 
+sous forme de canal de quatre leptons euh 
+avec l'ensemble des données de l'Exploitation Deux complète. 
+Euh... 
+Tho- bien sûr, il y a encore de la place pour d'autres interprétations euh 
+encore une fois, il y aura euh ta- sun- des discussions à ce sujet plus tard 
+et le canal WW est encore euh des résultats 
+encore seulement montrés en utilisant les deux mille quinze seize ensembles de données de sorte que nous pouvons certainement attendre euh 
+plus de résultats à venir. 
+Euh merci. 
+Merci pour cette euh... belle vue d'ensemble. Euh je vois que nous avons une euh... question, 
+euh... Giovanni. 
+D'accord, c'est 
+Giovanni. 
+Euh donc ma question portait sur la messe. 
+Dans la ZZ, vous avez mentionné que vous utilisez un réseau neuronal pour estimer l'événement par erreur d'événement. En utilisant également euh 
+non seulement les leptons, mais aussi des données par événement. 
+Je voudrais 
+Je vois que cela se produit pour les électrons, par exemple, peut-être que vous êtes sensible à l'empilement, j'étais juste 
+plus curieux 
+de quel type d'événement de niveau d'information entre là. 
+Oh veuillez m'excuser, je veux dire, 
+donc 
+c'est juste euh, 
+par exemple, la euh la contrainte euh, 
+l'erreur après le, le 
+l'erreur sur la masse de quatre leptons après la contrainte ou 
+des choses 
+des choses comme euh 
+thut- liées à à la, 
+je veux dire, ce que je voulais dire était : 
+vous disposez des informations individuelles sur les leptons et aussi des informations de la uh 
+la la la combinaison, 
+mais 
+Na- 
+je ne pense pas que nous sommes nous sommes 
+pour utiliser euh, 
+variables comme le l'empilement à l'heure actuelle, bien que nous sommes actuellement 
+en train d'explorer euh les possibilités pour améliorer ce réseau euh pour le euh 
+pour le résultat final qui viendra euh en été. 
+D'accord, merci. 
+Euh je vois que nous avons une autre question Benedict, euh avez-vous levé la main ? 
+Euh, je ne pense pas. 
+Ah d'accord veuillez m'excuser non, c'est euh 
+c'est juste juste une caractéristique du du client, pas de problème. 
+D'accord, alors euh... je proposerais que nous 
+Peut-être que je peux poser une question brève. 
+D'accord, oui, allez-y. 
+Euh si vous allez à la diapositive huit 
+Euh... 
+est un, alors, 
+comment, cela cela n'était pas clair pour moi comment le fond est traité 
+dans ces euh probabilités, 
+comme le fait d'inclure dans, 
+disons signal de fond plus fond ? ou est 
+le fond est naturellement poussé, 
+euh, dès que nous... 
+disons, identifions le signal que le
+l’entraînement se déroule. 
+Euh ma compréhension est que que les les discriminants ne comprennent pas la la... 
+la probabilité est seulement pour la production de Higgs euh et non les fonds. 
+Euh 
+D'accord, je vous remercie. 
+Maintenant, laissez-moi partager mon écran. 
+Pouvez-vous voir mon écran ? 
+Oui, cela fonctionne. Allez-y. 
+D'accord, donc oui, euh aujourd'hui je vais parler des récentes mesures ttH avec 
+l'expérience ATLAS. 
+et... 
+oups, 
+d'accord, 
+nous allons commencer par une brève motivation de 
+pourquoi nous sommes intéressés par les mesures ttH. 
+Euh... comme nous connaissons toutes les mesures des propriétés de Higgs jusqu'à présent compatibles avec le modèle standard, 
+et l'une des infor- mesures euh infrom- mesures sont les accouplements des fermions, 
+en particulier l'accouplement Yukawa supérieur, 
+qui est le but de cette analyse ttH, 
+et nous pouvons les mesurer directement via des mesures de section efficace ttH. 
+Puisque l'accouplement Yukawa supérieur est le plus grand dans le modèle standard, comme cela est montré sur le graphique en haut à droite, 
+il a un impact majeur sur la théorie, comme l' 
+impact sur le euh potentiel effectif du champ de Higgs et et que les vari- -riations  sur 
+l'accouplement peut céder à la deuxième minima. 
+Cela a un impact sur la compréhension de la stabilité métasta- de l'univers 
+et et peut être vu sur le graphique en bas à droite, 
+euh et a également un impact sur l'auto-couplage des Higgs qui doit encore être mesuré et 
+une étape importante des... futures expériences LHC. 
+autre point intéressant, 
+la nature CP de cet accouplement, 
+euh où le modèle standard prédit le boson de Higgs CP-even, 
+mais d'autre part euh... euh le il 
+CP-odd n'est pas encore exclu. 
+Et sur le graphique du bas, vous pouvez voir la distribution de masse invariante totale se terminant sur l'angle de mélange, 
+euh où la différence peut modifier le pic de la distribution de masse de ttH. 
+Et cette présentation est en fait donnée par une autre euh... une autre session dans cette euh... dans cette conférence. 
+Ainsi, les mesures de ttH à l'expérience ATLAS utilisent le large éventail d'états fi- finaux provenant du processus tt barre et exploitent le mode de désintégration de Higgs. 
+Euh donc les mesures sont... euh catégorisées en fonction des modes de désintégration du boson de Higgs, sur la table du bas, 
+je vous donne un résumé vous montrant ces catégories. 
+Une première catégorie est le canal Higgs à bb. Ce canal a un taux de distrit très élevé, 
+souffrant de l'énorme fond QCD. 
+et la dernière publication est avec trente-six femtobarn inverse. 
+et le deuxième groupe est appelé un groupe ttH multilepton, où il se concentre sur euh le boson WZ et les désintégrations de tau du boson de Higgs. 
+Et le taux est raisonnable, mais l'estimation de fond est également difficile en raison des fonds non rapides, 
+euh les dernières publications est avec dix-huit femtobarn inverse. 
+euh... la dernière catégorie est les désintégrations ZZ et gamma gamma où les taux de désintégration sont assez faibles, 
+par rapport aux autres. 
+Cependant, ils ont un signal clair sans 
+fonds. 
+Et la dernière publication pour les deux avec l'ensemble des données de l'Exploitation Deux complète. 
+Et le final observé, 
+et enfin l'observation de la mesure ttH annoncée par A AS en mille dix-huit, 
+où seuls les canaux gamma gamma utilisaient quatre-vingts pour cent de femtobarn et le taux, 
+les autres utilisaient euh trente-six femtobarn inverse. 
+Dans la diapositive suivante, je commence avec le canal Higgs à bb et je ne devrais pas entrer tellement dans les détails car il était euh voir 
+il a été présenté plusieurs fois dans cette conférence. 
+Et et ce canal, nous sommes actue- actuellement en train de travailler sur la mise à jour de la che- euh les résultats avec les données de l'Exploitation Deux complète. 
+Euh... juste pour donner quelques brèves informations, ce canal est le plus commun sur les autres 
+catégories de canaux, mais il a une étape finale difficile comme je l'ai dit, 
+et euh pour cette situation, 
+car, pour gérer la situation, les différentes régions de contrôle sont définies pour contraindre ces milieux, 
+et les régions d'analyse sont divisées en deux avec un lepton et un dilepton, 
+et aussi 
+un un canal lepton stimulé est 
+euh exploité. 
+Les régions de signal et de contrôle sont définies en fonction du nombre de jets et le point de travail b-tagging. 
+Un exemple de croquis nous est donné euh en bas à droite 
+et les axes y x et y représentent une combinaison de différents points de travail 
+pour les b-jets 
+et le plus étroit sera la plus grande pureté dans le ttH et au fur et à mesure qu'il se relâche, 
+euh les régions de contrôle sont définies. 
+et le principal défi est la modélisation des fonds de tt bar jet. 
+Euh puisque c'est infe- c'est infer- indirectement avec l'état final tt Higgs à bb, comme cela peut être vu à partir du diagramme de Feynman donné ici. 
+Euh et les régions de contrôle dépendent de la saveur des jets. 
+et en outre, les nombres des non-certains sont implémentés 
+pour couvrir les différences de modélisation entre les différents schémas et les générateurs. 
+De plus, l'analyse fait appel à des techniques soph- sophistiquées pour extraire la région du signal 
+dans laquelle je vais parler dans la diapositive suivante. 
+Donc, deux étapes ont été uti- euh utilisées pour mieux distinguer le signal du fond. 
+Euh ce que l'on appelle les techniques intermédiaires sont euh celles qui se concentrent sur la reconstruction du système tt Higgs, 
+comme la... l'extraction de reconstruction a stimulé l'arbre de décision pour u-... pour obtenir les meilleurs Higgs et les meilleurs candidats dans l'événement. 
+et la la probabilité discriminante considère la cinématique, 
+les attributions possibles de particules de jet et calcule à nouveau le discriminant pour chaque événement 
+et la méthode des éléments matriciels fournit également euh la discrimination construite à partir des premiers principes. 
+Sur le graphique du bas, 
+tracé à gauche, ce qui est approprié pour la discrimination sur la 
+reconstitution de la masse du boson de Higgs est donné. 
+Et enfin, 
+Ces résultats des euh méthodes sont combinés avec une information supplémentaire dans la deuxième étape 
+dans laquelle est appelé la 
+classification BDT, 
+qui sera utilisée pour extraire la force du signal 
+et... en bas à droite l'une des... régions de signal de ce canal est montrée, 
+là où la classification BDT est utilisée et évidemment, la discrimination est assez réussie. 
+Venir à la configuration d'ajustement euh tt Higgs bb utilise l'ajustement de probabilité du profil pour extraire euh... mu ttH, 
+Euh dans dix régions de contrôle et neuf régions de signal. 
+La classification BDT 
+est utilisée pour la région du signal, et pour les régions de contrôle, généralement un seul bin ou une seule variable cinématique un 
+comme certains des PT des objets let. 
+Euh... les principaux fonds sont tt plus jets, 
+euh sont, 
+sont en flottement libre dans le but de mieux contrôler... euh ces fonds. 
+Et le résumé des distributions sont donnés sur le côté droit des diapositives 
+et montrent la comparaison des rendements attendus et observés et globalement, on observe un très bon accord avec les données, 
+et les résultats pour chaque canal sont donnés sur le... tableau en bas à gauche. 
+Na... la signification est un point quatre sigma observé avec un point six si- sigma attendu. 
+Et les principaux fonds sont issus de euh la modélisation tt plus jets et les 
+dans les, en provenance des statistiques de Monte-Carlo. 
+et euh o-, évidemment, l'analyse est dominée par euh 
+incertitudes stématiques. 
+Euh donc, je passe maintenant aux deuxièmes catégories d'analyse appelées ttH multilepton. 
+Et cette analyse se focalise sur les modes de désintégration de Higgs en WW, ZZ et tau tau, ainsi que sur le système tt barre, 
+nécessitant euh au moins un lepton. 
+Euh la sélection de base de ces euh canaux d'analyse se fait en fonction de la charge et la saveur des leptons. 
+Il y a six canaux qui sont utilisés, trois d'entre eux avec et sans hadronique, 
+un taus dans les états finaux, 
+comme indiqué sur le tableau de droite, 
+Euh... les canaux les plus sensibles sont euh... deux leptons, même signe, zéro tau et 
+les trois leptons zéro tau, 
+sont également encore divisés en régions de contrôle pour limiter les différentes euh... 
+différentes sources des fonds. 
+Euh les principaux fonds sont des processus de modèle standard tels que le tW, ttZ, diboson et aussi les fond non rapides, provenant principalement du processus ttb barre, 
+euh... comme les leptons de ra- euh... issus des désintégrations semileptoniques b ou ou des conversions ou les électrons de l'arbre où euh l'un des électrons euh s'est chargé à tort. 
+Et pour poursuivre la la pour poursuivre la réduction de ces 
+contributions de fond, il y a des sélections d'objets spéciaux, sont utilisées en plus des sélections de base. 
+Au cours de la BDT par exemple, euh je, une isolation BDT euh est employée, 
+pour réduire les leptons provenant des saveurs de désintégration lourde, de désintégration de la saveur, et une charge misid BDT 
+également fournie par le groupe de performance est utilisée, et et les variables pour rejeter le matériau et les conversions d'étoiles gamma, en bénéficient également. 
+Juste pour être un peu plus concrète, euh dans cette diapositive, je vous montre la définition de la région sur les canaux les plus sensibles en ttH multilepton. 
+et aussi bien que euh 
+je vais donner quelques détails sur l'estimation de fond non rapide. 
+Euh... les régions sont encore divisées 
+dans les régions NJet hautes et basses. Dans les régions NJets hautes euh... l'espace multidimensionnel BDT est exploité pour la région de signal et de contrôle, 
+et aussi, fu- encore une fois, divisé en fonction 
+de la charge et la saveur des leptons pour contraindre à nouveau les différentes sources de fond, 
+et il contient à nouveau des régions du signal dans les régions de P T élevés et de contrôle. 
+Et les faibles régions NJet sont plus dédiées au contrôle des fonds non rapides 
+et aussi le processus ttW du modèle standard. 
+Et il y a quelques variables cinématiques telles que euh  lepton HT, distribution N b-jet et aussi le rendement des événements est utilisé. 
+Et sur le graphique de droite, je vous montre une de ces régions dans cette catégorie. 
+Euh... il y a la somme des pT des leptons, 
+ici la distrub- orange 
+euh la contribution orange est muons non rapides 
+et est peuplée dans les deux premiers bins. 
+Cela donne un bon euh contrôle de ce fond. 
+Et l'estimation d'un fond léger, fond leptonique léger, basé sur les formes de Monte-Carlo. 
+Et les normalisations sont obtenues à partir de l'ajustement simultané à la puissance du signal. 
+Et euh, ici, je vous donne ces processus. 
+Euh la désintégration semileptonique à saveur lourde, où un lepton isolé peut être reconstruit dans la saveur lourde, 
+et euh 
+veuillez m'excuser, 
+et des facteurs de normalisation, dédiés pour les muons et les électrons, sont définis. 
+Le second est l'électron de la conversion matérielle, 
+lorsque le gamma interagit avec le matériel de détection et il en résulte un lepton isolé. 
+Et la dernière est l'électron de conversions internes, 
+où l'étoile gamma virtuelle se désintègre en deux leptons, encore une fois, l'un étant isolé. 
+Et il peut se produire dans un parton showel, 
+euh shower ou l'élément de matrice en fonction du générateur. 
+Euh sur la diapositive numéro neuf, je souhaite donner plus de détails sur les mesures ttW dans le canal multilepton ttH. 
+Euh... le processus ttW du modèle standard
+est en libre flotté dans l'ajustement simultané 
+euh en raison de la forte contamination dans les régions de contrôle et de signal. 
+Euh trois facteurs de normalisation décorrélée
+sont assignés : deux leptons de même signe euh faible NJet, NJet élevé et trois leptons. 
+Et la raison pour laquelle nous divisons les facteurs de normalisation est que les différents espaces des phases donnent les différentes valeurs.
+Et sur le graphique de droite, la distribution inclusive num- NJet pour 
+euh pour 
+deux leptons du même signe, est affichée. 
+Euh... euh ici les lignes pointillées sur le graphique de ratio 
+in-... indique le ratio de pré-ajustement. 
+Et il est clair que les deux premiers bins ont besoin d'un ttW plus que le reste pour améliorer le, l'accord relatif aux données Monte-Carlo. 
+Euh... mais ces résultats euh nous donnent plus un ttW que le standard 
+attendu. Ces valeurs sont données sur le tableau ci-dessous, 
+et sur ces chiffres, sont également incluses des corrections d'ordre supérieur manquantes 
+pour rendre compte de NLO euh ttW plus jets, 
+en raison de l'ouverture dans le quark euh... processus initié par le gluon quark 
+et aussi les corrections
+euh électrofaibles, 
+euh où le terme d'arbre NLO domine en raison de la diffusion tt
+tW à travers le boson de Higgs 
+et n'ont pas non plus été inclus dans le rapport jaune quatre, 
+et ainsi que notre échantillon nominal 
+et les impacts sur eux peuvent être non négligeables. 
+Et enfin, cette euh les erreurs de modélisation sont visibles, 
+o- observées dans une région deux b plus. 
+Et cette différence est ajoutée dans le modèle d'ajustement comme une incertitude de forme pour l'espace des phases ttW. 
+Et la motivation derrière cela est euh purement expérimentale. 
+Euh mais en fait les charges meth- est est connue pour un minimum pour un processus ttW. 
+Et aussi, euh, il est très intéressant de parler dans cette 
+euh... 
+cette section de la modélisation ttW. 
+Euh... sur la dernière diapositive de ce canal euh... est pour la mise en place de l'ajustement. 
+Euh comme la probabilité habituelle du profil utilisée pour 
+Euh dix-sept régions de contrôle et huit régions de signal comme indiqué dans le graphique du bas 
+et les résultats par canal sont donnés sur le graphique en bas à droite. 
+Et la signification globale est un point huit sigma observé avec trois points un sigma attendre 
+et les principaux schémas sont jess 
+euh et modélisation ttll et modélisation ttW et globalement 
+un bon accord de Monte-Carlo sur les données, 
+est observé. 
+La prochaine recherche que je vais couvrir aujourd'hui est Higgs tt à gamma gamma. 
+Ce canal utilise déjà deux données complètes. 
+Et... les régions sont divisées en hadroniques où il y a un veto de lepton. 
+Il y a un veto de lepton, et le leptonique où il y a un ou plusieurs leptons dans l'état final, 
+et bien sûr avec deux photons bien isolés. 
+Euh l'estimation de fond est prise à partir des bandes latérales dans les données où l'exigence de photon est euh inversée. 
+Et aussi, 
+ils utilisent des échantillons de contrôle dédiés pour définir la fonction qui lui correspond. 
+Et après certaines coupures sur le BDT pour rejeter la contamination de fond la plus élevée possible, 
+euh... les be- les régions sont encore plus divisées en fonction de la pureté du signal. 
+et l'extraction du signal est effectuée dans la masse invariante de la distribution du diphoton en utilisant
+la fonction Crystal Ball double face. Et ici, en haut 
+à droite, je vous montre toutes les régions incluses dans l'ajustement et le graphique du bas vous montre 
+l'ajustement à la masse invariante du euh système diphoton dans toutes les catégories, euh où 
+les événements sont pondérés en fonction de la pureté de la catégorie. 
+La signification s'est avérée 
+être, d'accord. 
+On constate que la signification est de 
+quatre point neuf sigmas observés, 
+euh ce qui signifie que ce canal est déjà presque euh arrivé seul à l'observation. 
+Et ce euh...
+résultat que nous attendons est statistiquement limité. Le dernier canal que je vais couvrir aujourd'hui est
+Euh le dernier canal que je vais couvrir aujourd'hui est la production ttH où les Higgs se désintègrent en ZZ et par la suite à quatre l. 
+Et dans cet article pertinent en fait, les sections efficaces sont mesurées pour les principaux modes de production. 
+Dans dans dans plusieurs régions exclusives de l'espace des phases de production de boson de Higgs, 
+mais aujourd'hui, je ne parlerai que du mode de production ttH. Dans l'analyse utilisée, utiliser également
+un à partir des statistiques de l'Exploitation Deux complète. 
+Euh... et ils se concentrent sur la fenêtre de masse de Higgs entre cent quinze et cent trente pour les régions de signal, est assez faible. 
+et les euh les estimations de fond sont faites à partir des bandes latérales dédiées et les régions d'analyse sont classées en fonction de la désintégration de tt barre. 
+Euh le rendement de l'événement est utilisé euh pour le ttH, euh pour l'extraction du signal
+dans dans la région enrichie en lepton ttH et pour la région hadronique ttH. 
+Des algorithmes sophistiqués de réseaux neuronaux
+sont exploités. 
+Qui sont formés en fonction des back- euh des principaux fond. 
+Et par conséquence, 
+et deux sorties indépendantes sont utilisées pour extraire dans cette région, 
+et les distributions sont données sur le graphique du bas. 
+alors le signal extrait est un point
+sept avec de grandes incertitudes statistiques comme prévu, mais euh trois 
+candidats au total sont observés dans ce canal, ce qui est un bon résultat euh avec un tel canal plus petit. 
+Et enfin, je reviens à une combinaison de mesures ttH. 
+Euh il n'y a pas de combinaison est encore effectuée pour en exploitant euh les 
+derniers résultats que j'ai montrés aujourd'hui. 
+Euh cependant, l'observation de la mesure ttH a déjà été effectuée 
+euh en utilisant un très la- 
+en utilisant des données de l'Exploitation Deux partielle. 
+Et ici sur le graphique de gauche, je vous montre les données et la comparaison théorique des résultats avec le 
+premier point de l'Exploitation Un et le deuxième point des données de l'Exploitation Deux partielle. 
+Et oh sur le graphique de droite euh il y a de tous les canaux qui contribuent à cette observation qui euh... 
+est montrée 
+et euh fo- cinq point huit sigma est euh est observé. 
+Et aussi la la co- la combinaison 
+avec ce résultat avec la complète euh avec l'Exploitation Un 
+euh et 
+et avoir les six point trois sigma a été observé 
+euh il faut six point euh sigma observés. 
+D'accord alors en conclusion, euh j'ai montré aujourd'hui les dernières études liées aux mesures de tt Higgs. 
+Euh ATLAS a 
+établi une observation de la production de ttH en com- euh 
+euh combinant différents canaux de désintégration de Higgs et les résultats sont tous des modèles standards compatibles. 
+Et certains canaux individuels ont mis à jour leurs résultats avec plus de données. 
+Euh observation, 
+par exemple, observation, euh... 
+presque l'observation avec la production de ttH dans le canal gamma gamma. 
+et aussi, euh les événements d'arbre sont observés avec euh e- 
+euh le canal ttH euh de quatre l. 
+et 
+pour, et pour les autres canaux il y a euh le fond difficile est toujours là 
+et exige une meilleure compréhension des modèles de fond, 
+comme euh ttW. 
+tt euh bb. 
+et... actuellement, les améliorations sont attendues avec les données de l'Exploitation Deux complète. 
+Et aussi les données de l'Exploitation Deux complète nous permettront de nouvelles opportunités 
+euh... 
+étude comprenant euh des mesures différentielles
+et aussi les mesures de propriété. 
+Je vous remercie. 
+Merci beaucoup. 
+Euh... des questions ? 
+Oui, je vois que Marco a une question. Allez-y. 
+Oui, merci pour ce très bel exposé. Donc, je pense que dans le contexte de cette session, 
+en particulier votre diapositive neuf est euh, est très intéressante. 
+Donc, peut-être pourriez-vous en profiter pour ajouter quelques détails sur la justification de cette décorrélation, 
+si vous avez fait euh quelques études euh aussi sur l'espace des phases de niveau générateur, car, 
+je veux dire, naïvement on pourrait euh 
+euh... se demander si cette pleine décorrélation de ces trois niveaux reco- dire des espaces des phases 
+a n'est pas euh... trop... conservateur de de notre point de vue, 
+et puis une deuxième partie,  je veux dire, à la même question pourrait être, euh... si vous avez vérifié 
+euh... le temps que vous avez, euh... par exemple euh, des événements ttW qui finissent par se confondre avec les événements ttH, 
+même à des multiplicités de jet plus élevées, je veux dire ici le dernier bin que vous montrez est 
+le bin à six jets inclus, bien, 
+je euh je soupçonne que vous multipliez un jet encore plus grand euh... 
+pourrait jouer un rôle important euh en tant qu'un fond pour ttH dans disons haut 
+euh... 
+S sur les régions B. 
+Je vous remercie. 
+D'accord, euh laissez-moi essayer de euh... la comprendre. Euh pour la deuxième partie, je dirai pour la ttH et ttW 
+euh... euh, nous ne nous attendons pas à avoir 
+de tels événements parce que euh je veux dire, à la fin, nous avons la matrice de corrélation après l'ajustement 
+que nous avons euh... nous n'avons pas que euh ttW et ttH supérieurs, 
+euh... une corrélation dans les deux euh facteurs de normalisation. 
+euh... et pour le premier 
+point, est que je ne suis pas sûre d'avoir vraiment compris votre 
+question est, je pense que c'était sur euh... 
+est-ce trop conservateur pour avoir des facteurs de normalisation décorrélés, je suppose ? 
+De sorte que la question est par exemple, pourquoi avez-vous euh décorrélé trois leptons 
+euh... 
+de deux leptons faible jet qu'en principe, 
+je je
+soupçonnerais qu'ils soient peuplés par le même genre d'événements ttW, dans un espace des phases de niveau générateur à part 
+euh... de de la désintégration, à droite. 
+D'accord. Euh... ainsi, euh il y avait un dedic- un, nous avions consacré l'étude pour cela, en fait, 
+euh... euh... 
+tandis que, euh... 
+euh par exemple, pour les 
+région de contrôle seulement euh s'adapter en trois leptons, 
+et nous avons aussi le même euh... euh le facteur de normalisation
+de ttW et celui qui est similaire, et où nous avons qu'un seul 
+facteur de normalisation, euh cette euh région t arbre t l est euh est vraiment une réduction 
+euh dans le... je veux dire son son facteur de normalisation est vraiment faible et puis en fa- en fait 
+les mesures ttH. 
+et donc nous avons constaté que cette décorrélation de trois d'entre eux est est 
+fondamentalement euh... est plus raisonnable. 
+D'accord, euh y a-t-il d'autres questions ? 
+Vous pouvez lever vos mains si c'est le cas. 
+D'accord, je ne vois rien d'autre. 
+D'accord, merci beaucoup euh Merve et nous nous déplaçons 
+OK, je suppose que nous devrions commencer. Ainsi bon après-midi, matin ou soir selon votre fuseau horaire 
+et bienvenue à la session de mise à niveau. 
+Nous aurons quatre présentations par chacune des expériences LHC. 
+Chaque présentation compte vingt-cinq minutes, soit vingt minutes plus cinq minutes pour les questions. 
+Je demanderais probablement aux orateurs d'être corrects avec leur temps de parole. 
+Donc le premier sera de ALICE. Donc oui, Piotr, Piotr. 
+Vous pouvez commencer à tout moment. 
+D'accord, bon après-midi. Pouvez-vous m'entendre ? 
+Oui, nous le pouvons. 
+Donc, je partage mes diapositives, et je tiens 
+à remercier euh les organisateurs pour l'opportunité de donner cette conférence. 
+De vous présenter le statut des mises à niveau ALICE euh pour l'Exploitation Trois, 
+Exploitation Quatre et aussi euh au-delà. Euh ALICE, comme cela a déjà été présenté aujourd'hui lors de la présentation d'Andrea, 
+est une expérience dédiée aux ions lourds au CERN LHC. 
+Il se compose de plusieurs euh... détecteurs. Les détecteurs du baril central : l'ITS, TPC 
+entourant le point d'interaction et suivi par les détecteurs TRD, TOF, euh, tous installés dans le champ magnétique de zéro point cinq tesla. 
+Et le spectromètre à muons dans les rapidités avancées, et des détecteurs avancés complémentaires pour le déclenchement des estimations de centralité. 
+Il montre euh... de grandes capacités de suivi et capacités PID dans une large gamme cinématique euh. 
+Il a été exploité avec succès dans Exploitation Un et Exploitation Deux, 
+lorsque nous avons pris beaucoup de euh données 
+euh... à partir des collisions des systèmes fournis par la machine, et l'homme des résultats fantastiques sera euh... discuté et présenté au cours de cette euh conférence. 
+Nous continuons évidemment, euh nous prévoyons de continuer à prendre euh, les données dans Exploitation Trois et Exploitation Quatre. c'est la chronologie pré-COVID de LHC. 
+Et... comme je l'ai déjà dit, dans Exploitation Trois et Exploitation Quatre, ALICE poursuivra ses opérations. 
+Nous avons un riche prese- programme de physique  devant nous euh découlant des 
+euh mésons heavy-flavor et baryons, états de charmonium, dileptons 
+et des mésons vectoriels de faible masse et des mesures de haute précision de la lumière et hyper... -nuclei. 
+Tous ces observables à, euh je, seront utilisés pour caractériser le plasma quark-gluon en en plus de détails. 
+Euh et comme vous pouvez le voir sur cette liste d'observables, 
+Euh donc 
+nous ne pouvons pas exécuter avec un déclencheur dédié. 
+Nous avons besoin d'une lecture de biais minimum aux taux les plus élevés possibles, et ce sera, 
+Euh... ce sera fait avec les améliorations majeures. 
+Euh, nous sommes euh ALICE est en cours. 
+La stratégie ALICE pour les Exploitations Trois et Quatre consiste à augmenter l'échantillon à biais minimum par un facteur allant jusqu'à cent par rapport à l'Exploitation Deux, 
+la collecte de la luminosité intégrée de treize nanobarns inverses, 
+et écrire toutes les interactions led-led en tant que cinquante kilohertz. 
+Nous fonctionnerons sans déclencheur dédié euh et l'homme des détecteurs que nous voulons en mode de lecture continue. 
+Nous allons améliorer l'efficacité et la résolution du suivi en particulier à faible pT et nous devons préserver l'identification des particules en 
+consolidant et en accélérant les principaux détecteurs ALICE PID. 
+Les les améliorations d'Exploitation Trois ont été discutées et décrites dans ces rapports techniques. 
+Et je vais discuter aujourd'hui, euh... ce qui suit : le nouveau Inner Tracking System basé sur la nouvelle technologie MAPS. 
+Euh... également basé sur MAPS le nouveau Muon Forward Tracker. 
+En outre, notre TPC est en cours de mise à niveau majeure. Les anciennes chambres de lecture sont mises à niveau avec la technologie GEM. 
+Nous disposerons également de nouveaux détecteurs Fast Integration Trigger. 
+Et les données de tous ces détecteurs nouveaux et améliorés seront, euh... seront lus, enregistrés et analysés par le, 
+nouveau système intégré Online-Offline, O carré. 
+En outre, nous mettons également à jour notre lecture de tous les autres détecteurs, y compris aussi les Central Trigger, Processor. 
+Commençons donc par les mises à niveau ALICE TPC : 
+Euh est le principal détecteur PID de euh d'ALICE, 
+presque quatre-vingt-dix mètres cubes, réservoir rempli de gaz, au néon, ou à base d'argon, 
+le mélange de gaz qu'il possède, 
+cinq mètres de diamètre et euh une longueur de cinq mètres. 
+Et 
+l'électrode centrale 
+au milieu, définit deux volumes de dérive de deux mètres et demi de long chacun. 
+Euh le temps de dérive maximal d'une centaine de microsecondes 
+pour les électrons qui donc dérivent vers les plaques d'extrémité des deux côtés et sont lus par le multi-fil proportionnel, 
+euh... chambres proportionnelles multi-fils dans l'Exploitation Un et Exploitation Deux. 
+euh... les chambres sont divisées en secteurs et fur-... et plus loin dans les chambres de lecture intérieure et extérieure, de l'IROC et de l'OROC. 
+Euh... comme je l'ai dit, les MWPC ont été utilisés dans Exploitation Un et Exploitation Deux. 
+Euh... nous avons au total soixante-douze chambres de lecture avec plus d'un demi-million de 
+euh... pads pour une lecture du signal. 
+Et la technologie de chambre proportionnelle multi-fil utilisait évidemment également la grille de filtrage, pour minimiser le nombre de la rétro-dérive des ions vers le volume de dérive... 
+distorsion du champ de dérive. 
+Euh cette, cependant, cette grille de lecture implique la limitation de taux pour la lecture euh à seulement 
+quelques kilohertz et, évidemment, pour faire fonctionner le TPC à des taux plus élevés, cinquante kilohertz ou plus, 
+nous devons abandonner cette technologie, et euh et eyh et exécuter TPC en permanence. 
+Et cela sera réalisé en utilisant des GEM, des multiplicateurs d'électrons à gaz. 
+Euh... ce sont les films fins de polyimide recouvertes de euh, avec du cuivre sur les deux côtés et dans la photo, le processus de lithographie les 
+trous microscopiques sont gravés. Vous appliquez une haute tension à travers le film et vous créez un champ électrique élevé à l'intérieur de ces trous. 
+Et c'est là que l'amplification a lieu. 
+Et les euh... et les ions aussi qui sont créés dans cette amplification 
+euh... sont en train de dériver, 
+et ils sont, la plupart d'entre eux, euh, ils sont recueillis sur le côté supérieur de la GEM. Donc, cette 
+suppression du reflux d'ions intrinsèques des films GEM permet d'abandonner l'option de grille de filtrage et exécuter TPC continuellement. les exigences de mise à niveau de TPC ont été, euh données en deux mille douze 
+dans Letter of Intent, nous ferons fonctionner ces détecteurs au gain nominal de deux mille en 
+Ne-CO bi-nitrogène. euh mélange gazeux, gardant le retour d'ions inférieurs à un pour cent, ce qui signifie que seulement vingt ions quitteront, le stade d'amplification par électron entrant. 
+La résolution énergétique du système doit être maintenue à un euh bon 
+niveau inférieur à douze pour cent euh mesuré pour le pic de fer, 
+et bien sûr, nous devons assurer la stabilité du fonctionnement sous les conditions du LHC Exploitation Trois. 
+Et dans le processus intensif de R et D, nous avons trouvé la solution euh pour nos euh nouvelles chambres de lecture, les piles quadruples GEM 
+euh... employant euh Standard et  feuilles GEM  Large-Pitch dans le dans euh dans cet ordre 
+Standard, Large-Pitch, Large-Pitch, Standard. et ils sont en cours d'exécution, ils seront exploités avec 
+configuration haute tension hautement optimisée. Sur sur le côté droit vous 
+pouvez voir un graphique sigma (résolution d'énergie) en fonction du retour d'ions. 
+Chaque point de données correspond à différents paramètres de haute tension. Et vous pouvez voir que 
+plusieurs paramètres de haute tension euh répondent à nos exigences. Plus tard, nos études ont également montré 
+que nous pouvons un peu assouplir les exigences. 
+Sigma jusqu'à quatorze pour cent et le retour d'ions jusqu'à deux, de sorte que nous ayons beaucoup de place pour l'ajustement. 
+Euh les chambres de lecture de TPC sont 
+déjà construites. Les IROC sont constitués d'une seule pile GEM quadruple et les OROC euh ont 
+trois piles GEM quadruples. Et parallèlement à la mise à niveau de la chambre de lecture, nous avons également 
+développé une nouvelle, euh front-end ASIC, SAMPA.  Il s'agissait d'un développement commun à TPC et aux 
+chambres à muons. 
+Il s'agit de cent trente nanomètres, puce CMOS 
+euh fournissant trente-deux canaux d'entrée et peut être lu en continu ou en mode déclencheur. 
+Il a un excellent chiffre de bruit de six cent soixante-dix euh électrons et le 
+les cartes frontales du TPC accueilleront cinq de ces puces. 
+Et au total, nous aurons près de trente-trois cents cartes frontales dans le TPC. 
+Euh qui va numériser en continu des signaux à cinq mégahertz, 
+ainsi, la sortie des données sera d'environ trois point trois téraoctets par seconde. 
+Cette quantité de données doit être, bien sûr, réduite et je vais en parler plus tard, 
+euh... dans la partie O carré de ma présentation. 
+Euh, la mise à niveau de TPC est en cours. Essentiellement, TPC a été extrait et 
+déjà mis à niveau, l'année dernière, dans la salle blanche. Euh toutes les chambres sont installées, 
+comme vous pouvez le voir ici, dans l'image du bas du milieu, vous pouvez voir le reflet des chambres GEM 
+dans l'électrode centrale euh et aussi une électronique frontale est uh installée. Et cela fait 
+plusieurs mois que nous prenons, les euh... données de pré-mise en service, 
+euh, nous sommes en pré-mise en service de notre détecteur, euh... ce qui signifie que nous testons les deux secteurs à la fois, la mesure du bruit des pulseurs, 
+une prise laser et cosmique exécutent et irritent nos chambres avec des sources de rayons X. 
+Vous pouvez voir ici quelques exemples de pistes laser détectées avec des GEM. 
+Notre excellente figure de bruit d'un ADC, ainsi comme désigné. et aussi de beaux exemples des cosmiques, euh pistes cosmiques. 
+Nous commençons la réinstallation en Juillet vingt vingt, 
+euh... après, euh après ce euh... retard causé par la situation sanitaire actuelle. Je discuterai de la chronologie plus tard. 
+Maintenant, pour revenir aux nouveaux détecteurs ALICE pour Exploitation Trois. 
+Il s'agit du Inner Tracking System, Muon Forward Tracker et des détecteurs FIT. 
+Inner Tracking System et Muon Forward Tracker sont des détecteurs basés sur la nouvelle 
+technologie des capteurs à pixel actif monolithique. Ces euh, ces puces sont produites dans une technologie TowerJazz cent quatre-vingts nanomètres, où les circuits sont produits sur euh... sur couche épitaxiale 
+couche épitaxiale hautement résistive euh sur lee très haut euh très haut niveau p-substrates. 
+La couche épitaxiale, euh... l'épaisseur est de vingt-cinq ma- micromètres ce qui signifie que la particule ionisante minimum 
+créera environ treize cents paires électron-trou tous les électrons seront euh... dérivant vers les diodes de N-well, les diodes de détection 
+qui font deux sur deux micromètres carrés, 
+donc cent fois moins que la hauteur d'un pixel et cela donne une très petite capacité d'entrée. 
+Et, ainsi euh... grand signal d'entrée relativement grand de quarante millivolts. 
+euh compte tenu de la euh figure de bruit de cinq électrons, nous allons finir avec un très bon rapport signal-fond, 
+et tout cela, euh... je pense, justifie que les MAPS sont la grande technologie 
+à être utilisée comme trajectographe, dans le trajectographe central de ces détecteurs 
+et elle sera utilisée pour la première fois à une telle échelle dans l'expérience LHC. 
+Ainsi, les MAPS sont utilisés pour le développement euh ont été utilisés pour développer la puce ALPIDE, 
+détecteur à pixels ALICE. Ceci est, encore une fois, le développement commun pour ITS et MFT, comme je l'ai déjà dit. 
+Il héberge environ cent trente mille pixels par centimètre carré et peut traiter des taux de pac- particules jusqu'à cent mégahertz par centimètre carré. 
+Euh par rapport à l'ancienne ITS, vous pouvez voir en bas à gauche, 
+euh l'ancien système ITS, qui est déjà euh dans l'exposition ALICE, 
+les nouvelles ITS Deux auront plusieurs avantages : 
+cela va améliorer, euh vertex et précision du suivi, il sera installé plus près du poit d'interaction, 
+euh point, il aura une couverture de pseudorapidité plus grande que l'ancienne ITS 
+et, le plus important, il sera également plus mince de sorte que le budget matériel sera plus de trois fois, euh moins pour les couches les plus internes que le vieux système ITS. 
+Euh avec une taille de pixel plus petite et une granularité plus élevée, notre figure de résolution spatiale sera d'environ cinq micromètres. 
+Et les capacités du taux de lectures euh atteindront une centaine de kilohertz dans les données pas euh plus d'un mégahertz dans les collisions Proton-uh Proton. 
+Voici le plan : euh les ITS Deux se composeront de sept couches, trois couches intérieures, deux couches médianes et deux couches extérieures. 
+et au total, il se compose de cent quatre-vingt-douze  dénommées portées. 
+Euh... le a également été un grand effort d'ingénierie pour produire un support ultra-poids pour toutes ces puces, 
+ce qui permettrait euh euh non seulement de soutenir les puces, mais aussi de fournir euh un refroidissement. 
+Quel est le statut ? encore une fois, le détecteur est euh... euh produit, euh l'intégration du détecteur est terminée. 
+Euh... il est en cours de mise en service sur la surface, où nous équilibrons les seuils, en prenant des données cosmiques et vérifier sa stabilité. 
+Cela, je pense, vaut la peine de souligner que nous avons un chiffre de bruit extrêmement faible et en masquant seulement quelques tampons nous obtenons le taux de faux succès 
+inférieur à euh... dix à moins dix. 
+Euh... maintenant, nous testons l'insertion de l'ITS dans le TPC. 
+Ensuite, le TPC est pré-commandé euh... ce test se poursuivra, et nous euh... préparons pour l'installation de l'ITS Deux en début de l'année prochaine. 
+Maintenant, euh... la construction de nouveaux ITS et ayant mis à niveau TPC, nous, évidemment, euh prévoyons une amélioration de leurs performances. 
+Donc, cette euh amélioration dans la région du baril central signifie que l'efficacité du trajectographe ITS va augmenter, en particulier pour le faible pT, 
+euh nous verrons également une résolution de trajectographe et une résolution de pointage améliorées. 
+Et si vous considérez la résolution de l'impulsion avec les nouvelles chambres de lecture de TPC, nous voyons, selon les besoins, 
+la résolution de l'impulsion ne sera pas préservée avec les nouvelles pistes euh TPC et ITS uh. 
+Cela a bien sûr une influence sur la performance physique. 
+Ceci n'est qu'un... exemple de spectres di-électrons de faible masse. 
+Vous pouvez voir avec les cent fois plus de statistiques, nous allons évidemment améliorer notre chiffre d'incertitude. 
+Et plus sur notre euh futur euh bilan euh physique avec les nouveaux détecteurs, que vous verrez dans d'autres présentations lors de cette conférence et j'y reviendrai plus tard. 
+Maintenant, en venant à la région de rapidité : MFT - Muon Forward Tracker et FIT. 
+Euh... l'objectif principal du Muon Forward Tracker est de euh fournir des capacités de vertexing supplémentaires de notre Muon Arm. 
+euh notre système Muon se compose de chambres de tracking, qui sont installées à plusieurs mètres du point d'interaction. 
+En outre, ils sont installés derrière cet absorbeur massif. 
+Donc, évidemment, la résolution de pointage, résolution de vertexing ne peut pas, euh être mieux qu'un... millimètre sur le milli-. 
+Euh d'autres quantifications. 
+Et avec ces cinq couches supplémentaires du muon tracker, 
+près du point d'interaction, euh nous allons améliorer ce chiffre, évidemment. 
+euh... la MFT est basée sur les puces alpite uh ALPIDE. 
+Euh... nous avons cinq stations euh euh construites à partir de dix demi-disques. 
+Et l'ensemble de nouveau, l'assemblage et l'intégration du euh du détecteur, est terminé. 
+Encore une fois pour les euh performances futures, nous espérons atteindre le lebel submillimétrique pour la précision de pointage, pour euh... pour la reconstruction ver- vertex 
+euh cela va, euh évidemment, améliorer notre reconstruction des sommets déplacés J/psi euh des euh... désintégrations B hadron. 
+Euh nous allons aussi euh nous allons améliorer le fond J/psi, euh... et nous espérons aussi améliorer la visibilité des particules de psi deux S, euh même dans les collisions centrales à led-led. 
+Enfin, la région de faible masse du euh... di- spectre muon sera également euh améliorée. 
+Vous pouvez voir ici la comparaison avant et après l'ajout de MFT ce sont, bien sûr, des simulations, mais nous allons bientôt être en mesure de voir des mésons êta, euh très bien ici aussi, euh dans le spectre di-muon. 
+Maintenant, en ce qui concerne le, dernier nouveau détecteur dans cette dans cette liste : 
+le FIT - Fast Interaction Trigger, il se compose de plusieurs détecteurs. 
+euh... le, le nouveau FIT fournira des informations au Central, euh Central Trigger d'ALICE, 
+euh... utilisé pour le nivellement de luminosité il sera utilisé pour le nivellement de luminosité, euh l'identification des processus de diffraction et aussi fournir le T zéro pour euh pour euh... processus Time-of-Flight PID. 
+Euh ils se composent d'un détecteur à grande acceptation euh... un détecteur à scintillation, d'un côté du point d'interaction. 
+Ensuite, nous avons les détecteurs Cherenkov des deux côtés du point d'interaction et puis ces détecteurs de diffractions vers l'avant, euh... placés dix-sept à dix-neuf mètres du point d'interaction. 
+Il permettra il permettra d'améliorer nos mesures de résolution de centralité et euh... et euh... la résolution de centralité. 
+et... et aussi fournir euh... haute résolution T zéro pour notre, euh... Time-Of-Flight euh PID. 
+Et pour en savoir plus sur ces détecteurs, vous pouvez trouver dans les affiches présentées euh présentées sur cette conférence. 
+Maintenant, revenons à la réinstallation. Comme vous pouvez le voir derrière mon beck et aussi sur cette image : euh ALICE est prêt euh à accueillir des détecteurs nouveaux et améliorés. 
+Euh... la la séquence de réinstallation, après ce euh délai euh COVID, va commencer euh autour de Juillet, euh vingt vingt, donc euh dans euh deux mois à partir de maintenant, voire même avant, 
+euh avec la réinstallation du TPC dans la Caverne ALICE, suivie par l'installation de la cage et du tube de faisceau central, Miniframe, 
+et puis, les nouveaux détecteurs FIT, MFT et ITS seront installés. Nous sommes censés être prêts euh... avec l'installation euh... en mai vingt vingt et un 
+et c'est à ce moment que débutera la mise en service globale. nous avons besoin d'environ seize semaines de mise en service globale et, euh... nous serons prêts pour les collisions pp fin août vingt vingt et un. 
+Piotr, cinq minutes restantes. 
+Merci. Euh concernant le traitement de données Online-Offline, comme je l'ai dit les nouveaux détecteurs fourniront beaucoup de données. 
+Ceci est juste un exemple. Ceci est une sous-période de deux millisecondes euh d'une durée de deux millisecondes. 
+Ce sont les événements de Monte-Carlo superposés au niveau de l'amas, en utilisant une structure de croisement de paquets réaliste. 
+Euh... ceci, c'est un c'est un aperçu de ce que TPC va euh et d'autres détecteurs, vont livrer, et tout ce qui doit être traité avec notre système O carré. 
+donc, autour de trois point trois euh ou trois point cinq téraoctets par seconde de données euh sera en mode continu 
+en mode continu, euh arrivera au premier niveau du processeur. 
+Euh et puis le premier type de réduction euh réduction et compression de données aura lieu. 
+La suppression zéro, par exemple, et ensuite les sous-délais de longueur de dix à vingt millisecondes seront envoyés aux nœuds de traitement des événements. 
+Euh ici, le traitement complet des données en ligne euh sera effectué sur les GPU. 
+Euh... nous nous estimons que nous avons besoin d'environ deux mille GPU ou moins. 
+et ce sera une bonne euh augmentation de l'efficacité en ce qui concerne les CPU, étant donné qu'un seul GPU peut remplacer plus de cinquante CPU, dans certaines configurations. 
+C'est est donc un travail en cours, nous nous préparons à cela. Vous pouvez voir que le CR zéro, le Control Room zéro, est prêt. 
+Et les données seront encore réduites à cette étape 
+et nous allons enregistrer sur disque, pour plus de physiques et de traitement de données, une centaine de gigaoctets par seconde. 
+Maintenant, pour en venir à Exploitation Quatre. Comme je l'ai dit, nous préparons également des mises à niveau pour euh... Exploitation Quatre, après LS trois. 
+Euh... l'une des mises à niveau proposées récemment est le fût interne de l'ITS, cela sera appelé ITS Trois. 
+Entièrement cylindrique, fût interne pratiquement sans masse, pour l'Inner Tracking System. 
+Il sera également co- euh composé du nouveau tube de faisceau euh avec un rayon intérieur plus petit. 
+et... le plan est de construire trois couches cylindriques de la taille d'une plaquette, basées sur des capteurs incurvés et ultra-minces avec presque aucun budget matériel. 
+Vous pouvez voir la comparaison de ITS Deux, donc la nouvelle, et ITS trois, donc la future nouvelle. 
+Euh... le budget matériel aura seulement euh le budget matériel du du silicium à à considérer. 
+Et les premiers essais du capteur ALPIDE, incurvé dans le rayon de deux centimètres, sont en cours. 
+Euh le projet est accepté par LHCC et nous sommes dirigés euh nous travaillons en vue du TDR dans vingt vingt euh deux. 
+La performance attendue : encore une fois, nous nous attendons à d'autres améliorations : 
+amélioration de la résolution par facteur de deux et amélioration de l'efficacité par un facteur de deux, 
+surtout le faible euh pT. Il aura évidemment un impact sur la physique et plus encore, 
+euh... je voudrais faire référence à la présentation de Fabrizio sur les perspectives de la physique pour ALICE Un et Quatre. 
+Et il mentionnera également une autre mise à jour, qui est maintenant, actuellement, euh en discussion. 
+Il a été accepté par, euh... par notre collaboration et il sera soumis à LHCC. 
+Le calorimètre avant, FoCal 
+euh... il aura des capacités exceptionnelles pour mesurer des photons directs dans des collisions pp et p-led. 
+Euh, il nous permettra d'étudier la structure des nucléons à petite euh échelle Bjorken x et à faible transfert d'impulsion. 
+Il se composera de deux euh... deux calorimètres et le principal cha- le 
+hadronique et électromagnétique, et le principal défi sera de séparer les gammas 
+et pi zeros, pi zéro à haute énergie. 
+Donc, pour cette électromagne- 
+calorimètres, 
+euh, nous allons à nouveau utiliser hautement-gra-  haute granularité, calorimètre Si-W avec des couches MAPS. 
+Euh... et comme je l'ai dit, le projet est accepté par la collaboration, et nous pouvons 
+prévoir TDR euh d'ici la fin vingt vingt et un. 
+Maintenant, en ce qui concerne l'avenir, comme dans dix ans à partir de maintenant, donc 
+après euh... long arrêt quatre euh... il y a aussi une certaine euh planification, euh si récemment, nous avons soumis 
+la manifestation d'intérêt pour l'installation d'un détecteur "tout silicium" lors de la LS Quatre. 
+Il s'agissait d'une contribution à la Mise à jour de la Stratégie Européenne et vous pouvez trouver plus de détails à travers ce lien. 
+Euh... ce détecteur "tout silicium" augmenterait les capacités de taux 
+par un facteur, prochain facteur cinquante en ce qui concerne ALICE Exploitation Quatre. 
+Ce détecteur ne sera plus basé sur TPC. Euh il sera basé sur les euh détecteurs de silicium. 
+Il serait composé d'un tracker avec dix couches de tracking fûts euh fût à base de MAPS, 
+avec une grande résolution po- euh euh résolution de position et presque euh pas de budget matériel pour les couches de l'Inner Tracking. 
+euh... le TOF PID serait aussi donné par des détecteurs de silicium 
+et donc, l'identification électron-gamma serait faite par un détecteur de pixel de douche à haute granularité. 
+Physique euh... physique euh 
+Je veux dire les objectifs de la physique 
+euh... proviennent de la sonde électromagnétique à pT ultra-faible jusqu'à plusieurs dizaines de mégaélectronvolt, par c. 
+Euh... à la physique de précision dans le secteur du charme et de la beauté. Et encore une fois, euh pour pour pour en savoir plus 
+a propos de l'avenir et euh et les possibilités de construire un tel détecteur, veuillez s'il vous plaît, 
+euh... veuillez s'il vous plaît suivre la présentation qui a été euh... a été exposée aujourd'hui. 
+Euh... mais vous pouvez toujours consulter les lignes à travers le lien donné ici. 
+Cela m'amène donc au résumé et aux perspectives. 
+ALICE fait l'objet d'une mise à niveau majeure pour l'opération dans Exploitation Trois. 
+Et les principales mises à niveau de détecteurs im-euh impliquent TPC, ITS, euh Muon Forward Tracker et les détecteurs FIT. 
+En outre, notre système de lecture sera mis à niveau et nous sommes aussi bre- euh nous travaillons également sur le nouveau online O carré euh le système Online-Offline O carré, pour l'analyse des données. 
+L'installation des nouveaux détecteurs améliorés commencera en été vingt vingt et ALICE sera prêt pour les collisions pp fin août vingt vingt et un. 
+Nous proposons également de nouvelles mises à niveau en vue de l'Exploitation Quatre. 
+et c'est euh le fût interne de l'ITS et le calorimètre avant. Et nous sommes également 
+entrain de préparer une nouvelle génération de euh...  d'une expérience d'un détecteur d'ions lourds "all-silicon" au-delà de LS Quatre. 
+Et avec ceci, je voudrais vous remercier de votre attention. 
+D'accord, merci beaucoup Piotr d'avoir donné tant d'informations et de rester dans le temps. 
+Je suis sûr que cela doit être question rappelez-vous les gens que je rappelle aux gens de lever la main 
+et alors, nous rétablirons votre son. 
+Donc, la première question est d'Ilya Gorbunov, veuillez s'il vous plaît indiquez votre nom et institut. 
+Bonjour, euh... je suis Ilya Gorbunov de JINR, 
+Dubna 
+euh... j'ai une question sur la diapositive numéro vingt-neuf. 
+Euh... alors ici vous dites que euh... 
+l'utilisation du GPU peut cree- euh peut remplacer jusqu'à cinquante modèles de C- euh CPU et qu'en est-il du logiciel ? 
+Avez-vous revisité tous les logiciels utilisés par ATLAS pour... pouvoir fonctionner sur les GPU ? 
+Quelle est la situation avec le logiciel hors ligne ? 
+Quelle est la situation avec le logiciel hors ligne ? Merci. 
+Alors, tout d'abord, concernant concernant le nombre de cinquante, cela dépend bien sûr de la de la... 
+de l'unité que vous vous choisirez et puis, comme je l'ai dit, comme il est écrit ici, le choix final sera fait bientôt. 
+Euh... concernant le logiciel hors ligne, je veux dire, je voudrais je voudrais, je préférerais faire de la publicité de deux autres présentations, où mu- beaucoup plus de détails sur ce sujet seront donnés. 
+Euh... et je pense que la surtout la euh... euh la euh présentation, la deuxième présentation sur 
+l'analyse euh du GPU consolidera, en quelque sorte, euh l'approche de toutes euh les expériences LHC. 
+Je ne vois pas d'autres questions. J'ai moi-même une question sur la diapositive trente-cinq. 
+Bien, vous avez déclaré que l'épaisseur du matériau serait inférieure à zéro point zéro cinq pour cent 
+de la longueur de rayonnement par couche Inner Tracking. 
+Cela semble extrêmement bon. 
+Est-ce un vœu pieux ou est-ce une réalité ? quelle quelle est l'épaisseur des couches ? 
+Alors, l'épaisseur actuelle de de de la puce ALPIDE est d'environ cinquante micromètres. 
+Euh... 
+comme vous pouvez le voir à partir de... à partir de ces simulations, 
+cela cela se compose de plusieurs couches de de différents euh... matériaux. Donc, ici vous 
+pouvez déjà voir, ba- basé sur sur nos prédictions pour ITS Trois, 
+euh la suppression de tous ces services, euh... 
+euh tous ces services euh tous, mais aussi y compris d'autres matériaux comme la colle euh... et l'aluminium, Kapton des des services flex-, 
+euh vous pouvez aller jusqu'au bout d'un matériau en silicium. 
+Et c'est c'est c'est de là que provient notre amélioration du budget matériel. 
+C'est vraiment ce que je vois là: vingt à quarante microns d'épaisseur. 
+Oui oui, donc est actuellement cinq cinquante 
+et puis avec encore plus de minimisation de cette épaisseur, nous pouvons aller à cette vingtaine quarantaine et ce très petit budget matériel. 
+D'accord, merci. 
+Il est encore temps de poser des questions. 
+S'il n'y a pas de questions alors, eh bien, nous remercions virtuellement encore Piotr. 
+Il y aurait des claquements de mains. C'est aussi virtuel. 
+Et puis nous passons à la ne-. 
+Bon, alors je vais commencer maintenant. Euh donc je vais euh présenter aujourd'hui sur ce que nous avons appris euh 
+sur le secteur de Higgs en termes de production, de propriétés de désintégration et de distribution différentielle à LHC. Donc tout d'abord un petit rappel que le secteur de Higgs 
+a été introduit dans le modèle standard, grâce à plusieurs articles fondateurs, qui 
+ici, vous avez une petite sélection, et que le boson de Higgs a été découvert 
+en mille douze par les collaborations ATLAS et CMS à LHC. Donc si euh maintenant nous 
+regardons euh dans le modèle standard Lagrangien, la première chose euh marquante est que 
+le boson de Higgs est la seule particule fondamentale de spin zéro du modèle standard 
+qui apparaît dans plusieurs de ses termes. Ainsi, par exemple, nous avons ici les termes 
+qui décrivent l'interaction du boson de Higgs avec les fermions euh, qui euh en 
+particulier, le terme qui est proportionnel à la masse de fermion, et nous avons également le 
+terme cinématique qui inclut également ce qu'on appelle, disons, l'interaction standard 
+avec les bosons de jauge des Higgs, et enfin le potentiel de Higgs po- euh, qui est 
+responsable de la brisure de symétrie électrofaible, et rend le champ de Higgs euh 
+spécial. Alors donc euh alors ce que je vais parler aujourd'hui est principalement sur les 
+mesures de précision que vous voyez ici, les accouplements, la section efficace différentielle, 
+l'interprétation, la masse, et le spin CP, ainsi que l'interaction de Yukawa avec la 
+troisième génération de fermions. et euh les autres sujets en orange seront couverts par 
+Giovanni, qui parlera plus tard dans cette session. Je tiens également à souligner les discussions spécifiques 
+dans la session parallèle, dans lesquelles vous pouvez voir ces sujets développés plus en détail, si vous êtes intéressés. 
+Alors commençons maintenant avec le euh ce que sont les prédictions en 
+termes d'une production et de la désintégration pour les bosons de Higgs. Alors, quand nous regardons treize TeV, 
+qui est euh l'en- -gy dans le centre de la masse du euh LHC pendant Exploitation Deux. nous voyons que 
+la production de fusion gluon-gluon est de loin le mode de production dominant du boson de Higgs suivi des fusions vectorielles et de la production associée euh avec 
+les bosons vectoriels. Et enfin, euh la production euh tt- euh ttH euh prod- euh associée. De plus, nous 
+avons d'autres modes de production, notamment ici comme bbH et les productions Higgs à un seul sommet 
+qui sont sont également dans ce graphique. Euh je tiens également à souligner que les deux premiers, 
+la fusion gluon-gluon et la production de VBF, ont déjà été observés lors de Exploitation Un du LHC 
+alors que la production associée au boson vectoriel et au ttH a été observée 
+sur la euh, pendant Exploitation Deux. Donc, le, en termes de modes de désintégration euh euh, le  bb barre est euh la 
+désintégration dominante des bosons de Higgs mais pas la plus facile au LHC. et, euh en 
+réalité le... euh le cas de la- dans dans deux photons et deux Z et même en particulier le cas 
+où le Z les désintégrations à quatre leptons ont été en fait, parmi les premiers à être découverts, 
+malgré leur faible rapport d’embranchement, grâce au euh bon rapport ratio de fond 
+avec la WW, qui euh est aussi les autres canaux bosoniques qui ont contribué à 
+la première observation du boson de Higgs. à la fin de Exploitation Deux, euh Exploitation Un. Euh les Higgs à tau tau étaient 
+aussi observés, et les, les Higgs à bb barre a été plus tard observée pendant euh l'Exploitation Deux euh de LHC. 
+Maintenant le... euh... juste une petite diapositive sur le détecteur ATLAS et CMS qui en particulier 
+pendant Exploitation Un et Exploitation Deux ont eu de très bonnes performances et euh le LHC aussi bien en 
+fait, euh déjà passé leur conception euh performance en termes de luminosité maximale, 
+comme vous pouvez le voir, que euh LHC a déjà doublé la luminosité maximale nominale euh de dix à 
+trente-quatre. Et aussi en termes de nombre d'interaction par brunch croisé. La moyenne 
+dans Exploitation Deux était trente-quatre par rapport à la valeur de conception d'environ vingt-trois. Et qu'ils ont 
+livré euh... luminosité par le euh... accélérateur était autour de trente femtobarn inverse pendant Exploitation Un 
+cent soixante femtobarn inverse pendant Exploitation Deux. Donc, une assez bonne performance, je dirais. 
+Euh... maintenant nous allons discuter de la... euh la mesure des bosons de Higgs, je voudrais commencer par 
+les sections efficaces euh... si l'on en croit le modèle standard, euh il devrait y avoir environ 
+cinquante-six mille bosons de Higgs produits par femptobarn inverse pour chacune des 
+expériences dans chacun des points d'interaction du LHC et les les expériences ATLAS CMS 
+peuvent reconstruire environ deux cents par femtobarn inverse. Euh donc cela 
+permet de faire euh, surtout pendant Exploitation Deux, une mesure précise de la section efficace du boson de Higgs. et vous avez ici un exemple de cette mesure par ATLAS, où euh c'est euh 
+fait par un mode de production et par dans dans un canal de désintégration et vous voyez que euh plusieurs de 
+ces mesures sont encore limitées par la statistique qui est mise en évidence par cette bande jaune euh et la table est un est également tout à fait complète. Et un moyen aussi à euh... faire euh la section efficace pour euh pour présenter la mesure de la section efficace, cela a déjà été établie euh 
+par le... euh pendant Exploitation Un par les premières euh mesures. est la prétendue 
+force du signal qui est essentiellement la section efficace qui divise la prédiction du modèle standard 
+et vous avez dans ce résumé euh CMS euh euh un bon exemple de la façon dont l' 
+expérience est capable de très bien couvrir les euh tous les modes de production et les modes de dé- désintégration, ici aussi le mu mu est euh... un pour lequel nous n'avons que des limites supérieures est également 
+inclus ici. et enfin, vous avez ici dans euh dans cette partie, euh la mesure commune de la puissance du signal par les les deux expériences, parmi celles les plus récentes. Bon, 
+alors, euh les nouvelles mesures euh en quelque sorte sont euh ne sont pas du tout satisfaisantes de 
+plusieurs points de vue. Alors, déjà en cours de Exploitation Un, un nouveau cadre a été développé 
+spécialement pour la combinaison des mesures euh... par les deux expériences et 
+de et les différents canaux. Donc, cette première tentative a été le cadre appelé Kappa, 
+qui est essentiellement la modification du sommet des accouplements de Higgs à l'ordre principal, où l'on peut exprimer la production et la désintégration des bosons de Higgs 
+en termes des modificateurs Kappa et puis euh... nourrir ces paramètres. donc, euh vous avez ici euh... 
+un de ces résultats par CMS euh pour les données de Exploitation Deux, qui euh étaient en fait, euh des désintégrations indétectables et invisibles des bosons de Higgs sont, euh... sont autorisées. donc, fondamentalement seulement modèle standard, euh les désintégrations euh en particule modèle standard, les couplages à une particule modèle standard sont autorisés 
+ici, et euh... vous voyez que l'accord avec le modèle standard exprimé par la valeur p 
+est très élevé. Et aussi vous avez dans un exemple similaire, par ATLAS euh de la 
+une mesure des couplages où ici vous avez trois interprétations différentes. Dans le 
+cas de seulement un couplage avec le modèle standard et aussi quand vous permettez euh euh les désintégrations de Higgs 
+aux états finaux invisibles, de Higgs aux recherches invisibles, et aussi lorsque vous autorisez 
+des modification de la de la largeur totale des Higgs, euh de la largeur des Higgs par rapport à la largeur off-shell 
+mesu- euh recherches, euh et vous voyez, euh en particulier que les modificateurs Kappa ont une 
+précision typique qui est de l'ordre de dix à vingt pour cent euh pour la plupart de ces paramètres. 
+Maintenant, euh... plus récemment, euh un moyen aussi de... euh mesurer les sections efficaces de Higgs et ensuite rendre possible 
+les études sur le B, au-delà des contributions du modèle standard a été de euh mesurer 
+la euh la section efficace de Higgs dans les régions fiduciaires exclusives de l'espace des phases appelées bins, 
+sous le modèle simplifié, la section efficace. plus tard STXS. Ainsi, dans ces 
+cas, ce qui se passe est que les mesures sont faites dans la reconstruction 
+des catégories d'événements comme vous pouvez le voir sur cette partie de la diapositive, et puis ceux-ci sont 
+dépliés au niveau des particules afin de se coupler aux bins d'espace des phases que nous 
+souhaitons mesurer. Donc, pourquoi euh c'est important, parce que, euh ces définitions sont communes na- 
+euh entre les expériences et la théorie. Donc, cela aide, en particulier dans les 
+combinaisons et de minimiser les incertitudes théoriques et euh d'améliorer la sensibilité expérimentale à cet état final. Maintenant, je veux vous présenter un exemple de ces 
+types de mesures STXS par ATLAS d'une euh à partir d'une mesure qui a été déployée 
+euh en avril. et vous pouvez voir par exemple, dans dans ce euh graphique ici, euh en fonction des 
+catégories d'événements reconstruites ici, la pureté des différentes bins de mode de production 
+ce que nous avons vu dans les diapositives précédentes. Et euh dans cette analyse 
+en fait, le nombre de euh 
+euh catégories n'est pas particulièrement élevé parce qu'un réseau de neurones est utilisé pour euh... 
+discriminer les différents modes de production. Et dans cette recherche particulière comme 
+vous pouvez voir dans le résumé du bas, euh les incertitudes sont encore dominées par 
+des incertitudes statistiques. Euh les mesures de STXS peuvent être effectuées sur différentes 
+étapes de l'étape zéro jusqu'à l'étape deux. Et ce particulier en fonction du nombre de 
+bins et la granularité utilisée pour les bins fiduciaires, et vous pouvez voir que ce 
+résultat est fait en termes de la prétendue étape réduite un point un. En général, l' 
+accord avec le modèle standard est bon comme le montre à nouveau la valeur p d'un 
+accord de modèle standard. Donc, euh finalement, euh un moyen aussi de euh... d'extraire des informations sur les nouvelles 
+physiques, des mesures de Higgs est la possibilité de, euh... d'utiliser des théories efficaces sur le domaine 
+EFT et celles-ci permettent d'interpréter les mesures prolongeant le 
+modèle standard lagrangien avec des opérateurs d'ordre supérieur de l'ordre six ou supérieur. Et euh 
+ceci est fait par exemple dans le dans le euh... avec les Higgs efficaces Lagrangiens qui utilisent 
+la forte lumière d'interaction Higgs une euh base. Et vous avez ici un exemple de la façon dont le... 
+le coefficient de Wilson lié à ces opérateurs, opérateurs d'ordre supérieur, peut modifier 
+euh simplifier les sections efficaces assez significativement, et qu'il y a aussi une 
+alternative euh euh... disons euh... EFT euh... euh modèle qui peut être utilisé qui est un modèle standard EFT 
+euh basé sur la euh base Warsaw. Et euh ceci, euh par exemple, est en euh... oui, une illustration, ce graphique 
+montre un exemple de la façon de comment la production électrofaible de Higgs avec deux quarks euh... la... euh peut être 
+modifiée en termes de PT des principaux jets par cet euh... par les euh ces euh... l'action de ces opérateurs d'ordre supérieur. 
+Alors en fait, ces euh les STSX et les mesures différentielles sont particulièrement 
+intéressantes pour ce genre d'opérations et nous allons voir maintenant, un exemple 
+de celles-ci. Euh le premier exemple porte sur les mesures euh provenant des termes du euh 
+modèle standard EFT provenant de la Higgs à quatre leptons euh... la mesure que nous avons 
+vu avant et ces euh il est dans ces cas la m-... la mesure n'est pas nécessaire- 
+sensible à tous les opérateurs possibles. Donc, seul le euh coefficient de Wilson 
+auquel l'analyse la plus sensible est ajustée et les autres sont juste euh réglés sur 
+une valeur nominale de zéro. Par conséquent, euh ici vous avez un exemple de la forme où seulement 
+les coefficients de Wilson pertinents sont ajustés. Et puis vous pouvez voir dans le 
+graphique du bas quel sera euh l'effet de ces opérateurs si euh s'ils sont différents de 
+zéro par ces quantités. Et cela dépend bien sûr, selon la catégorie, vous 
+pouvez avoir un opérateur euh qui est plus important que d'autres, et en particulier, 
+ceux qui sont liés à la fusion gluon-gluon sont plus sensibles au coefficient hg et 
+puis ceux qui par exemple sont euh... dans le ttH euh... bien sûr vous êtes plus 
+sensibles aux accouplements au quark de type Up. Une mesure similaire peut également être 
+effectuée à partir de la combinaison de différents uh... de toute la combinaison de la mesure. Ceci est 
+fait par euh ce résultat ATLAS. Dans ce cas, en termes des Higgs efficaces Lagrangiens 
+et euh donc une base différente mais équivalente et ici vous pouvez voir euh les 
+résultats qui sont obtenus pour ces opérateurs euh à nouveau, seulement l'import- 
+l'imp- opérateur qui euh auquel les analyses sont sensibles est montré. Ok, alors euh... maintenant, euh je 
+voudrais aussi vous montrer euh un résultat des sections efficaces différentielles. et encore une fois, 
+nous avons euh de nouveaux résultats, qui ont été publiés en Avril par ATLAS. Et une des deux 
+expériences a fait des mesures dans les sections efficaces fiduciales définies en termes 
+des cinématiques Higgs boson, jet, euh multiplicité et cetera. Et ici, à partir de 
+cette mesure ATLAS, vous avez un exemple des sections efficaces différentielles, 
+double section efficace différentielle, en termes du candidat PT Higgs et le nombre de 
+jets. donc vous voyez ici qu'il est possible non seulement de faire des sections efficaces différentielles 
+en termes d'une variable, mais même plus d'une. Et aussi dans euh dans ce cas aussi à partir d'un 
+Higgs à euh quatre analyses de lepton, vous pouvez voir euh euh à la place, les sections efficaces différentielles 
+faites en termes de distribution de la rapidité des euh des Higgs, qui comme 
+vous l'avez vu précédemment dans le discours de Sally, est sensible à la prévision QCD perturbatrice. 
+donc, euh... alors, euh une autre façon d'exploiter la mesure différentielle est aussi d'essayer de 
+définir des limites sur certains des paramètres de Kappa qui ne sont pas faciles d'accès directement. Un 
+de ces exemples est le Kappa C donc les couplages au quark C. Donc ceci par 
+exemple, est un exemple de la façon d'utiliser les distribut- distributions différentielles PT Higgs 
+afin de fixer des limites sur Kappa C et Kappa B. Parce que euh ce 
+sont deux euh... paramètres de Kappa qui peuvent modifier assez fortement la distribution de PT Higgs comme 
+montré dans ce euh dans ce graphique, ici. Donc, euh donc, euh... ces mesures peuvent euh... peuvent, la 
+contrainte peut être définie avec un nombre différent d'hypothèses. Ici, vous en avez une 
+d - de ces limites euh euh, qui est en fait la plus restrictive qui utilise le plus grand 
+nombre d'hypothèses, où la modification non seulement à la forme des 
+Higgs PT, mais aussi aux rapports d'embranchement. provenant de ces deux euh paramètres Kappa 
+sont sont exploités et donc, vous avez une meilleure limite, mais même si nous supposons seulement 
+la... euh... modification seulement de la forme du PT euh du Higgs, encore, euh ... ce- de cette 
+façon indirecte, nous pouvons encore mettre des limites sur kappa C qui est comparable ou à partir euh de ce que 
+nous obtenons des recherches directes. Ok, alors il y a encore une mesure différentielle 
+dont dont j'aimerais parler, qui est une euh mesure C- CMS de Higgs à WW 
+dans les états finaux leptoniques où les catégories sont définies selon ce 
+lepton sous-tendant de type électron ou muon et le PT. Et dans ce cas les 
+mesures, la mesure différentielle, se fait en termes du 
+PT des Higgs euh jusqu'à la dernière bin qui dépasse deux cents GeV et aussi le nombre de jets euh au-dessus de quatre 
+quatre jets euh et puis vous voyez euh que l'incertitude sur la section efficace fiduciale 
+est de l'ordre de vingt pour cent et sur le dernier bin la la limitation est encore 
+essentiellement statistique, mais nous y parvenons toujours. 
+D'accord, maintenant, oh euh 
+Je vais discuter un peu plus des accouplements de Yukawa. C'est euh, comme je l'ai dit avant, un 
+nouveau type d'introduction que euh euh peut euh... peut révéler une nouvelle caractéristique qui ne sont pas vues 
+dans l'interaction de boson de jauge euh et donc, est euh quelque chose qui a 
+reçu beaucoup d'attentions dans les mesures de Higgs. Le premier sera la 
+discussion de la Higgs tau tau où nous avons la euh une dernière analyse Higgs ATLAS dans l'état final Higgs tau tau où six canaux sont analysés et où la euh... section efficace est obtenue 
+de la forme de la euh di- tau masse invariante. Et vous voyez que ce résultat a été 
+également interprété en termes de euh... modèles simplifiés de sections efficaces pour la fusion gluon-gluon et 
+VBF. Et en particulier pour le modèle de production VBF. Ce canal est euh, est 
+particulièrement important grâce à sa sensibilité. CMS a également montré que les 
+résultats comprennent également plus de données que l'ATLAS jusqu'à deux mille dix-sept. Et dans ce 
+cas, quatre canaux ont été analysés euh et le Z tau tau est modélisé de manière basée sur des données. Et au lieu de la forme m tau tau, la euh la section efficace est extraite d'une distribution de réseau neuronal à partir d'une distribution de réseau neuronal Dans ce cas CMS fournit un 
+modèle simplifié de sections efficaces de la première étape pour ces canaux. Et vous pouvez 
+voir ici les bins en termes, pour la fusion gluon-gluon, en terme de PT Higgs et pour VBF euh en 
+termes de topologie VBF et et cetera. Bien, donc, le euh un autre euh... ét- état final fermionique est euh 
+les les Higgs se désintégrant en quarks B et le ici ils afin de réduire le le 
+contexte, généralement ils ont associé la production avec un vecteur boson est 
+exploité. Et vous voyez euh de récents résultats par ATLAS de cette année où en fait euh 
+exploitent un grand nombre de régions de signal et les régions de contrôle avec une multiplicité différente de leptons chargés afin d'être sensibles à plusieurs états finaux et 
+un algorithme b-jet dédié est également utilisé afin d'améliorer les résolutions de masse b b-bar. En particulier les euh ces énergie dédiées recon- euh l'algorithme de recalibrage améliore de plus de quarante pour cent euh la résolution de masse b  b-bar par rapport à la 
+calibration standard du jet euh... cas. Et dans ce cas, le modèle simplifié de sections efficaces est fournie en termes du boson vectoriel PT à partir de deux bins de 
+cent cinquante deux cent cinquante et plus de deux cent cinquante. Et cette analyse euh est également très sensible à 
+ces deux modes de production comme vous pouvez le voir qui en fait peut réaliser 
+l'observation de la production de ZH euh avec cinq sigma supplémentaires et als- dans le 
+cas de WH, il obtient euh, il atteint une très forte preuve d'un quatre sigma. alors, the-... désormais, nous 
+aimerions discuter aussi d'une façon différente de cibler également la désintégration des Higgs à b b-bar, 
+qui est de chercher, au lieu de résoudre le, euh le euh, le jet du quark b 
+jets de la désintégration de Higgs, euh reconstruire un grand paramètre R Jets et 
+ensuite, regarder à l'intérieur de celui-ci pour la signature de celui-ci de deux b jets. Donc cela est fait pa- par ATLAS 
+et CMS avec une cible légèrement différente dans le cas d'ATLAS le 
+mode de production cible est VH. Comme dans le cas précédent, et le- euh PT des Jets doit 
+être supérieur à deux cent cinquante GeV. Et vous voyez 
+Vous avez un peu moins de cinq minutes. 
+Oui, merci. Et vous pouvez voir ici que euh cela permet de donner euh à atteindre pour étendre leur sensibilité en PT jusqu'à quatre cents jusqu'à quatre cents GeV. Dans le cas de CMS, euh c'est une recherche inclusive donc principalement pour euh ciblant les fusions gluon-gluon, et ici les exigences PT du jet est de quatre cent cinquante GeV. mais dans et dans ce cas CMS aussi euh f- essayer 
+première tentative de coupe transversale différentielle pour les Higgs PT dans cet état final. 
+Et comme vous l'avez vu précédemment dans la présentation de Sally, euh, cela peut être tout à fait 
+intéressant à l'avenir car alors que euh à faible PT, nous sommes sensibles à la fusion gluon-gluon 
+quand nous allons après ces bin de grand PT nous commençons à être sensibles aussi euh non seulement à 
+fus- gluon-gluon mais aussi à d'autres modes de production et donc cela 
+devient très intéressant. 
+Ok, j'ai juste une diapositive ici sur ttH pour l'exhaustivité, mais je vais discuter 
+davantage de ces productions plus tard, je veux juste dire que euh pour ceci pour 
+ce mode de production, c'est-à-dire euh... à partir duquel on peut extraire les Higgs sur les 
+couplages directement, euh nous exploitons plusieurs mode de désintégration du 
+du top anti-top ainsi que les modes de désintégration de Higgs. Comme vous pouvez le voir à partir de cette 
+euh table de ATLAS et et CMS. Donc, euh... maintenant je vais parler des propriétés. donc la 
+première propriété dont je parle sontles mesures de masse de Higgs. et la masse de Higgs est euh 
+est ce que vous savez, est une question le modèle standard de naturalité, car ils sont la base du problème de la prétendue hiérarchie, mais c'est aussi un important 
+paramètre pour ce qui concerne l'accord d'importation pour l'électrofaible 
+et aussi pour la compréhension de la stabilité du vide ainsi que euh, à 
+comprendre si le Higgs a un rôle en tant que candidats inflaton. f- à LHC la 
+mesure est effectuée dans les deux photons et quatre états finaux de leptons parce qu'ils 
+ont de loin la meilleure résolution et vous vous rappelez que euh à la fin de Exploitation Un, les 
+mesures combinées des deux expériences ont donné une précision de deux cent quarante MeV. 
+Alors, je veux maintenant vous montrer une nouvelle mesure par ATLAS qui améliore les 
+techniques utilisées précédemment en s'appuyant sur la méthode de résolution événement par événement au lieu de 
+résolution moyenne. Et aussi euh utiliser un ajustement cinématique en limitant la masse invariante de la 
+des principales paires de leptons à la masse Z afin d'améliorer les précisions et d'utiliser une 
+fonction Crystal Ball double face pour s'adapter au signal, comme vous pouvez le voir ici. Ainsi, ce résultat 
+est résumé dans ce tableau, et est encore limité de loin par les statistiques 
+d'incertitude dans tous les canaux. et mais je voud- voudrais souligner que l'incertitude systématique 
+sur cette mesure est assez faible est seulement quatre-vingt-dix MeV et soixante, euh... moins soixante MeV, 
+qui est principalement euh provenant de l'échelle de momentum muon. De plus, CMS a récemment 
+fourni une mesure de masse de Higgs, cette fois sur le euh diphoton en utilisant le diphoton 
+canal avec trente-six femtobarn inverse de données et il est à la fois dans plusieurs catégories. et 
+euh dans ces cas, le signal est modélisé avec une somme euh de jusqu'à quatre fonctions gaussiennes en fonction de la euh catégorie euh réelle et par elle-même cette mesure a euh une 
+précision de deux cent soixante MeV, mais quand il est combiné avec le résultat euh de Exploitation Un CMS, il 
+atteint une incertitude totale de cent quarante MeV, qui est euh très faible est seulement d'environ un point un par mile d'incertitude. Bon, le dernier sujet sur lequel je vais parler est le spin 
+CP du boson de Higgs qui, euh comme vous le savez, est la prédiction sur le modèle standard est 
+que le boson de Higgs est un état "zéro plus" et que déjà pendant Exploitation Un 
+le couplage au boson vecteur a été étudié en longueur, où l'état "zéro plus" a été favorisé en ce qui concerne les différentes alternatives, mais euh de toute façon il est 
+vrai que les accouplements de Higgs aux euh fermions peuvent aussi nous donner plus d'indices 
+parce que dans ce cas, euh la contribution CP-odd peut être sur le même niveau que euh 
+les CP-even, alors que dans le cas des accouplements boson vecteur, sont supprimés par euh 
+l'échelle de la nouvelle physique à la deuxième puissance à la deuxième puissance. Donc maintenant, -ave euh, juste 
+pour terminer, les résultats des deux expériences, qui euh sont faites dans le ttH euh 
+où les Higgs se désintègrent à l'état final des photons. Les deux résultats sont très nouveaux 
+ou- sont parus en mars pour la CMS et avril pour ATLAS. Et ce résultat est un euh... 
+fondamentalement, le paramètre d'intérêt est un, il y a une différence entre l'utilisation d'une différente 
+définition afin d'expliquer, mais ils sont équivalents dans le cas d'ATLAS est l' 
+angle alpha ici qui quatre-vingt-dix degrés euh est un plein est un état CP-odd complet et 
+dans le cas d'un euh CMS à la place, les paramètres Kappa T tilde est utilisé et en 
+particulier, ceci est utilisé pour euh définir la euh contribution fractionnaire euh CP-even FCP. euh qui est 
+ajustée ici. Ainsi, Kappa euh T tilde ze- zéro sera le modèle standard. Bon, donc ici euh ils 
+dans les deux cas, le m gamma gamma est ajusté dans toutes les catégories et c'est un 
+résumé des résultats où les deux expériences peuvent avoir exclu les couplages CP-odd purs avec plus de trois sigma trois point neuf pour ATLAS et trois point deux pour CMS. Et aussi euh... 
+dans le cas d'ATLAS, on a effectué un ajustement de la fraction tH à la fraction ttH 
+donnant une limite de douze modèles standard de temps sur le seul 
+Luca, votre temps est écoulé. 
+Oui. Et dernière diapositive. Donc juste pour conclure le, euh... ATLAS a aussi un euh une sensibilité à la 
+Kappa T cosinus euh signe alpha euh et la combinaison avec la avec la combinaison des 
+mesures de Higgs. Et euh... et puis euh... Je voudrais juste... euh vous faire le résumé, 
+euh dire que grâce à la performance exceptionnelle du LHC et des expériences nous 
+Exploitation Deux, euh a été possible d'améliorer considérablement notre compréhension des 
+bosons de euh...Higgs, à la fois en termes de mode de production et ainsi que euh une structure CP et les 
+mesures de masse et le- ce Exploitation Trois et euh... Exploitation tr- et euh à l'avenir Exploitation Quatre et ainsi de suite 
+semble lumineux, comme vous pouvez le voir à partir de ces projections par les deux expériences. Merci. 
+Super, merci beaucoup Luca. 
+Des questions ? 
+S'il vous plaît, si vous avez des questions, n'hésitez pas à lever la main. 
+Très bien, si ce n'est pas le cas, alors j'en ai une. Euh auparavant, quand vous parliez des interprétations EFT. Euh... j'essayais de comprendre euh les différences entre les 
+résultats d'ATLAS et les résultats de CMS que vous avez montrés. Euh en particulier, en essayant de comparer, je 
+regardais hw et j'ai constaté qu'il semble qu'il y avait une précision assez différente. 
+Cela étant, vous avez mentionné que ceux-ci provenaient de deux analyses très différentes. pourriez- 
+vous en dire un peu plus sur les différences ? 
+Euh... la diapositive était... laissez-moi juste obtenir le nombre, c'était la diapositive quinze. 
+Oui, malchance, d'accord, avec le mode plein écran. Je pense que je suis un peu perdu avec une 
+diapositive. Mais le, je pense que le fait est que l'on doit se rendre compte que cette 
+ont été faites so - sous les différentes bases. Ainsi, dans un cas, il était un SM EFT. Et dans l' 
+autre cas était le Higgs efficace Lagrangien, donc, les paramètres n'ont pas la 
+même signification. Ils ne sont pas directement comparables, disons 
+euh... 
+en euh 
+D deux. donc, oui. 
+C'est donc la raison principale maintenant, je remarquais juste que vous aviez le commentaire 
+qu'il y avait une forte anti-corrélation des entrées dans le cas CMS. Euh... mais je suppose que ce sont vraiment les différentes bases qui font les principales différences. 
+Alors, de plus, vous 
+comparez, je veux dire, celui de droite est d'une combinaison de tous les canaux 
+où celui de gauche n'est essentiellement 
+que ZZ quatre leptons. Donc 
+oui, ils dans le cas de la, disons sur la gauche, vous êtes principalement sensible à la 
+Higgs à ZZ. Donc, ici, vous avez une forte, disons euh sensibili- à la b, qui 
+est essentiellement le le le euh le taux de champ de jauge à la proximité euh plus étroitement liés, disons 
+pour le Z. Alors qu'au lieu de euh oui, le cas CMS vous avez la combinaison, cela vient 
+de la combinaison des canaux, donc, vous avez une plus complète vi- des com- 
+images complètes de euh des couples. En effet. 
+D'accord, je vous remercie. D'autres questions ? 
+Je vois que deux mains sont levées. Euh mais en quelque sorte, d'accord, euh Michael spiri-. Vous voulez aller de l'avant. 
+D'accord, euh parce que c'était, je ne suis pas vraiment sûr d'avoir bien compris. pour la détermination 
+de Kappa C pour le charme Yukawa coupli-, euh l'extrayez-vous de la 
+section efficace de fusion de gluon ou de c c-bar à Higgs ? 
+Dans, eh bien, cette limite est extraite des mesures différentielles du 
+PT Higgs. mais, cela inclut également, d'une manière ou d'une autre, l'effet de la modification non 
+seulement au spectre, mais aussi aux rapports d'embranchement. Par conséquent, a un peu plus 
+d'hypothèses dans le grand Kappa, ont euh...d'une manière ou d'une autre les limites alors qu'au lieu de cela, vous 
+ne considérez que la euh, la euh... la limite de, euh de... euh de la forme. Maintenant, je suis un peu, euh 
+désolé, je suis un peu lent à me déplacer dans les diapositives, mais ils f-, peut-être que je peut sauter rapidement à euh... 
+à ces résultats, juste pour vous montrer. 
+Oups, je pense que j'ai trop avancé. 
+euh... 
+Bon, on dirait que je suis un peu euh... 
+un peu lent à me déplacer à travers les diapositives. Donc, mais 
+euh... 
+Ok. 
+euh... 
+Parce que la vraie raison pour laquelle je demande cela est que je ne comprends pas pourquoi le euh que l'ajustement du euh est symétrique 
+pour positif négatif Kappa C. 
+Eh bien oui l'ajustement est euh... en effet est assez symetri-. Maintenant le... av- concernant le signe I 
+euh... eh bien, je veux dire que c'est symétrique dans le sens qu'il n'y a pas de sensibilité au... au signe, oui voilà. 
+Oui. 
+Donc à ce sujet, euh je pense seulement parce que entrer en quadratique no-, je veux dire dans les... dans les... seules entrées 
+quadratiques dans le... dans l'ajustement. 
+Oui, mais alors bien sûr, cela ne peut pas être la fusion de gluon. Ceci, euh parce que cela doit 
+être fait avec c c-bar à Higgs. 
+Eh bien, ce sont ceux-là aussi il y a aussi, oui, d'accord, il y a aussi la boîte bien sûr 
+il y a également une contribution par boîte. Euh vous devez considérer que c'est aussi très 
+sensible au schéma Higgs plus jet. Qui est, disons, boîte liée. Donc oui, 
+ce n'est pas seulement... 
+mais à nouveau dans la fusion de gluons. 
+Euh... oui, surtout je dirais fusion de gluons. 
+Je parie que vous utilisez un terme d'interférence, qui est sensible au signe. 
+D'accord, à ce sujet, peut-être que quelqu'un peut répondre mieux que moi. Je suis, je suis... 
+je ne suis vraiment pas ex- euh je peux 
+seulement vous dire que si l'interférence est un carré ou non, 
+parce que c'est une des raisons profondes de ma question que je ne com- comprends pas. 
+Euh euh 
+que je ne comprends pas pourquoi cet ajustement est symétrique par rapport au signe si cela 
+vient du champ de gluon. Donc cela doit venir de c c-bar à Higgs plus jets. 
+alors c'est quadratique. 
+Eh bien, je suis je suis... Je suis sûr que toutes les contributions sont à considérer ici. Je suis presque sûr 
+que la fu- gluon gluon est l'une des plus importantes, pour être honnête. 
+Ah mais alors ça doit être asymétrique parce qu'alors c'est sensible au signe. 
+Je pense que Karsten pourrait vouloir répondre. 
+Euh... 
+peut-être 
+peut-être qu'il ne peut pas rétablir le son. 
+Je veux dire je sais que la limite est 
+Maintenant je peux. 
+Oui. 
+Pouvez-vous m'entendre maintenant ? 
+Oui ! 
+Parfait. 
+Allez-y. 
+Donc, euh, le charme  charme de Higgs euh est inclus ici. Donc, c'est vraiment le... euh en utilisant la 
+distribution cinématique entièrement déployée de PT Higgs ou PT quatre lepton je devrais dire, euh, mais l'idée est euh... 
+euh... c'est en raison de la faible sa- 
+résolution, que nous avions un lar- plutôt grand bin de zéro à dix GeV. Si vous retournez à 
+vos diapositives originales euh vous voyez de comme euh... le graphique de la théorie, qu'une grande fraction de la 
+sensibilité vient même euh si vous le scinder encore plus loin de zéro à 
+cinq et cinq à dix, mais nous n'avions pas les statistiques expérimentales et 
+résolution donc pour ce faire, c'est peut-être quelque chose pour le futur ou pour 
+les canaux gamma gamma et ce genre de choses. Donc dans ce sens, euh, tout est 
+inclus ici, mais euh... oui, nous eu- nous n'avons qu'une certaine sensibilité avec les statistiques actuelles. 
+Parce que c'est aussi intéressant car dans les graphiques en haut à droite, vous verrez 
+si vous comparez la courbe verte avec la courbe rouge que vous êtes en effet sensible 
+au signe. 
+Oui, mais 
+c'est exactement la problématique ici et si vous regardez en haut à droite, euh,  la euh la 
+sensibilité principale du signe est de si vous comparez zéro à cinq et cinq à uh et 
+ci-dessus GeV en PT Higgs. Et exactement ce que nous observons parce que nous intégrons de zéro à dix. 
+Il s'agissait d'une limite, euh des statistiques limitées et et la résolution dans dans ce et ici 
+le canal gamma gamma et si vous essayez avec une combinaison et aussi avec une 
+combinaison avec CMS peut aider si nous, si nous rendons cette euh binning expérimentale plus fine. 
+Ici, nous aurons encore tout à fait euh anti-corrélations euh expérimentales entre 
+ceux-là, mais espérons qu'il est assez bon pour faire une meilleure affirmation. 
+Bon, je pense que nous allons laisser le reste de cette discussion pour la pause-café. Je 
+pense qu'il y avait une autre question de Makkah. Scalia. Vous voulez vous lancer ? 
+Bonjour, si vous pouviez aller à la page vingt-six. 
+D'accord, donc donc donc je suppose que le pôle de l'âge de la masse et le pôle supérieur de la masse est différent de la 
+mesure expérimentale, cela signifie que vous faites probablement quelques traitements supplémentaires et la question est, quand le théoricien met à jour ce genre de graphique avec 
+la plus récente. 
+Bon, je pense que ce n'est pas une question pour moi, mais peut-être c'est une question ouverte pour 
+la théorie au moins dans la salle. Euh bien nous savons bien la différence entre 
+le pôle supérieur et le dénommé Mon- Monte-Carlo, masse supérieure expérimentale. D'accord, je laisse la parole s' 
+il y a des expérimentateurs qui veulent répondre à cette question. Je la laisserai euh je leur laisserai. 
+Tous les théoriciens. 
+Je ne vois pas de mains. 
+euh... 
+Ah Spira vous voulez répondre à la question ? 
+Je pense que l'impossi- cette question est liée à la euh... euh parce que cela a trait 
+à l'ajustement final d'une masse constante de quark Top et c'est une initiative qui est maintenant 
+en commençant par le côté expérimental, parce que je pense que ce que vous avez vraiment à faire 
+c'est l'un des moyens possibles pour s'adapter à la masse supérieure msbar, euh ou il s'agissait d'une définition cohérente de la masse du quark Top et c'est maintenant starti-. La masse de Higgs elle-même ne 
+joue pas une si grande règle. Mais bien sûr, je suis d'accord que l'ajustement de la valeur de la 
+masse du quark Top est vraiment cruciale ici. Et les premiers euh ajustements euh pour autant que je me souvienne, sont ATLAS, 
+la masse constante de quark Top pointe vers euh le point où cette ellipse se déplace 
+un peu plus vers la région de stabilité absolue, mais il est vraiment euh à 
+proximité de la frontière entre stabilité absolue et métastabilité. 
+Je vous remercie. 
+D'accord. 
+Atlas, CMS et LHCb. 
+OK, j'espère que vous pouvez voir mes diapositives correctement. 
+Oui, parfaitement. Merci. 
+donc merci à tout le monde de rester par ici... euh 
+c'est évidemment un vendredi soir 
+donc, je peux vous parler un peu de quelques progrès dans la violation de CP dans le système de B hadron. 
+donc, évidemment, je n'ai pas vraiment besoin de trop planter le décor avec toutes les présentations précédentes. 
+mais comme nous le savons, l'univers est dominé par la matière et non par l'antimatière. 
+c'est un peu un puzzle de savoir pourquoi c'est comme ça et comment l'expliquer... comment expliquer tout cela. 
+bien sûr, un ingrédient est alors la violation de CP euh, où vous permettez aux particules et aux antiparticules de différer. 
+et dans le modèle standard uh, en particulier, dans le secteur quark, ceci est encodé uh dans la matrice CKM. 
+donc, nous savons qu'il y a violation de CP, nous l'avons vu dans un certain nombre, un certain nombre d'endroits maintenant. euh et la question est maintenant où est tout le reste ? 
+je veux dire, si vous regardez le montant de la violation de CP, vous devez créer toute la matière sur le graphique sur la gauche là-bas, ce que nous avons dans le modèle standard, il vous reste quelque chose comme quelque chose comme un, une galaxie. 
+euh donc nous savons qu'il doit y avoir de nouveaux types de violation de CP quelque part à n'importe quelle échelle d'énergie. 
+euh. donc euh les effets de nouvelles particules ou de nouvelles interactions, ou une combinaison des deux est ce que nous recherchons, cette nouvelle physique. 
+donc évidemment, je ne peux pas couvrir tout ce qui se passe depuis le début des études sur la violation de CP. Donc, je vais essayer de couvrir ce qui est, 
+ce qui s'est passé dans la dernière année, et pour plus d'informations sur beaucoup des choses dont je vais parler, vous pouvez voir ces excellentes présentations de la session parallèle plus tôt aujourd'hui, sur la saveur. 
+donc, en commençant par le triangle d'unitarité, vous avez déjà vu ce graphique quelques fois. 
+euh donc c'est le fameux triangle d'unitarité, il vient essentiellement de la multiplication de deux lignes, ou colonnes de la matrice CKM ensemble et de savoir s'ils doivent égaler un ou zéro 
+et des études de ce système afin que le graphique de gauche, par exemple, vous donne un test très précis du modèle standard. 
+vous pouvez voir si le triangle se ferme, vous pouvez comparer des mesures directes et indirectes, et quand ces choses si ces choses ne sont pas d'accord c'est, c'est votre signe d'une nouvelle physique. 
+il convient donc de mentionner que la superficie totale du triangle indiqué sur le graphique est en fait proportionnelle à la quantité de CPV dans le secteur du quark. 
+donc, le statut actuel, comme vous l'avez déjà entendu, c'est que tout est assez bien du modèle standard. 
+euh alors vous pouvez penser, d'accord, que devons-nous améliorer et 
+les deux, les deux fruits suspendus les plus bas en ce moment sont les incertitudes sur gamma et alpha, donc vous pouvez voir ce sont les bandes les plus larges sur le graphique. 
+um nous avons déjà eu d'excellents progrès de LHCb en particulier au cours de la dernière décennie, et nous pouvons nous attendre beaucoup de Belle Two et LHCb en particulier à l'avenir. 
+euh, malheureusement, je n'ai rien à dire sur l'alpha aujourd'hui et donc cela reste sur la liste des choses à faire sur le long terme. 
+donc, l'état actuel de l'angle gamma est que la moyenne mondiale est dominée par la combinaison gamma de LHCb. 
+ainsi, la combinaison gamma actuelle de H FLAV est montrée sur la figure ici. 
+et vous pouvez voir en noir la moyenne mondiale et cela montre également en couleur certains, certaines contributions de canaux individuels. 
+et vous pouvez voir que les incertitudes sont actuellement d'environ cinq degrés, et comme je l'ai dit, complètement dominé par LHCb. 
+et euh en effet, le progrès de LHCb est montré dans l'autre graphique ici, 
+nous pouvons voir que les incertitudes se sont considérablement réduites depuis 2013 et qu'elles continueront de le faire. 
+cependant, il y a eu quelques nouvelles mesures qui ne sont pas encore incluses dans ces combinaisons. 
+il s'agit donc d'une analyse LHCb utilisant des désintégrations B zéro vers DK étoile zéro. 
+et cela fournira une amélioration décente dans les incertitudes par rapport au mode B zéro tout seul, 
+et ainsi cette analyse considère un vaste tableau d'état défini. ainsi votre méson D se désintègre en un uh K plus pi moins. ainsi ici vous avez deux combinaisons chargées, une favorisée sur un Cabibbo doublement supprimé. 
+ensuite, vous avez le k k pi pi, K, trois pi et aussi quatre pions. 
+cette analyse a été faite avec les données LHCb jusqu'à la fin de 2016. il s'agit donc d'environ cinq femtobarns inverses. 
+et effectivement, ce genre de mesure se résume à une expérience de comptage, vous comptez combien de B et de B barre vous avez, puis vous faites 
+vous formez des asymétries uh sensibles à la C P et des rapports uh de rendements, que vous pourriez ensuite interpréter en termes de gamma dans une deuxième étape. 
+donc juste quelques exemples. c'est le mode D vers k k comme montré en bas pour les B et B barre, comme montré, et 
+je dois juste souligner que malheureusement, ce beau grand pic du BS n'est pas réellement celui que nous mesurons. 
+il s'agit de la désintégration BS, nous regardons en fait le plus petit pic B zéro. 
+malheureusement, les SDK sont presque complètement insensibles au gamma simplement en raison du rapport des amplitudes. 
+et Okay, vous pouvez voir par ici que les choses sont assez cohérentes entre les deux, vous pouvez voir que le B zéro est légèrement plus élevé. 
+c'est donc là un indice direct d'une violation de CP. 
+et juste un autre pour juste basculer uh des graphiques très similaires pour le mode quatre pions. 
+mais la puissance des analyses comme celle-ci vient vraiment de leur combinaison. donc, vous mesurez les observables montrés ici, 
+pour tous les canaux différents, ne vous concentrez pas trop sur tous les nombres uh à ce moment de la journée, 
+mais vous pouvez voir que euh ils sont tous fondamentalement cohérents avec zéro au niveaux deux sigmas. 
+mais quand vous combinez ces choses ensemble, vous voyez en fait que nous obtenons une certaine sensibilité au Gamma. donc vous pouvez voir 
+euh, il a la dégénérescence quadruple standard, c'est ce que l'on attend de ces mesures juste à partir des euh sinus et cosinus dans les équations par exemple, 
+euh mais le uh dominant le meilleur minimum que le dominant minimum est en effet compatible avec la moyenne mondiale de gamma. 
+donc, une autre analyse qui est également sortie encore plus récemment est ce que l'on appelle l'analyse GLS. 
+ces acronymes sont juste le nom des théoriciens qui ont inventé cette approche, mais fondamentalement ce qu'ils veulent dire c'est, à quelle désintégration D vous vous intéressez. 
+donc, dans ce cas, nous sommes maintenant de retour au B plus, qui est qui est le mode d'or. et cette analyse se concentre sur la désintégration K court K pi du D. 
+et ceci inclut l'échantillon complet de données LHCb, qui est d'environ 9 femtoBarns inverse. 
+et ici vous pouvez considérer votre analyse dans deux régions du graphique de Dalitz, l'espace de phase, de cette désintégration de D, donc la région K étoile et la région non K étoile. 
+donc, juste pour un exemple, les courbes de masse de la région de K étoile sont montrées au bas de la diapositive ici pour les B et les B barre... le B plus et B moins. 
+et la sensibilité au gamma dans ce mode est un peu moins qu'avant donc nous ne l'interprétons pas vraiment isolément. donc, 
+les observables que vous voyez sur le côté de la diapositive ici, vont juste aller directement dans la prochaine combinaison gamma de LHCb où ils aideront à contraindre à contraindre un peu plus les choses 
+donc, en changeant un peu de direction vers un autre des angles de, 
+du triangle d'unitarité donc beta. donc maintenant nous parlons dans le domaine de la violation CP dépendante du temps. 
+et c'est une analyse LHCb de B à D étoile D, encore une fois, en utilisant tout les 9 femtobarnes inverse. et considérant les désintégrations comme indiqué, donc du D étoile au D pi plus, 
+et puis deux choix de la désintégration D pour la désintégration D zéro et le standard favorisé de désintégration à trois corps du méson D moins. 
+et ce que vous voulez faire en fin de compte ici est de mesurer les observables de violation CP à partir des taux de désintégration dépendant du temps. ce n'est que l'un des quatre équations de taux de désintégration possibles. donc il ya quatre d'entre elles, Je n'en montre qu'une. 
+et elles diffèrent fondamentalement par des changement de signe comme vous vous y attendriez pour CP. 
+et pour arriver à ce stade, vous devez d'abord effectuer un ajustement de masse. ainsi, des exemples de ceux-ci pour les données de la période d'exploitation 2 sont montrés 
+sur la diapositive et vous pouvez voir les deux corps ont un très bon ajustement et un arrière-plan très bas. et dans les quatre corps, dans le mode D à K trois pi l'arrière-plan est plus grand. 
+et c'est juste parce que vous avez, vous avez juste besoin d'ajouter plus de trajectoires ensembles, de sorte que vous pouvez faire plus de combinaisons aléatoires dans le soi-disant arrière-plan Commodore. 
+mais néanmoins vous voyez un pic de signal très aigu et alors tout est bien sous contrôle. 
+et quand vous prenez le signal de seulement une partie de ces distributions, vous pouvez effectuer votre ajustement à la durée de vie comme indiqué dans le graphique de droite. 
+et donc les coefficients qui nous intéressent de ces équations de taux de désintégration sont les termes qui prémultiplient ces termes cosinus et sinus, 
+qui résultent du mélange. et il y a aussi ce terme AFF sur le front, qui est une sorte d'asymétrie globale entre les deux, deux états finaux. 
+donc, c'est votre genre de violation directe de CP, par opposition à ce qui vient du mélange. 
+et il s'avère vraiment, ce que vous voulez faire est de faire une combinaison de ces coefficients de la diapositive précédente. 
+et donc les observables qui nous intéressent vraiment sont ces S delta S, C delta C et le B comme je viens de le mentionner 
+et LHCb mesure ceux-ci pour être montré qui exclut la conservation de CP à 10 sigma. donc des observations différentes de la violation de CP. 
+et ce sont les mesures les plus précises maintenant dans ce canal dépassant les efforts des usines à B, 
+et juste le graphique sur la droite, je ne me lasse jamais de regarder ces beux graphiques qui vous montrent vraiment dans une image l'oscillation de la du B et du B barre 
+euh pour les deux états finaux différents euh disponibles. 
+bon, alors maintenant, on reste avec la violation B dépendante du temps mais on passe des B zéro aux B s, 
+donc, cette fois, nous parlons maintenant de phi s ou de moins deux bêta s comme il sont approximativement liés 
+et uh CP, euh désolé, et dans le dans l'unitarité de CKM vous pouvez obtenir la prédiction pour moins deux bêta s phi s et vous voyez que 
+vous obtenez un très petit numéro. donc, nous sommes à la recherche de quelque chose près de zéro. et il est également contraint très, très précisément. 
+et il est également intéressant de noter que c'est un endroit intéressant pour, pour étudier parce que 
+il y a encore de la place pour des différences de jusqu'à 10 % des effets de la nouvelle physique. 
+et puis de l'autre côté de la diapositive, vous pouvez voir les mesures directes euh. 
+donc, c'est le statut pendant après la période d'exploitation un du LHC. donc vous pouvez voir CMS, Atlas 
+et LHCb ici avec CDF et Dzéro du Tevatron. 
+et l'incertitude que vous pouvez voir est plus d'un ordre de grandeur plus grand que les chiffres que nous voulons comparer à partir de l'unitarité de CKM. c'est donc, c'est donc le défi. 
+heureusement, nous avons déjà la période d'exploitation deux du LHC donc euh les partisans de ces analyses ont été occupés donc c'est 
+la première mise à jour a été LHCb à partir du printemps de l'année dernière. 
+Donc c'est une mise à jour de la période d'exploitation deux avec 2015 et 2016. donc ici maintenant vous êtes intéressé de nouveau par 
+le mode doré, B S à JPSI K K ou B S à JPSI phi car vous êtes principalement intéressé par la résonance phi étroite. 
+ainsi LHCb choisit réellement d'exploiter l'espace de phase autour du meson de phi dans le faisceau montré plus bas sur la diapositive. 
+euh, nous avons plus de cent mille candidats et vous pouvez voir à quel point la distribution de masse est pure également dans le graphique au milieu ici 
+et c'est une analyse dépendante du temps. donc, nous devons savoir si nous commençons avec un B zéro s ou B zéro s bar et c'est uh réalisé grâce à l'étiquetage de saveur. 
+et effectivement ceci se résume à ce que LHCb a maintenant atteint une efficacité d'étiquetage de saveur d'environ cinq pour cent. donc fondamentalement, vous devez multiplier vos 
+cent vingt mille par un facteur de cinq pour cent et c'est votre puissance statistique pour mesurer la violation de CP. 
+nous effectuons donc une analyse angulaire complète qui inclut environ six dimensions, la masse B, le temps de désintégration, l'erreur de temps de désintégration et trois angles de désintégration. 
+et si les angles de désintégration sont juste définis comme les angles entre les choses comme les plaines de désintégration du J psi et du phi. 
+et nous ajustons les échantillons de données simultanément. 
+et les résultats qui tombent pour la période d'exploitation deux seulement sont comme indiqué, 
+donc une incertitude statistique de  point quatre un. donc déjà assez proche de la moyenne LHC de la période d'exploitation un. 
+euh et puis bien sûr, il est également combiné avec le résultat de la période d'exploitation deux comme indiqué sur la diapositive ici. 
+et puis ensuite combiné avec les autres mesures LHCb , um, où vous pouvez voir que c'est le plus précis en rose, 
+mais il ya aussi une sensibilité décente de certains des autres modes que JPSI pi pi et aussi JPSI k k où vous regardez la région de masse supérieure au lieu de phi. 
+LHCb n'est pas le seul joueur dans ce jeu. et il y a aussi une récente mise à jour d'Atlas uh à nouveau avec une partie des données de la période d'exploitation deux. donc 
+tout jusqu'à la fin de 2017 et de ce que vous attendez des GPDs donc Atlas a un rendement de signal énorme qui monte à un demi-million de désintégrations, 
+bien que vous pouvez voir qu'ils paient un prix au niveau de la pureté, la pureté est beaucoup plus faible, mais vous pouvez voir dans ce graphique que euh tout semble être à peu près sous contrôle là-bas. 
+donc, l'étiquetage de saveur ici encore est plus difficile, bien qu'ils augmentent vers deux pour cent. donc, encore une fois, nous voyons quelques performances prometteuses 
+et l'ajustement fonctionne généralement assez similairement à celui de LHCb sans certains des bacs 
+et aussi un couple des autres paramètres sont fixes et ensuite variés comme la systématique, 
+mais néanmoins, nous voyons euh une bonne compatibilité avec une mesure de phi s en effet leur incertitude de la période d'exploitation deux est la même que celle de LHCb, 
+bien que vous pouvez voir le systématique est un couple de facteurs plus élevé uh 
+mais néanmoins, des résultats très, très impressionnants. 
+Uh il est intéressant de mentionner qu'il y a une petite tension dans la valeur du gamma s qui reflète fondamentalement une tension dans les durée de vie. 
+mais c'est encore à être euh 
+nous verrons comment cela se passe avec plus de données bien sûr. 
+et Atlas aimerait bien sûr aussi combiner cela avec la mesure de la période d'exploitation un. 
+et vous pouvez voir sur la diapositive ici quelle mise à jour impressionnante ce résultat de la période d'exploitation deux a été de passer du bleu au vert, puis de les combiner dans le rouge. 
+vous y voyez donc des incertitudes très concurrentielles. 
+donc, le statut quelque part au cours de l'année dernière était euh pour réduire l'incertitude du point zéro trois un aux nouveaux résultats de LHCb et d'Atlas, 
+euh déjà de réduire cette incertitude par un facteur d'un tiers. donc, c'était c'était facile. 
+et puis un nouveau résultat à ajouter qui n'a pas été ajouté à ces beaux graphiques est encore la mise à jour de printemps de 2020 pour CMS. 
+et encore, c'est une grande partie de leurs données de la période d'exploitation deux, donc jusqu'à 2017 2018 donc 
+quelque chose comme près de cent femtobarn inverse et vous pouvez voir dans le graphique à nouveau, 
+la pureté est très bonne semblable à la mesure LHCb. 
+bien que je devrais mentionner ici il n'y a que quelque chose comme cinquante mille cinquante mille désintégrations. 
+um la stratégie prise par CMS était d'optimiser uh l'étiquetage de saveur uh, l'efficacité de l'étiquetage de saveur plutôt que le rendement de signal pur. 
+mais quand tout est secoué, vous pouvez voir que l'incertitude sur phi s est à nouveau très compétitive par rapport aux mesures LHCb et Atlas. 
+... dans la sélection qu'ils ont, leur étiquetage de saveur est de jusqu'à dix pourcent. 
+et euh ces résultats sont en bon accord avec les mesures précédentes et les autres. 
+et encore une fois, on peut combiner cela avec les résultats de la période d'exploitation un et ils obtiennent les résultats très compétitifs comme indiqué sur la diapositive. 
+d'accord, donc c'était les phi s et les triangles d'unitarité et maintenant nous pouvons passer à un peu de discussion sur la violation de CP dans les baryons B. 
+donc, la violation de CP dans les Baryon est attendue, quand vous regardez les diagrammes il n'y a pas de vraies différences pour les mésons dans la plupart des endroits. 
+alors évidemment, on cherchait ça. 
+et LHCb a fait quelques études au cours des dernières années à ce sujet. donc, par exemple, ils ont regardé dans les désintégration à deux corps sans charme. donc, 
+tel que P K, p pi, donc P K est celui montré sur en haut de la diapositive ici. 
+et vous pouvez voir à l'oeil que les graphiques des particules et d'anti-particules sont très similaires. donc, en effet, c'était un indice que nous n'avons pas vu de violation de CP ici. 
+nous considérons également les désintègration en quatre corps où vous avez une riche, riche structure d'amplitude. donc, vous pourriez penser qu'il ya un peu plus d'espace pour que la violation de CP apparaisse ici 
+et en regardant le mode Lambda bêta à p trois pi, la preuve a été vue il ya quelques années pour la violation de CP. 
+et bien évidemment, il est juste au-dessus du seuil, donc une mise à jour était nécessaire là-bas. 
+et cela est arrivé l'année dernière, ou au tournant de cette année, en fait, pendant le congé de Noël, essentiellement. 
+donc, c'est maintenant LHCb y la période d'exploitation deux jusqu'à la fin de 2017. 
+ainsi environ un facteur quatre dans le rendement de signal. et évidemment cela vous donne environ un facteur deux dans la sensibilité. 
+euh avec maintenant un rendement de signal augmentant vers les trente mille événements. 
+il y a donc quelques techniques utilisées ici pour essayer de mesurer la violation de PC. 
+le premier est ce que l'on appelle les asymétries de produit triple, où efficacement ce que vous essayez de faire est d'arriver à ces produits scalaires triples, 
+ils sont définis comme indiqué, qui est essentiellement juste des moyens de combiner le momenta des particules de l'état final dans vos désintégrations 
+une fois pour la désintégration des particules uh et une fois pour les désintégrations des anti particules. 
+et alors vous pouvez arrêter quelques asymétries ici basées sur les signes de ces choses et uh vous prenez uh la différence et la somme 
+et le faites à nouveau, indépendamment pour les désintégrations des particules et des anti-particules. et puis l'étape finale est de combiner ceux-ci en termes d'asymétrie. 
+donc un uh sur la gauche ici comme montré pour l'asymétrie violant le CP et un autre paramétrage alternatif qui vous donne l'asymétrie violant la parité. 
+et euh si, quand vous tournez la poignée et regardez ce que vous obtenez, nous constatons que des résultats d'asymétrie de produit triple 
+la violation de CP est, enfin le CP est conservé plutôt à uh plus de uh deux point neuf sigma, 
+bien que la violation de parité est observée uh à cinq point cinq sigma, et cela est montré picturalement dans ces graphiques. Ne vous inquiétez pas trop des schémas de binning ici. 
+il suffit de comparer si oui ou non les points rouges pour le CP ou les points bleus pour la parité si elles sont compatibles zéro ou non. 
+et vous pouvez voir qu'en moyenne, les points bleus sont éloignés de cette ligne, c'est pourquoi nous voyons cette violation de parité. 
+mais malheureusement, en moyenne, le CP uh semble être cohérent avec zéro. 
+et euh on peut vérifier ces résultats en utilisant la méthode d'essai d'énergie. 
+euh donc je n'ai pas vraiment le temps de parler beaucoup de la méthode de test d'énergie. 
+mais effectivement ce que vous faites est d'utiliser un, c'est une comparaison statistique de deux ensembles de données. donc efficacement les désintégrations de particules et d'anti-particules 
+en utilisant la statistique de test montrée au bas de la diapositive. 
+euh, mais les résultats ici sont tout à fait compatible avec les produits triple. donc, malheureusement, nous ne confirmons pas l'indice de, la preuve de violation de CP dans ces modes. 
+donc, le dernier sujet que je voudrais juste mentionner brièvement est la violation de CP dans les désintégrations à trois corps de B sans charme 
+donc il y avait quelques résultats très excitants en 2014, 
+où une énorme violation de CP localisée est vue. Donc c'est le graphique Dalitz de désintégration B à trois pi. 
+où le graphique de Dalitz est juste une représentation de l'espace de phase de désintégration. 
+et vous pouvez voir l'axe z ici, les couleurs, uh représentent l'asymétrie brute entre la désintégration des particules et des anti particules, 
+et vous pouvez voir quelques chiffres vraiment fou ici, vous obtenez vers cent pour cent d'asymétrie CP dans les régions de l'espace de phase, 
+ce qui était une surprise à l'époque, a donc suscité un certain intérêt si cela pouvait être causé par la dispersion ou diverses autres idées. 
+mais vraiment, euh du côté des expériences, vous devez effectuer une analyse d'amplitude pour déterminer ce qui se passe. 
+et cela est arrivé l'année dernière uh avec environ vingt mille candidats. 
+et donc le but du but est de paramétrer, les amplitudes dans cette base de phase contribuant à cette désintégration. 
+et ceci est fait avec l'amp-. ceci est fait avec le modèle isobare, où le modèle isobare est vraiment juste une somme cohérente des amplitudes contributives. 
+la partie notoirement délicate de cette analyse consiste donc à modéliser l'onde S. Il s'agit donc de la composante spin zéro de l'amplitude pi plus pi moins 
+donc, cela se fait de trois façons différentes, vous avez le modèle isobare, avec un terme de redifusion supplémentaire. donc, il s'agit d'une nouvelle fonctionnalité pour cette analyse et d'une inclusion agréable. 
+il y a aussi la matrice k, qui est assez trsitement célèbre en soi maintenant, et a cinq couplages de rediffusion à divers états intermédiaires différents. 
+et une bonne chose qui est revenue à la mode au cours des dernières années est cette analyse quasi-indépendante des modèles. 
+donc, ici, vous dites juste, quelle est l'ampleur et la phase uh de la de la composante zéro spin en fonction de mon espace de phase. 
+et ainsi vous pouvez voir les graphiques pour la magnitude de cette amplitude pour chacun des trois cas vers le bas 
+et vous pouvez voir qu'il ya violation de CP dans chaque cas, le bleu et le rouge sont, B et B bar 
+et vous pouvez voir que uh le CP est violé dans tous 
+et vous pouvez voir que quantitativement il y a accord décent entre les magnitudes 
+plus difficile est d'obtenir un mouvement de phase correct. et vous pouvez voir que euh le mouvement de phase est légèrement différent dans le modèle isobare, que vous vous attendriez 
+euh ce n'est pas le modèle le plus compliqué pour ce qui est d'obtenir le mouvement de phase correct. 
+euh, mais néanmoins, euh, vous savez, les caractéristiques sont identifiables dans tous ces cas. et les différences sont prises comme un systématique. 
+il y a donc trop de résultats à observer. et en fait, ils ont publié deux articles en même temps. donc cela vous donne une idée de ce qui y était inclus. 
+mais juste pour se concentrer sur certains des résultats évidents de violation de CP, 
+il y a ces asymétries de CP à quasi-deux corps, donc c'est juste dire combien de violation de CP nous voyons dans certaines des régions de l'espace de phase. 
+et il y a quelques grands nombres ici, donc plus de quarante pour cent dans la région F deux douze soixante-dix . 
+et il y a aussi quelques beaux effets dans la région rho. si vous regardez le nombre intégré pour le rho en regardant la symétrie là-bas, vous ne voyez essentiellement rien 
+mais si l'on considère l'asymétrie de CP en fonction de la moitié inférieure du pic et de la moitié supérieure du pic, on divise le rho en deux bacs. 
+vous pouvez voir que vous voyez d'énormes asymétries de CP, elles se trouvent juste presque complètement annulées que vous considérez les résonances comme un seul élément 
+et c'est euh juste une belle façon de montrer que vous pouvez vous passer de ces choses si vous intégrez juste les choses 
+et cela vient probablement de l'interférence entre l'onde S et le rho. 
+et euh alors juste pour parler de la région F deux qui est celle montrée sur le côté de la diapositive maintenant, de sorte que, au dessus est la projection de masse, 
+vous pouvez voir qu'il y a quelques petites divergences, mais celles-ci sont couvertes par les incertitudes systématiques. 
+et le graphique à regarder vraiment est à nouveau l'asymétrie de CP qui est montré en bas ici. 
+et vous pouvez voir une violation très importante de CP ici. 
+juste avant que je termine, il est intéressant de mentionner que euh ces modes de désintégration ces modes de désintégration à trois corps sans charme peuvent, en combinaison être utilisés pour mesurer uh des choses sur la matrice CKM, donc le gamma par exemple, 
+mais il s'agit vraiment d'une étude autonome de la violation de CP dans cette désintégration unique à l'heure actuelle. 
+donc, le résumé est que beaucoup de travail a effectué en violation de CP. 
+et je veux juste faire le point je pense, dans vous savez, indépendamment du résultat de 
+ces anomalies de saveur très intéressantes qui sont sur la violation de CP sont et seront toujours un excellent test de précision du modèle standard. 
+et nous allons atteindre des sensibilités vraiment intéressantes dans les années à venir. 
+nous attendons avec impatience les données de la période d'exploitation deux de LHCb et aussi du LHC. 
+et aussi les mises à jour de Belle deux et de LHCb entreront dans le jeu. 
+et il ya bien sûr, beaucoup d'autres sujets de violation de CP dont je n'ai pas eu le temps de parler. 
+euh mais juste pour indiquer rapidement une dernière chose avant que j'arrête de parler. 
+euh pour avancer ce ne sont que quelques projections de LHCb mais aussi y incluant Belle deux et Atlas et CMS également. 
+donc, vous pouvez voir que la combinaison de gamma où nous serons à la fin de la mise à jour un atteindront environ un degré et demi, ce sera déjà passionnante précision, 
+Belle deux se joindra à nous au même genre d'endroit. et puis nous arriverons à quelque chose d'assez ridicule à la fin de la mise à jour deux. 
+donc, je dois dire que ces prédictions comprennent également le systématique et donc ils devraient être les chiffres ultimes que nous atteindrons. 
+et encore une fois, phi s devient aussi très, très intéressant dans ces dates plus tardives, merci beaucoup. 
+Merci beaucoup, Mark. nous avons le temps pour de petites questions. 
+il y en a une parmi les participants. 
+salut, pouvez-vous m'entendre ? Oui. OK, donc euh 
+c'est Martin qui parle. j'ai un commentaire sur la mesure de violation de CP en utilisant la lambda BDK 
+si vous montrez à la page vingt trois 
+OK, donc, donc euh essentiellement dans le papier précédent, la publication dans Nature, euh ils ont publié la preuve de violation de CP 
+pour livrer tous quelque chose de plus de trois sigma, et il n'y avait aucune preuve de violation de P 
+euh maintenant, bien sûr, le même sondage euh, augmenter la statistique d'un facteur de quatre à ce sujet est une corrélation partielle bien sûr non, 
+et maintenant, ils ont quelque chose de moins de trois sigma pour CPV ce qui je pense n'est pas un problème car il peut être juste pour une population, 
+mais cinq et cinq sigma pour la violation de P. Donc je pense que cela pourrait être utile pour quantifier la compatibilité entre les deux résultats d'exécuter l'ancienne analyse sur le nouvel ensemble de données, ou vice versa. 
+oui, d'accord. oui. Merci pour le commentaire. je euh oui, je ne sais pas plus moi-même que ce que vous avez dit. 
+je pense que Julian a mentionné dans sa présentation plus tôt que euh, ils avaient fait quelques tests, mais euh peut-être certains de ces chiffres pourraient être mis à disposition. 
+nous avons discuté ce matin ou essentiellement ils effectuent un certain contrôle sur cette compatibilité entre les deux mesures de violation de CP et ils ont constaté que l'accord est à la table deux point six sigma donc, Je pense que c'est correct trois ou quelque chose 
+contre deux et huit ou deux et neuf bien sûr, c'est peut-être juste dû à la rotation 
+euh je pense que je ne sais pas vraiment quel a été le résultat pour la violation P dans le uh naturel mais maintenant cinq et cinq sigma est assez élevé. 
+donc, bien sûr, ils ont plus de statistiques ça peut être juste dû, à, à ces nouvelles sensibilités et ainsi de suite peut-être juste à vérifier, 
+Oui, d'accord. et d'accord. je suppose que le je suppose que peut-être l'analyse sera faite avec les données de 2018 et celles à venir également et, et au-delà de cela, donc oui, ça vaut la peine de le garder à l'esprit cependant. Merci 
+y a-t-il d'autres questions ? 
+euh une question: sur votre toute dernière diapositive que vous avez montrée, j'ai été un peu surpris. 
+euh je veux dire, CMS a un pouvoir de prise efficace jusqu'à dix pour cent pourquoi ne peuvent-ils pas être bien meilleurs si je peux demander 
+qu'est-ce qui limite ? 
+donc, oui, je ne suis pas sûr à cent pour cent si quelqu'un de CMS est connecté et veut 
+veut parler un peu plus des projections qu'ils travaillent à mettre en place. 
+euh oui, 
+je sais que CMS va également effectuer leur analyse en utilisant la partie de l'ensemble de données qu'ils n'ont pas encore utilisé, qui est la puissance d'étiquetage élevée de statistiques faibles. 
+mais évidemment, cela devrait être en quelque sorte complémentaire euh. 
+ouais, je suis je suis ouais je ne suis pas trop sûr de cette limitation d'environ vingt-deux millirads 
+ou non. 
+OK, je peux commenter euh, si vous euh, si vous voulez, euh s'il vous plaît, 
+uh essentiellement dix pour cent de la puissance d'étiquetage que vous avez vu dans la présentation uh d'aujourd'hui uh est obtenu en sélectionnant un sous-échantillon des statistiques complètes 
+avec un muon supplémentaire. donc, nous euh c'est un muon amélioré d'une certaine façon. 
+nous avons donc uh les deux muons pour le J psi et un muon supplémentaire uh pour l'étiquetage. 
+et nous sélectionnons ces sous-échantillons au niveau du déclencheur, donc c'est une belle puissance d'étiquetage uh, mais les statistiques sont faibles 
+donc,connaissez-vous le nombre, un nombre approximatif de combien inférieur la statistique peut... cinq fois plus faible uh, OK, OK, alors et puis nous allons uh exploiter l'ensemble de données avec les statistiques complètes 
+aussi. donc, si vous prenez ça en compte, ces dix pour cent magiques descendent à deux pour cent 
+Oui, exactement. d'accord, merci. 
+je comprends donc mieux les chiffres. 
+je ne vois plus de question et il est déjà tard dans l'après-midi. 
+nous allons euh merci Mark pour le clap virtuel. OK. Merci. Merci beaucoup et passer à la dernière présentation 
+Okay, et j'espère que vous pouvez 
+aussi voir mon écran maintenant 
+est-ce que je projette bien ? 
+Oui, vous projetez correctement. Excellent. Okay, merci beaucoup. je commence alors. donc euh, 
+le dernier discours de la session est sur les mesures VBF et VBS. et j'ai peur que je vais 
+devoir  commencer par la mise en garde qu'en fait il n'y a pas une telle chose et la 
+raison de cela deviendra claire sur la diapositive suivante. donc, si je vais tout droit à la diapositive deux, 
+donc V B VBF et VBS - fusion de boson vectoriel et diffusion de boson vectoriel - vraiment 
+est le genre de diagrammes que j'ai illustré ici sur la colonne de la main gauche 
+um la dispersion en haut et le boson vecteur fusion um en bas, 
+um mais ceux-ci ne peuvent pas être mesurés par lui-même. Donc il y a  un ensemble invariant de jauge d'électrofaible 
+V ou V V JJ diagrammes au niveau de l'arbre, qui comprend les diagrammes sur la droite et 
+ils sont plus comme faible boson bremsstrahlung. um et ces deux types de diagrammes um au niveau de l'arbre 
+ils interagissent fortement les uns avec les autres et ils interagissent négativement 
+les uns avec les autres.  Donc, la seule chose que nous pouvons réellement mesurer est production electrofaible VJJ ou VVJJ. 
+Donc, quand nous disons mesures VBF ou VBS, c'est vraiment ce que nous entendons, 
+cet ensemble complet. Et alors c'est assez intéressant. Donc, le fond dominant 
+ici est typiquement le QCD V plus production de deux jets ou uh diboson plus deux jets 
+um où vous avez deux émissions supplémentaires de parton um de l' interaction forte. 
+Donc, c'est dans le cas de la VJJ, c'est le fond  dominant, c'est essentiellement 
+comme Drell-Yan avec deux émissions supplémentaires um parton si vous pensez. um donc dans ce sens aussi 
+le composant electrofaible fait en fait partie de la correction electrofaible de NLO, qui 
+rend également toute cette chose très intéressante d'une perspective phénoménologique 
+um pour être capable de mesurer avec précision et vraiment tester les um 
+calculs de précision élévés um et tester les Monte Carlos vraiment correctement. il ya aussi entre les deux une contribution de QCD électrofaible. C'est terme d'interférence. et jusqu'à présent, la plupart 
+des mesures n'ont pas vraiment été sensibles à cela. Mais cela va devenir une 
+composante importante. et il est en quelque sorte estimé être à dix à cinquante pourcent dans l'espace de  un à quatre TeV. 
+Donc, je vais revenir à cela plus tard. OK, alors pourquoi est-ce intéressant ? donc la la, 
+la chose que j'ai déjà mentionnée est que ces interférent fortement et 
+négativement, mais aussi, cette interférence est vraiment délicate. um donc si vous regardez la 
+section transversale intégrée, en fonction du centre d'énergie de masse, et ceci est 
+illustré ici et ce diagramme que j'ai tiré du papier de Michal, euh c'est pour 
+eh production du  même signe WW  et en particulier en regardant la longitude eh la  um  composante longitudinale 
+et ce que vous voyez est que eh si vous manipuliez  les paires, c'est 
+super sensible à cela. donc, c'est le modèle standard est, en noir ici, va 
+vers le bas. il ya un delit, annulation délicate entre tous les termes, mais si 
+vous deviez, par exemple, supprimer la la composante de Higgs um contribuant à ce processus 
+puis le tout, est-ce au sommet, puis s'étend complètement et diverge comme une 
+fonction du centre de l'énergie de masse. donc, la seule raison vraiment que l'unitarité est 
+restaurée par ceci est par le biais de cette annulation délicate eh des divers termes 
+contribuants,  contribuant à ce processus. et ce n'est pas seulement vrai pour 
+variations dans le couplage du Higgs où cela est très sensible, mais c'est aussi 
+vous voyez une sensibilité similaire lorsque vous commencez à jouer avec les  triples ou quadruples couplages de  jauge 
+um comme indiqué dans les deux graphiques de fond. EH alors mesurant ceci très précisément, 
+est vraiment absolument crucial afin de tester fondamentalement le secteur électrofaible et 
+symétrie de jauge du modèle standard. 
+OK, diapositive quatre Désolé, il me semble 
+que ce n'est pas plein écran, pourriez-vous essayer de mettre plein écran ? 
+uhm laissez-moi essayer 
+est-ce plein écran maintenant ? 
+non. encore. 
+OK. sinon, ne vous inquiétez pas. je veux dire, c'est assez clair si ce n'est pas possible, Allons-y 
+continuons. Oui ? OK.  Désolé à propos de ça. 
+euh ok, alors je suis sur la diapositive quatre maintenant. et donc hein, à quoi ça ressemble ? donc, 
+typiquement, si vous pensez au genre de processus au niveau de l'arbre à nouveau, vous avez 
+vos deux quarks entrants, chacun d' entre eux en quelque sorte crée un W ou un Z et puis 
+ces deux fusionnent  ou se dispersent. et euh mais à part ça vos deux quarks 
+essentiellement juste continuent dans la direction avant de votre détecteur. et ainsi vous finissez 
+typiquement avec deux jets avant avec uh un grand interval de rapidité et ceci est illustré 
+ici eh sur le diagramme d' en haut à gauche, c'est dans le cas de ZJJ, en comparant l'électrofaible avec 
+le rouge QCD, et vous pouvez voir que pour le signal bleu, pour l'électrofaible ZJJ le 
+l'écart de rapidité entre les deux jets de marquage a tendance à être beaucoup beaucoup plus grande. Uhm parce que 
+vous avez un échange de canal T d'un singulet de couleur entre les deux quarks uhm le 
+le rayonnement supplémentaire dans l'espace entre les deux jets est également fortement supprimé. 
+et donc vous ne vous attendez à aucun jet supplémentaire dans l'écart et vous pouvez le voir dans le 
+graphique au milieu. donc, c'est le nombre de jets dans l'écart et pour le signal bleu 
+la plupart d'entre eux sont assis dans le zéro jet bin comme on s'y attendrait alors que pour le QCD comme 
+contexte, nous avons rayonnement supplémentaire dans l'écart uhm et la cinématique que vous connaissez de la topologie puis sont 
+aussi tels que parce que vous avez deux jets avant et le boson central, ou deux bosons centraux 
+vous avez typiquement une masse invariante uhm DIJET très dure et ceci est montré sur le 
+en haut à droite le MJJ, la distribution de masse invariante de DIJET, est beaucoup plus difficile dans le cas 
+du composant électrofaible puis comparé à l'arrière-plan QCD eh. EH sur le fond, 
+j'ai également tiré un affichage uhm d'un événement Z Z JJ d'un récent em papier et vous pouvez bien voir 
+ceci ici. vous voyez les deux jets avant le long de l'axe et puis les deux électrons et les 
+deux muons en eh en bleu vert 
+OK, diapositive cinq 
+EM donc le reste de la conférence est essentiellement je vais à la plus récente de ces 
+mesures, je montre ici, la section transversale de production du Modèle Standard 
+vue d'ensemble de Run two seul et vous voyez la mesure electroweak V et VVJJ ici 
+en bas. Et attention c'est un eh une diagramme tout à fait étonnant parce que cela va 
+sur essentiellement quatorze ordres de grandeur, ce qui est eh décoiffant  vraiment, si vous pensez 
+c'est essentiellement comme comparer le poids d'uhm d'un Airbus super jumbo ici en 
+haut et puis vous êtes encore en auelque sorte de vous êtes encore en mesure d'épingler des grains individuels de sel 
+des  dernières vacances avant  corona si vous vous souvenez encore de cela. Donc, c'est la 
+sorte de mesures  grains de sel que nous regardons maintenant. D'accord, eh je vais maintenant 
+commencez par la fusion boson faible. Cette-ci 'est eh la plus grande des sections transversales, bien sûr. EH donc 
+voici un résultat très frais d'Atlan d'ATLAS sur eh diapositive sept. et de eh ZJJ. 
+et donc la première chose dont je veux parler, et il y a une sorte de modèles qui 
+em sont relativement communs entre toutes les différentes mesures, uhm est la modélisation du fond. 
+donc, pour ZJJ, la variable la plus importante dans cette analyse est le 
+spectre de masse dijet invariant. et si vous regardez comment les différents générateurs modélisent le spectre MJJ, 
+ceci est illustré dans le diagramme en haut pour la région de contrôle. uhm c'est mauvais. donc ceci 
+est partout. différents générateurs sont affichés en bleu. vous pouvez le voir pour 
+Sherpa, qui est connu pour dépasser massivement en cas de MJJ élevé, mais aussi eh NLO 
+les corrections  Madgraph aussi ne font pas un travail si excellent. et c'est le le point est 
+aussi que la mauvaise modelisation  entre les différents générateurs est beaucoup plus large 
+que la taille de la composante électrofaible qui est indiquée dans le fond rouge. donc, que 
+faites-vous ? Eh bien, euh, si vous si vous faites l'analyse, typiquement ce qui est fait, vous 
+construisez des régions de contrôle et vous construisez différentes régions de contrôle et de régions de validation 
+et de sonder em la modélisation dans toutes celles-ci et cela est illustré dans le 
+dans le diagramme au milieu, en regardant la distribution MJJ dans des régions de contrôle différentes hein, 
+mais aussi dans la région du signal. et dans ce cas, il s'agit de 
+Sherpa. eh et ce que vous pouvez voir est un écart massif de prévision des données. Alors la 
+modélisation est de la merde, mais la modélisation est également de la merde dans tous les régions  de contrôle, 
+ce qui est bon, au moins ils sont cohérents. et c'est très important 
+parce qu'alors vous pouvez vraiment établir une corrélation entre les différentes régions de contrôle et 
+contraindre la modélisation et ransferer cette contrainte en utilisant les données dans la région du signal 
+afin de  contraindre à la modélisation de fond là. et si vous le faites dans 
+un ajustement, alors, celui du fond est ce que vous vous retrouvez avec, où vous vraiment 
+contraignez la modélisation et le MJJ semble très bien après. 
+d'accord. 
+eh plus de détails à ce sujet dans le discours de Heather. j'ai peur de ne pas pouvoir entrer dans trop de détails 
+ici. Eh mais juste pour dire euh que heu parce que vous jouez avec ça l'un des 
+choses cruciales que vous devez toujours garder à l'esprit est qu'en plus de juste 
+essayer d'extraire la composante électrofaible est également crucial de mesurer l'inclusive 
+production de eh V plus deux jets, afin que le QCD et l'électrofaible en une seule fois 
+EH en plus d'extraire la composante. 
+OK, diapositive huit. donc, c'est ce qui a été fait. et je vais commencer avec les 
+mesures inclusives dans ce cas. donc, ici, je présente Z inclusive plus deux jet 
+mesures de la section croisée à partir de cette analyse et ils mesurent 
+sections coisées fiducielles différentielles en fonction de la rapidité  MJJ la  Delta entre les deux 
+jets principaux, le spectre de masse du dilepton et la différence d'azimutalité signée 
+entre les deux jets. et ils mesurent cela dans le signal ainsi que dans la région de contrôle 
+afin de pouvoir plus tard  contraindre la modélisation et d'améliorer la 
+modélisation des Monte Carlos. donc, dans ces diagrammes, em les données par rapport à multi 
+partie pronostics, à la prochaine correction des deux MEPS AT NLO en utilisant Sherpa 
+mais aussi FXFX en utilisant Madgraph. et vous pouvez voir la modélisation comme une fonction de MJJ étant 
+mauvaise, plus mauvaise pour Sherpa, mais pas trop bonne pour Madgraph, dans la région de contrôle 
+ici sur la droite et dans la région du signal au milieu et le delta phi JJ 
+sur sur la gauche. OK, alors une fois que vous avez fait cela, vous pouvez soustraire le 
+fond, le fond QCD, et aussi mesurer les sections croisées différentielles pour 
+le composant électrofaible. et c'est ce qui est fait sur la diapositive suivante. sur la diapositive neuf. donc, une fois 
+l'arrière-plan est soustrait, voici la mesure de la section transversale du différentiel fiduciaire 
+comme la fonction encore de MJJ, delta y j j, le dilepton PT et la 
+différence azimutale entre les deux jets dans la région du signal pour la composante électrofaible, 
+et ici les données sont comparées à des prévisions eh, toutes dans l'approximation VBF, à NLO de Herwig 
+sept em et de Powheg eh et aussi Sherpa. donc ce que vous pouvez voir est, c'est en fait 
+connu depuis un certain temps maintenant que le Sherpa deux point deux séries a des problèmes avec la 
+description du flux de couleur dans les topologies VBF. donc, ce qui se passe est que le 
+pattern douche irradie beaucoup trop dans l'écart entre les deux jets de marquage. et 
+parce qu'il a trop de rayonnement, les événements ont tendance à échouer une sorte de jet 
+jet central comme veto eh coupe que les analyses eh typiquement appliquent. et que 
+épuise la coupe transversale comme vous pouvez le voir, c'est typiquement un facteur de deux partout. 
+d'autre part, Herwig sept fait mieux dans ces distributions. et l'analyse aussi 
+mesure la section transversale intégrées et c'est vraiment un excellent accord avec 
+la prévision de modèle standard prise de Herwig. Okay, diapositive dix. maintenant, une fois que vous avez les 
+mesures différentielles de la section transversale et prédiction du modèle standard, alors la question est : 
+que pouvez-vous faire d'autre avec cela ? et la réponse est que vous pouvez jouer avec certaines contraintes EFT avec 
+ceci. donc, ce qui est typiquement fait ici est que vous prenez lea prédiction du Modèle Standard 
+et puis vous le compléter avec des opérateurs de dimension eh six . donc, il ya quatre 
+il s'avère qui sont pertinents pour les couplages en ZJJ, deux d'entre eux sont CP 
+même deux d'entre eux sont CP impaires. et ce que l'analyse a fait ici est prendre la norme 
+EH pure Modèle standard de prédiction et complété par l'interférence du 
+modèle standard et opérateurs EFT de dimension six mais aussi la pure contribution de dimension  six 
+estimée à la fois avec eh ce paquet SMEFTsim mais aussi Madgraph au premier ordre. et 
+puis ils  fixent des limites sur eh sur ces quatre opérateurs eh à la fois avec la  dimen 
+pure dimension six terme inclu et exclu. la différence en fait typiquement pas 
+super et elle est très similaire. vous pouvez voir ceci aussi dans les diagrammes ici pour les 
+différents em eh tas mesurés eh en fonction de la région du signal que vous pouvez voir dans le 
+eh violet et puis le rouge deux différence entre avoir les opérateurs pures de  dimension six 
+ou pas est plutôt petit. ce que vous pouvez également voir est qu'il est assez  important de mesurer la 
+différence azimutale entre les deux jets comme signée donc entre moins pi et 
+plus pi parce que les termes impairs CP uhm ils ont une telle forme que si vous aviez mis une 
+valeur absolue autour de lui, cette différence aurait été complètement effacée. Alors 
+vous gagnez en sensibilité supplémentaire ici eh en définissant cela dans la forme signée. OK et 
+les limites sont présentées ici en bas. un eh une caractéristique drôle que vous pouvez voir 
+est que pour l'un d'entre eux le Modèle Standard est en fait en dehors de la confiance de l'interval de quatre vingt quinze pourcent. 
+Mais alors si vous prenez en compte l'effet de regarder ailleurs vous trouvez 
+c'est em plus ou moins attendu donc il y a six point deux pourcent de chance que cela se produise quand vous 
+contraignez ces quatre opérateurs. 
+OK, donc ceci était uhm fusion faible de bosons. je vais maintenant à faible diffusion de bosons. 
+donc beaucoup d'états finaux bien sûr, alors attachez-vous. je vais commencer avec le même signe 
+production WWJJ et production WZJJ. c'est un résultat de CMS maintenant. EM c'est une affaire de similaire em topologie, 
+encore une fois, où vous avez un grand em interval de rapidité entre les deux 
+jets, en allant à fond sur la distribution de la masse invariable du DIJET et il ya une sorte de 
+eh véto du jet central appliqué, ou eh  centralité des leptons, qui est en quelque sorte lié. il ya un 
+véto du B quark aussi afin de supprimer les distributions des eh contributions des top 
+processus. uhm le QCD et les processus électrofaible em et d même signe WW et WZ 
+respectivement sont tous calculés dans ce cas avec la correction en utilisant Madgraph Pythia. et vous 
+pouvez voir les dib les distributions ici en haut et em dans le cas de WW du même signe, et à le 
+en bas, eh pour WZ. EM à gauche en haut vous pouvez voir la distribution MJJ, également sur le 
+bas distribution MJJ. et sur la droite, vous voyez la distribution de dilepton, 
+la distribution de dilepton de masse invariable  pour le même signe WW. en bas, vous voyez un eh 
+le résultat de l'arbre de décision boosté qui a été formé afin de supprimer le 
+fond et extraire la composante électrofaible. d'accord sur la diapositive quatorze alors, c'était 
+adapté aux données dans un em panier de probabilité maximale d'ajustement et qui a été utilisé pour 
+extraire la composante electrofaible. Em et vous pouvez voir les mesures de la section croisée  intégrée 
+ici. ils sont en très bon accord avec les prédictions théoriques. 
+Et les incertitudes systématiques dominantes proviennent de l'échelle de l' 'énergie de jet, mais aussi de la théorie 
+d' incertitude particulièrement dominée par les degrés QCD. et en plus, ils mesurent l'inclusivité 
+em, même section croisée WWJJ, donc QCD et electroweak combinés, ainsi que le WZ 
+coupe transversale WZJJ inclusive. et ils comparent cela à eh aux prédictions de la correction 
+en fait, ils comparent cela aux prédictions de Madgraph avec et sans les 
+corrections NLO pour alpha S et electrofaible. vous pouvez voir l'effet à haute MJJ 
+commencer à s'installer. OK. passant  à ZZJJ. donc, cela descend pas mal 
+en section croisée maintenant. il s'agit d'un résultat ATLAS assez récent. ils ont fait eh ceci dans 
+le canal de  quatre leptons jj, mais aussi le canal des deux leptons chargés  deux neutrinos jj  et 
+et ici, le fond est simulé prés de la correction avec Sherpa 2.2 et la 
+région de contrôle similaire à la ZJJ sont ensuite utilisés pour contraindre la modélisation de 
+ce Z Z plus deux composants de jet. ils utilisent un discriminant multivarié afin de 
+em extraire l'électrofaible ZZJJ composant eh commun et dans la pratique, ce est en utilisant un 
+arbre de décisionboosté au gradient  ici et le eh l'impact de l'interférence, et c'est 
+également similaire à l'analyse ZJJ dont je parlais précédemment, l'impact de la 
+interférence est assigné comme  systématique sur le signal sig électrofaible. Eh c'est quelque chose 
+qu'ATLAS fait assez souvent en fait. Eh encore, le  plus grand impact des systématiques des 
+incertitudes théoriques sont jusqu'à trente pourcent  pour la composante QCD. et les résultats pour 
+ceci sur la diapositive 16. donc, eh l'extraction du composant ZZJJ est montré en haut 
+pour les deux canaux et si vous les combinez aussi et c'est un eh résultat cinq sigma 
+et après combinaison, donc, cela  fait la première observation de ceci  vraiment 
+processus rare et important et la distribution pour ce ci montré sur la droite dans les deux leptons chargés 
+cas de deux  neutrinos en haut et lecanal des quatre leptons eh  chargés en bas. encore 
+ils mesurent également les sections transversales inclusives, pas seulement l'extraction de la 
+composante et les sections transversales inclusives sont en très bon accord avec la prédiction du Modèle standard. 
+OK, diapositive dix-sept. c'est aussi un ZZJJ résultats de CMS. c'est complètement 
+nouveau. uhm donc, ici c'est em en utilisant un calcul qui n'utilise pas réellement l' approximation VBF 
+mais inclue les composants triboson. c'est le genre de complet 
+calcul électrofaible complet  em et l'arrière-plan de la QCD ZZ JJ est fait avec FXFX 
+de Madgraph un MC à N L O près de la correction en utilisant divers facteurs k, 
+em facteurs k différentiels pour eh corriger les prévisions pour NNLO effets QCD 
+ainsi que les corrections électrofaibles en fonction de la masse invariante eh diboson. ils utilisent une matrice 
+élément discriminant 
+Désolé Christian, vous avez encore cinq minutes 
+d'accord je devrais commencer à accélérer alors 
+ils utilisent un élément de matrice discriminant afin d'extraire le fond et les 
+résultats sont présentés sur la diapositive dixhuit. là encore, mesurés en coupe transversale 
+en plus d'extraire le signal électrofaible et tous ceux qui sont en bon accord avec 
+le Modèle Standard et vous pouvez voir les distributions ici. et l'effet typique 
+du composant électrofaible plus vers haut MJJ et grand delta eh eta entre les 
+deux jets et ce sont les plus efficaces em dans la discrimination entre  fond 
+et  signal qui va dans cet élément de matrice classificateur, vous pouvez voir le signal 
+ici. 
+OK, je commence à avancer. Z gamma, JJ de CMS. ce n'est pas non plus trop récent, 
+eh résultat assez récent désolé 
+histoire similaire ici. Madgraph utilisé pour au premier ordre pour le signal électrofaible et 
+à NLO pour le QCD. EH et les résultats montrés ici ceci est divisé à travers 
+différentes groupes  eta JJ et MJJ. et puis dans un em cadrage simultané à toutes les 
+régions de contrôle toutes les régions de signal em ils mesurent la force du signal et d'extraient  la 
+coupe transversale fiduciaire pour le gamma inclusif Z JJ mais aussi pour le gamma électrofaible Z JJ. 
+et ceci ici le composant électrique convient dans  deux significatifs avec le 
+modèle standard. sans oublier le résultat ATLAS de la fin de l'année dernière 
+ils ont fait une chose similaire ici, ils ont mesuré à nouveau aussi le composant électrofaible pour 
+Z gamma JJ et la section transversale inclusive ainsi, tous en bon accord avec le 
+modèle standard. et puis le résultat final dont je veux vraiment parler  je dois donc accélérer est aussi tout 
+nouveau de CMS W gamma JJ. Em donc, c'est em également en utilisant à nouveau une région de contrôle afin de contraindre 
+la modélisation du MJJ. ici, ils regardent la partie basse du MJJ et puis 
+similaire à Z gamma j j. Ils ont divisé cela en l'électron et le canal muon, mais 
+aussi dans la partie baril le lepton étant dans la partie baril ou dans l'extrémité du détecteur. et 
+en regardant  différents bacs M L gamma eh aussi. et dans l'ajustement simultané à toutes 
+les régions de contrôle et de signal, ils extraient la force du signal et cela revient à 
+quatre point neuf sigma observé quatre point six sigma prévu avec l'ensemble de données deux ,ille seize seulement. et si vous 
+combinez cela avec un résultat précédent de huit  TEV que vous arrivez à  la marque de cinq sigma et cela fait 
+de ceci la première observation de W gamma JJ au LHC. et encore une fois mesures de la coupe transversale fiduciale 
+pour le gamma inclusif W JJ ainsi que la composante électrofaible extraite. 
+d'accord, ceci est également utilisé pour fixer des limites sur les couplages de  quart quartique anormaux  eh 
+vous montrant la liste complète ici. malheureusement, je n'ai pas trop de temps pour aller 
+dans tous les détails ici, mais vous pouvez voir tous les détails demain dans le discourt de Mariarosaria 
+alors, ce que je vais faire, c'est de vous laisser avec ma diapositive sommaire, qui est 
+j'espère pouvoir vous transmettre  que mesures de la VJJ dans les états finaux de la VVJJ sont 
+vraiment une sonde vitale du secteur électrofaible. Em cela est très intéressant comme la 
+limite de unitarité  est réalisée ici par annulation délicate de différents termes 
+contribuants à ces processus. et il est donc important de faire cela. mais aussi 
+mesures de V inclusif plus production de deux jet et VV plus deux jet sont 
+eh vraiment un stress test de QCD perturbative eh quand vous regardez les topologies de VBF et VBS 
+et il est donc important de ne pas se concentrer uniquement sur l'extraction réelle, mais 
+aussi à regarder les mesures inclusives et crucialement em  faire les 
+données alors disponibles sur HEPDATA et de fournir une routine Rivet afin que nous puissions vraiment comprendre 
+la modélisation de fond et épingler encore mieux à l'avenir. donc, je vous encourage 
+de regarder les discours de Heather et Mariarosaria demain et vous laisse avec cela. Merci. 
+Merci pour ce discours très intéressant Christian. donc, c'est Shankar qui a 
+posé la question Et je vais lui permettre de parler. s'il vous plaît. pourriez-vous s'il vous plaît ? 
+Oui. salut, Christian. Merci pour cet excellent discours. donc, j'ai une question. 
+en fait, quelques questions. hein donc le numéro un est hein dans votre analyse VBF, alors vous 
+produisez ah des jets z plus. je veux juste vous poser quelques questions ici. donc z plus jets, 
+considérez  vous également comme z plus jet unique et z, comme ah dans un échantillon fusionné lorsque vous 
+générez tout ensemble ? alors je vais poser les autres questions ensemble ainsi 
+vous pouvez ah répondre à tout. et eh n'est pas Higgs plus jets aussi ah un fond ici ? et si 
+c'est cela, comme Higgs va à di tau est l'un des similaires, les plus grands fonds dans ce 
+sens. donc, dans ce cas, utilisez-vous ou avez-vous l'intention d'utiliser quelque chose comme une 
+variable de masse collinéaire pour différencier  entre les jets Higgs plus et les jets z plus. Alors 
+voilà mes deux questions essentielles. Merci. 
+Merci. puis-je juste clarifier, vous parlez du résultat ZJJ oui, pas la VBF 
+exactement. les résultats Z JJ exactement. 
+C'est juste. OK. laissez-moi juste revenir en arrière. donc, le Higgs n'est pas vraiment un fond, 
+parce que dans la sélection pour Z JJ, vous pouvez réellement vouloir réellement serrer 
+assez couper assez serrer sur la masse du Z. et donc le Higgs ne joue pas vraiment un rôle alors 
+plus du tout pour les études de fond, et l'autre question était sur l'exactitude de 
+la composante de base, 
+l'autre était pour la plupart la modélisation de z plus jets. donc, vous regardez aussi de votre 
+diagrammes de Feynman, je vois que vous générez z plus jets, qui est la fusion quark quark mais 
+incluez-vous également z plus jet unique ou juste la production z et comme inclure un example de fusion 
+tout en modélisant l'example ? Oui, 
+ceux-ci sont sur atlas au moins, em toujours faits avec des examples fusionnés de sorte que le Z JJ est à est 
+em presque  précis, donc c'est Z plus zéro un ou deux jets au niveau de la correction 
+et en plus de cela, même le troisième et quatrième jet au niveau de la correction fusionné. Merci 
+beaucoup 
+d'accord, alors Y a-t-il d'autres questions ? 
+si ce n'est pas le cas, puisque nous avons deux minutes, j'ai une diapositive dix-sept dans laquelle vous dites 
+que vous dites en effet que l'impact le plus important vient des échelles QCD jusqu'à 
+onze pour cent. donc, je me demande en comparaison avec la mesure ATLAS s'il n'y a pas 
+incertitude liée aux formes, parce que Atlas fait référence je pense pour la même 
+mesure quelque chose em trente pour cent d'incertitude théorique si je me souviens correctement, je 
+vous souvenez-vous 
+Eh bien, c'est une bonne question. permettez-moi de voir si j'ai la bonne découpe 
+non, je n'ai pas. je ne suis pas sûr. je devrais vous référer à l'équipe d'analyse 
+en fait, pour le résultat CMS, je ne suis pas sûr. OK. 
+bon. Hé y a-t-il des questions supplémentaires ? donc si non, merci aux orateurs pour les 
+discours très intéressants et aux personnes qui ont posé des questions. d'accord, merci. Alors la session est 
+finie, et là il y a notre 

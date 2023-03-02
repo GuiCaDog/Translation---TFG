@@ -1,0 +1,4 @@
+Computing BLEU for dev set
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 42.0 68.9/48.7/37.0/28.5 (BP = 0.968 ratio = 0.969 hyp_len = 65335 ref_len = 67441)
+Computing BLEU for test set
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0 = 42.7 69.3/49.1/37.4/29.0 (BP = 0.975 ratio = 0.975 hyp_len = 53845 ref_len = 55229)

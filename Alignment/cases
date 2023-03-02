@@ -1,0 +1,244 @@
+Resumen:
+-Parentesis (), Comillas "" <<>>, Two points en: fr :
+-french with an added '!'
+-Siglas, Numeros
+-Texto que va naturalmente junto, aparecia separado
+-(en anglaise)
+-Frases sepradas en un idioma, todo junto sin punto en otro
+-Diferencias al representar fechas
+-Missing phrase in one of the 2 lang
+-(in french only) (in anglais soulament)
+-Weird characters œ
+-En un idioma metafora, en el otro explicacion directa
+-Quotes made in different lines
+-Just dates text
+-Different separators "."->";"  "-"->";"
+
+2022
+administrative-circular
+-english annex 1, french (annexe 1)
+
+atlas-gives
+-english PDFS, french fonctions de distribution de partons
+-nummeric text, dates
+
+base-breaks
+-english no (), french ()
+
+cern-acces
+
+cern-computer 
+-source: 1 english sentence without '.', target 2 sentences separated with '.' & viceversa 
+
+computer-security 
+-en: (5!) french: cinq (!)
+-empty line
+-(en anglais)
+
+computer-security-unwanted
+-last part of the natural sentence in the next source sentence
+-phrase is split by '.' in english, by ; in french, and need to be realigned in french
+
+crunching-multiverse
+-<< >> in french
+-english no () french ( )
+
+data-protection
+
+dorota-gaweda
+-english no () french ( )
+
+emergency-stop
+-6am 6h00
+
+environmental-awareness
+-empty line
+-cambia CERN por Le Laboratoirea
+
+environmental-awareness-related-cern
+-empty line
+
+erroneous-payout
+-(see: (in French only) ) - (cf. missing link
+
+internal-communications
+-5-minute cinq minutes
+
+international-day
+-STEM careers -> not STEM but french words
+
+introduction-new
+-
+
+isolde-data
+-empty line
+
+modification-no
+
+skype-business
+- (en anglais), (en anglais)
+
+swiss-and-french
+
+three-year
+
+very-exciting
+
+7666
+
+05
+adams-mobile
+
+blood-donation
+-8:30 am, 8 h 30 a 15 h 30
+
+cern-health
+
+cern-relay
+-empty line
+-french with an added '!'
+
+
+clic-technology
+
+could-your
+-missing english source (also in original news)
+
+2021
+
+12
+2021-five
+
+accelerators-environment
+english: french :
+(en anglais seulement)
+
+access-organizations-site
+
+annual-adjustments
+en: fr :
+
+burglary-season
+url
+phrase not in french ==> deleted
+
+celebrating-role
+IYBSSD -> annee internationale des sciences fondamentales pour ...
+
+œuvre
+
+cern-and-iupap
+"" <<>>
+
+cern-health-monthly
+en: fr :
+
+cern-health-offices
+phones
+
+cern-receives
+"" <<>>
+
+cern-remuneration
+en: fr :
+
+cms-home
+(en anglais)
+
+compu-sec-disaster
+crown-jewels metaphor not in french
+row-deleted
+8 long sentence
+(en anglais)
+
+environmenta-awareness
+_____________________
+"" <<>>
+
+extension-pre-re
+en: fr :
+
+guardians-tunnel
+"" <<>>
+
+innovation-man
+"" <<>>
+quote made in different lines
+
+launch-new-mandatory
+deleted row, no english part
+
+michel-spiro
+
+new-cern-safety
+"" <<>>
+
+new-opening-h
+en: fr :
+6:30 p.m., 18 h 30
+
+official-holidays
+en: fr :
+
+pensions-payment
+just dates text
+
+register-now-beamline
+
+relive-2021
+
+service-av
+phone numbers
+
+winners-2019
+
+
+
+01 xDDDDDDDDDDDD
+atlas
+
+andre
+"" -> <<>>
+14 They -> André et Alice
+
+base-opens
+4 BASE's -> L'article (no mention of name)
+25 cœur
+""-> <<>>
+urls, BASE : BASE:
+
+cern-and-attract
+"" -> <<>>
+10"opened
+11 closed"
+
+cern-and-elsevier
+Read and Publish -> << Lire et publier >>
+
+cern-procurement
+no Achats in english
+"" -> <<>>
+(en anglais)
+
+cern-remuneration
+dates: -> dates :
+
+cern-shop
+"" <<>>
+
+cms-collab
+"" <<>>, in 2 sentences in french
+
+computer-sec-one
+"" <<>>
+source modified (line removed)
+links: vous : 
+remotely - not -> privilège ; nous
+
+computer-sec-too
+joined many lines
+""<<>>
+i.e. -> c'est-à-dire
+
+distribution-proximity
+english: french :

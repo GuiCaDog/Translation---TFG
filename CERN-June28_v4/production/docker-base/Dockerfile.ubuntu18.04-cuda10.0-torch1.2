@@ -1,0 +1,20 @@
+FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
+
+# Install dependencies
+RUN apt-get update && \
+    apt-get install python3.6 python3-pip virtualenv -y && \
+    apt-get clean && \
+    rm -fr /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+# Install TensorFlow
+RUN pip3 install --upgrade torch==1.2.0
+
+# Change user
+RUN groupadd -g 1100 ttpuser && \
+    useradd -u 1100 -g 1100 ttpuser && \
+    mkdir -p /home/ttpuser/ && \
+    chown ttpuser:ttpuser /home/ttpuser && \
+    mkdir -p /home/ttpuser/gits && chown ttpuser:ttpuser /home/ttpuser/gits
+
+USER ttpuser:ttpuser
+WORKDIR /home/ttpuser

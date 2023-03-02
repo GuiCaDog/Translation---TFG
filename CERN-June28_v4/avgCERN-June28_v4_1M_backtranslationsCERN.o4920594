@@ -1,0 +1,22 @@
++------- PROLOGUE SCRIPT -----------------------------------------------
+|
+| Job ID ...........: 4920594
+| Started at .......: dilluns, 18 de juliol de 2022, 14:53:16 CEST
+| Execution host ...: raimon
+| Cluster queue ....: all.q
+| Script ...........: /opt/sge6-2/default/spool/raimon/job_scripts/4920594
+| > trap "exit 100" ERR; ./average_checkpoints_and_overwrite_best.sh
+|
++------- PROLOGUE SCRIPT -----------------------------------------------
+Namespace(checkpoint_upper_bound=None, inputs=['/scratch/gicado/nmt-scripts-output/experiments/mt/CERN/fairseq_out/CERN-June28_v4_1M_backtranslations'], num_epoch_checkpoints=None, num_update_checkpoints=8, output='/scratch/gicado/nmt-scripts-output/experiments/mt/CERN/fairseq_out/CERN-June28_v4_1M_backtranslations/checkpoint_best.pt')
+averaging checkpoints:  ['/scratch/gicado/nmt-scripts-output/experiments/mt/CERN/fairseq_out/CERN-June28_v4_1M_backtranslations/checkpoint_2_1000000.pt', '/scratch/gicado/nmt-scripts-output/experiments/mt/CERN/fairseq_out/CERN-June28_v4_1M_backtranslations/checkpoint_2_990000.pt', '/scratch/gicado/nmt-scripts-output/experiments/mt/CERN/fairseq_out/CERN-June28_v4_1M_backtranslations/checkpoint_2_980000.pt', '/scratch/gicado/nmt-scripts-output/experiments/mt/CERN/fairseq_out/CERN-June28_v4_1M_backtranslations/checkpoint_2_970000.pt', '/scratch/gicado/nmt-scripts-output/experiments/mt/CERN/fairseq_out/CERN-June28_v4_1M_backtranslations/checkpoint_2_960000.pt', '/scratch/gicado/nmt-scripts-output/experiments/mt/CERN/fairseq_out/CERN-June28_v4_1M_backtranslations/checkpoint_2_950000.pt', '/scratch/gicado/nmt-scripts-output/experiments/mt/CERN/fairseq_out/CERN-June28_v4_1M_backtranslations/checkpoint_2_940000.pt', '/scratch/gicado/nmt-scripts-output/experiments/mt/CERN/fairseq_out/CERN-June28_v4_1M_backtranslations/checkpoint_2_930000.pt']
+Finished writing averaged checkpoint to /scratch/gicado/nmt-scripts-output/experiments/mt/CERN/fairseq_out/CERN-June28_v4_1M_backtranslations/checkpoint_best.pt.
++------- EPILOGUE SCRIPT -----------------------------------------------
+|
+| Job ID ..............: 4920594
+| Stopped at ..........: dilluns, 18 de juliol de 2022, 14:57:30 CEST
+| Resources used ......: cpu=00:00:46, mem=95.56341 GBs, io=23.40524, vmem=3.623G, maxvmem=3.623G
+| Peak memory value ...: 3.623G
+| Total time used .....: 0:04:14
+|
++------- EPILOGUE SCRIPT -----------------------------------------------

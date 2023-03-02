@@ -1,0 +1,182 @@
+[II][GPU AM][2022-05-30 15:41:37] Hostname: punxo.dsic.upv.es
+[II][GPU AM][2022-05-30 15:41:37] New request (JOB_ID 4912403): GPU_mem 6442450944, GPU_cards 0
+[II][GPU AM][2022-05-30 15:41:39] Calling nvidia-smi:
+Mon May 30 15:41:39 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 510.60.02    Driver Version: 510.60.02    CUDA Version: 11.6     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  NVIDIA GeForce ...  Off  | 00000000:19:00.0 Off |                  N/A |
+| 19%   46C    P0    47W / 250W |      0MiB / 11264MiB |      1%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+|   1  NVIDIA GeForce ...  Off  | 00000000:1A:00.0 Off |                  N/A |
+| 20%   56C    P0    65W / 250W |      0MiB / 11264MiB |      1%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+|   2  NVIDIA GeForce ...  Off  | 00000000:67:00.0 Off |                  N/A |
+| 27%   58C    P0    59W / 250W |      0MiB / 11264MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+|   3  NVIDIA GeForce ...  Off  | 00000000:68:00.0 Off |                  N/A |
+| 35%   58C    P0    33W / 250W |      0MiB / 11264MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+
+[II][GPU AM][2022-05-30 15:41:39] Current database status:
+
+{
+  "GPU-2bcbb95f-e839-1452-d232-da0e20bb1459": [],
+  "GPU-a81e1341-6507-9ea7-8892-c820c7c619ed": [
+    {
+      "jid": 4912400,
+      "taskid": null,
+      "name": "cometCERN-deescapeCERN",
+      "user": "arsar",
+      "gpu_card": 0,
+      "gpu_mem": "4096 MB"
+    }
+  ],
+  "GPU-ad1a49fe-20dc-4d80-d9ba-682022d20167": [],
+  "GPU-cb3c828d-632b-4454-f35c-88db94522d96": []
+}
+
+[WW][GPU AM][2022-05-30 15:41:42] I found an unexisting process (JID 4912400) using GPU GPU-a81e1341-6507-9ea7-8892-c820c7c619ed. Fixing DB...
+[II][GPU AM][2022-05-30 15:41:42] Updated database status:
+
+{
+  "GPU-2bcbb95f-e839-1452-d232-da0e20bb1459": [],
+  "GPU-a81e1341-6507-9ea7-8892-c820c7c619ed": [],
+  "GPU-ad1a49fe-20dc-4d80-d9ba-682022d20167": [],
+  "GPU-cb3c828d-632b-4454-f35c-88db94522d96": []
+}
+
+[II][GPU AM][2022-05-30 15:41:42] Current GPU status:
+
+{
+  "GPU-2bcbb95f-e839-1452-d232-da0e20bb1459": {
+    "mem_total": "11264 MB",
+    "mem_free_current": "11016 MB",
+    "mem_free_allocated": "11264 MB",
+    "mem_free_real": "11016 MB",
+    "sge_card_allocated": false,
+    "sge_slots_allocated": 0
+  },
+  "GPU-a81e1341-6507-9ea7-8892-c820c7c619ed": {
+    "mem_total": "11264 MB",
+    "mem_free_current": "11019 MB",
+    "mem_free_allocated": "11264 MB",
+    "mem_free_real": "11019 MB",
+    "sge_card_allocated": false,
+    "sge_slots_allocated": 0
+  },
+  "GPU-ad1a49fe-20dc-4d80-d9ba-682022d20167": {
+    "mem_total": "11264 MB",
+    "mem_free_current": "11019 MB",
+    "mem_free_allocated": "11264 MB",
+    "mem_free_real": "11019 MB",
+    "sge_card_allocated": false,
+    "sge_slots_allocated": 0
+  },
+  "GPU-cb3c828d-632b-4454-f35c-88db94522d96": {
+    "mem_total": "11264 MB",
+    "mem_free_current": "11019 MB",
+    "mem_free_allocated": "11264 MB",
+    "mem_free_real": "11019 MB",
+    "sge_card_allocated": false,
+    "sge_slots_allocated": 0
+  }
+}
+
+[II][GPU AM][2022-05-30 15:41:42] Updated database status:
+
+{
+  "GPU-2bcbb95f-e839-1452-d232-da0e20bb1459": [],
+  "GPU-a81e1341-6507-9ea7-8892-c820c7c619ed": [
+    {
+      "jid": 4912403,
+      "taskid": null,
+      "name": "inferDevTests",
+      "user": "gicado",
+      "gpu_card": 0,
+      "gpu_mem": "6144 MB"
+    }
+  ],
+  "GPU-ad1a49fe-20dc-4d80-d9ba-682022d20167": [],
+  "GPU-cb3c828d-632b-4454-f35c-88db94522d96": []
+}
+
+[II][GPU AM][2022-05-30 15:41:42] Updated GPU status:
+
+{
+  "GPU-2bcbb95f-e839-1452-d232-da0e20bb1459": {
+    "mem_total": "11264 MB",
+    "mem_free_current": "11016 MB",
+    "mem_free_allocated": "11264 MB",
+    "mem_free_real": "11016 MB",
+    "sge_card_allocated": false,
+    "sge_slots_allocated": 0
+  },
+  "GPU-a81e1341-6507-9ea7-8892-c820c7c619ed": {
+    "mem_total": "11264 MB",
+    "mem_free_current": "11019 MB",
+    "mem_free_allocated": "5120 MB",
+    "mem_free_real": "4875 MB",
+    "sge_card_allocated": false,
+    "sge_slots_allocated": 1
+  },
+  "GPU-ad1a49fe-20dc-4d80-d9ba-682022d20167": {
+    "mem_total": "11264 MB",
+    "mem_free_current": "11019 MB",
+    "mem_free_allocated": "11264 MB",
+    "mem_free_real": "11019 MB",
+    "sge_card_allocated": false,
+    "sge_slots_allocated": 0
+  },
+  "GPU-cb3c828d-632b-4454-f35c-88db94522d96": {
+    "mem_total": "11264 MB",
+    "mem_free_current": "11019 MB",
+    "mem_free_allocated": "11264 MB",
+    "mem_free_real": "11019 MB",
+    "sge_card_allocated": false,
+    "sge_slots_allocated": 0
+  }
+}
+
+[II][GPU AM][2022-05-30 15:41:42] Selected GPUs: GPU-a81e1341-6507-9ea7-8892-c820c7c619ed
+
++------- PROLOGUE SCRIPT -----------------------------------------------
+|
+| Job ID ...........: 4912403
+| Started at .......: Mon May 30 15:41:42 UTC 2022
+| Execution host ...: punxo
+| Cluster queue ....: all.q
+| GPUs .............: GPU-a81e1341-6507-9ea7-8892-c820c7c619ed
+| Script ...........: /opt/sge6-2/default/spool/punxo/job_scripts/4912403
+| > trap "exit 100" ERR; ./infer_files.sh
+|
++------- PROLOGUE SCRIPT -----------------------------------------------
+inferred CERN.enfr.dev.en
+inferred CERN.enfr.test.en
+inferred wmt13.enfr.en
+inferred wmt14.enfr.en
++------- EPILOGUE SCRIPT -----------------------------------------------
+|
+| Job ID ..............: 4912403
+| Stopped at ..........: Mon May 30 15:50:04 UTC 2022
+| Resources used ......: cpu=00:07:53, mem=1621.65848 GBs, io=20.56822, vmem=3.626G, maxvmem=3.968G
+| Peak memory value ...: 3.968G
+| Total time used .....: 0:08:27
+|
++------- EPILOGUE SCRIPT -----------------------------------------------
